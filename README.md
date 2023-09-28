@@ -39,6 +39,7 @@ podman run -it docker.io/openos365/openos365-10042-deepinlinux-v23-docker-main-r
 
 sudo podman run -it \
 --cap-add=ALL \
+--privileged=true \
 --tmpfs /tmp \
 --tmpfs /run \
 -v /etc/resolv.conf:/etc/resolv.conf \
