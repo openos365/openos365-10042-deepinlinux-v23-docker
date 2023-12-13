@@ -1,14 +1,14 @@
-FROM openanolis/anolisos:7.9-x86_64
+FROM debian:stable as build
 
-# 1
-COPY files/ /tmp/files/
+WORKDIR /deepin-docker-build
 
-# 2
-USER root
-WORKDIR /root
-ENV USER=root
-ENV HOME=/root
-RUN /tmp/files/install.sh
+ADD . .
 
-# 3
-RUN rm -rf /tmp/files/
+RUN ./build.sh
+
+FROM scratch
+
+COPY --from=build /beige-rootfs /
+
+CMD ["sh"]
+
