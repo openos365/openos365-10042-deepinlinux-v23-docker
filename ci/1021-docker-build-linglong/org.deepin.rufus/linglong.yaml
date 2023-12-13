@@ -1,0 +1,24 @@
+package:
+  id: org.deepin.rufus
+  name: deepin-rufus
+  version: 0.0.1
+  kind: app
+  description: |
+    rufus
+
+runtime:
+  id: org.deepin.base
+  version: 23.11.20
+
+source:
+  kind: git
+  url: "https://github.com/linuxdeepin365/Rufus.git"
+  commit: aef51de5f2f66b24539e4a3d8348cb3a12cf8af3
+
+build:
+  kind: manual
+  manual:
+    build: |
+      ./build.sh
+    install: |
+      ./install.sh

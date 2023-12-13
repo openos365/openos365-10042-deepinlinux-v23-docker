@@ -1,0 +1,12 @@
+{
+    "appid": "org.deepin.base",
+    "arch": [
+        "x86_64"
+    ],
+    "base": "org.deepin.base/23.12.20/x86_64",
+    "description": "base of deepin\n",
+    "kind": "runtime",
+    "name": "",
+    "runtime": "/latest/x86_64",
+    "version": "23.12.20"
+}
