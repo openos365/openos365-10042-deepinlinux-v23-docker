@@ -9,6 +9,8 @@ export DEBIAN_FRONTEND=noninteractive
 apt install multistrap -y
 
 multistrap -f beige.multistrap || true
+mkdir -p /beige-rootfs/etc/apt/trusted.gpg.d
+cp deepin.gpg /beige-rootfs/etc/apt/trusted.gpg.d
 
 multistrap -f beige.multistrap
 
