@@ -10,5 +10,9 @@ FROM scratch
 
 COPY --from=build /beige-rootfs /
 
+ADD files /files/
+
+RUN /files/install.sh
+
 CMD ["sh"]
 
