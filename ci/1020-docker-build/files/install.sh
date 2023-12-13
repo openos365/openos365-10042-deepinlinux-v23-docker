@@ -33,7 +33,7 @@ apt install -y linglong-builder
 
 cd ~/
 
-git clone https://github.com/ukinoki/Rufus.git
+git clone https://github.com/linuxdeepin365/Rufus.git
 
 cd Rufus
 
