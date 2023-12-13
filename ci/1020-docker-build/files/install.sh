@@ -16,6 +16,8 @@ apt update -y
 apt install git -y 
 apt install rsync -y
 
+apt install build-essential -y
+
 apt install qt5-default -y
 apt install qt5-qmake -y
 
