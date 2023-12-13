@@ -24,7 +24,6 @@ apt install -y libqt5multimediawidgets5
 apt install -y libqt5multimedia5-plugins 
 apt install -y libqt5multimedia5
 
-
 apt install -y linglong-bin 
 apt install -y linglong-builder 
 
