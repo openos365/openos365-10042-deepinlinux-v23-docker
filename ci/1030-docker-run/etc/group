@@ -34,5 +34,12 @@ sasl:x:45:
 plugdev:x:46:
 staff:x:50:
 games:x:60:
-users:x:100:
+users:x:100:deepin-linglong
 nogroup:x:65534:
+_ssh:x:101:
+systemd-journal:x:102:
+systemd-network:x:103:
+systemd-resolve:x:104:
+systemd-timesync:x:105:
+messagebus:x:106:
+deepin-linglong:x:400:

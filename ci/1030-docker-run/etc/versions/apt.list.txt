@@ -39,7 +39,7 @@ adb/unknown 1:10.0.0+r36-8 amd64
 adduser/unknown,now 3.131-1deepin2 all [installed]
 adms-dbgsym/unknown 2.3.7-1 amd64
 adms/unknown 2.3.7-1 amd64
-adwaita-icon-theme/unknown 41.0-1 all
+adwaita-icon-theme/unknown,now 41.0-1 all [installed,automatic]
 aeson-pretty/unknown 0.8.8-deepin1 amd64
 afdko-bin-dbgsym/unknown 3.6.2+dfsg1-1 amd64
 afdko-bin/unknown 3.6.2+dfsg1-1 amd64
@@ -72,8 +72,8 @@ alfa/unknown 2.2-1 amd64
 algol68g-dbgsym/unknown 2.8.4-1 amd64
 algol68g/unknown 2.8.4-1 amd64
 allegro4-doc/unknown 2:4.4.3.1-2 all
-alsa-topology-conf/unknown 1.2.5.1-2 all
-alsa-ucm-conf/unknown 1.2.6.3-1 all
+alsa-topology-conf/unknown,now 1.2.5.1-2 all [installed,automatic]
+alsa-ucm-conf/unknown,now 1.2.6.3-1 all [installed,automatic]
 alsa-utils-dbgsym/unknown 1.2.6-2 amd64
 alsa-utils/unknown 1.2.6-2 amd64
 amavisd-new/unknown 1:2.11.1-5 all
@@ -347,7 +347,7 @@ asymptote-x11/unknown 2.70+ds-deepin1 all
 asymptote/unknown 2.70+ds-deepin1 amd64
 at-dbgsym/unknown 3.1.23-1.1 amd64
 at-spi2-core-dbgsym/unknown 2.42.0-deepin amd64
-at-spi2-core/unknown 2.42.0-deepin amd64
+at-spi2-core/unknown,now 2.42.0-deepin amd64 [installed,automatic]
 at-spi2-doc/unknown 2.42.0-deepin all
 at/unknown 3.1.23-1.1 amd64
 atf-sh-dbgsym/unknown 0.21-6 amd64
@@ -527,7 +527,7 @@ binutils-arm-linux-gnueabi-dbg/unknown 2.38-3 amd64
 binutils-arm-linux-gnueabi/unknown 2.38-3 amd64
 binutils-arm-linux-gnueabihf-dbg/unknown 2.38-3 amd64
 binutils-arm-linux-gnueabihf/unknown 2.38-3 amd64
-binutils-common/unknown 2.38-3 amd64
+binutils-common/unknown,now 2.38-3 amd64 [installed,automatic]
 binutils-dev/unknown 2.38-3 amd64
 binutils-doc/unknown 2.38-3 all
 binutils-for-build/unknown 2.38-3 all
@@ -596,10 +596,10 @@ binutils-sparc64-linux-gnu/unknown 2.38-3 amd64
 binutils-x86-64-kfreebsd-gnu-dbg/unknown 2.38-3 amd64
 binutils-x86-64-kfreebsd-gnu/unknown 2.38-3 amd64
 binutils-x86-64-linux-gnu-dbg/unknown 2.38-3 amd64
-binutils-x86-64-linux-gnu/unknown 2.38-3 amd64
+binutils-x86-64-linux-gnu/unknown,now 2.38-3 amd64 [installed,automatic]
 binutils-x86-64-linux-gnux32-dbg/unknown 2.38-3 amd64
 binutils-x86-64-linux-gnux32/unknown 2.38-3 amd64
-binutils/unknown 2.38-3 amd64
+binutils/unknown,now 2.38-3 amd64 [installed,automatic]
 biometric-auth-dbgsym/unknown 0.9.70-1 amd64
 biometric-auth/unknown 0.9.70-1 amd64
 biometric-driver-community-multidevice-dbgsym/unknown 0.9.70-1 amd64
@@ -746,7 +746,7 @@ bubblewrap-dbgsym/unknown 0.5.0-1 amd64
 bubblewrap/unknown 0.5.0-1 amd64
 buffer-dbgsym/unknown 1.19-12 amd64
 buffer/unknown 1.19-12 amd64
-build-essential/unknown 12.9 amd64
+build-essential/unknown,now 12.9 amd64 [installed]
 buildah/unknown 1.28.2+ds1-1+b3 amd64
 buildd/unknown 0.85.0-0deepin all
 buildstream/unknown 1.6.1-1 all
@@ -773,7 +773,7 @@ bytes-circle-dbgsym/unknown 3.1-1 amd64
 bytes-circle/unknown 3.1-1 amd64
 bzip2-dbgsym/unknown 1.0.8-5 amd64
 bzip2-doc/unknown 1.0.8-5 all
-bzip2/unknown 1.0.8-5 amd64
+bzip2/unknown,now 1.0.8-5 amd64 [installed,automatic]
 bzr-doc/unknown 2.7.0+bzr6622+brz all
 bzr/unknown 2.7.0+bzr6622+brz all
 bzrtools/unknown 2.6.0+brz all
@@ -1295,7 +1295,7 @@ cpp-11-s390x-linux-gnu/unknown 11.2.0-9cross1 amd64
 cpp-11-sh4-linux-gnu/unknown 11.2.0-9cross1 amd64
 cpp-11-sparc64-linux-gnu/unknown 11.2.0-9cross1 amd64
 cpp-11-x86-64-linux-gnux32/unknown 11.2.0-9cross1 amd64
-cpp-11/unknown 11.2.0-deepin2+rb2 amd64
+cpp-11/unknown,now 11.2.0-deepin2+rb2 amd64 [installed,automatic]
 cpp-aarch64-linux-gnu/unknown 4:11.2.0-2 amd64
 cpp-alpha-linux-gnu/unknown 4:11.2.0--1 amd64
 cpp-arm-linux-gnueabi/unknown 4:11.2.0-2 amd64
@@ -1319,7 +1319,7 @@ cpp-s390x-linux-gnu/unknown 4:11.2.0-2 amd64
 cpp-sh4-linux-gnu/unknown 4:11.2.0--1 amd64
 cpp-sparc64-linux-gnu/unknown 4:11.2.0--1 amd64
 cpp-x86-64-linux-gnux32/unknown 4:11.2.0--1 amd64
-cpp/unknown 4:11.2.0-2 amd64
+cpp/unknown,now 4:11.2.0-2 amd64 [installed,automatic]
 cppo-dbgsym/unknown 1.6.6-deepin1 amd64
 cppo/unknown 1.6.6-deepin1 amd64
 cpputest/unknown 4.0-2 all
@@ -1470,22 +1470,22 @@ dblatex-doc/unknown 0.3.12py3-1 all
 dblatex/unknown 0.3.12py3-1 all
 dbus-1-doc/unknown 1.12.20-3 all
 dbus-bin-dbgsym/unknown 1.12.20-3 amd64
-dbus-bin/unknown 1.12.20-3 amd64
+dbus-bin/unknown,now 1.12.20-3 amd64 [installed,automatic]
 dbus-broker-dbgsym/unknown 29-3 amd64
 dbus-broker/unknown 29-3 amd64
 dbus-daemon-dbgsym/unknown 1.12.20-3 amd64
-dbus-daemon/unknown 1.12.20-3 amd64
+dbus-daemon/unknown,now 1.12.20-3 amd64 [installed,automatic]
 dbus-dbgsym/unknown 1.12.20-3 amd64
-dbus-session-bus-common/unknown 1.12.20-3 all
-dbus-system-bus-common/unknown 1.12.20-3 all
+dbus-session-bus-common/unknown,now 1.12.20-3 all [installed,automatic]
+dbus-system-bus-common/unknown,now 1.12.20-3 all [installed,automatic]
 dbus-test-runner-dbgsym/unknown 16.10.0~bzr100+repack1-4.1 amd64
 dbus-test-runner/unknown 16.10.0~bzr100+repack1-4.1 amd64
 dbus-tests-dbgsym/unknown 1.12.20-3 amd64
 dbus-tests/unknown 1.12.20-3 amd64
-dbus-user-session/unknown 1.12.20-3 amd64
+dbus-user-session/unknown,now 1.12.20-3 amd64 [installed,automatic]
 dbus-x11-dbgsym/unknown 1.12.20-3 amd64
 dbus-x11/unknown 1.12.20-3 amd64
-dbus/unknown 1.12.20-3 amd64
+dbus/unknown,now 1.12.20-3 amd64 [installed,automatic]
 dc-dbgsym/unknown 1.07.1-deepin1 amd64
 dc/unknown 1.07.1-deepin1 amd64
 dcc-deepinid-plugin-dbgsym/unknown,unknown 2.0.2 amd64
@@ -1502,9 +1502,9 @@ dcmtk/unknown 3.6.6-1 amd64
 dconf-cli-dbgsym/unknown 0.40.0-2 amd64
 dconf-cli/unknown 0.40.0-2 amd64
 dconf-gsettings-backend-dbgsym/unknown 0.40.0-2 amd64
-dconf-gsettings-backend/unknown 0.40.0-2 amd64
+dconf-gsettings-backend/unknown,now 0.40.0-2 amd64 [installed,automatic]
 dconf-service-dbgsym/unknown 0.40.0-2 amd64
-dconf-service/unknown 0.40.0-2 amd64
+dconf-service/unknown,now 0.40.0-2 amd64 [installed,automatic]
 dctrl-tools-dbgsym/unknown 2.24-deepin1 amd64
 dctrl-tools/unknown 2.24-deepin1 amd64
 ddcutil-dbgsym/unknown 0.9.9-2 amd64
@@ -1837,7 +1837,7 @@ designer-qt6-dbgsym/unknown 6.4.2-3deepin amd64
 designer-qt6/unknown 6.4.2-3deepin amd64
 desktop-base/unknown 11.0.3 all
 desktop-file-utils-dbgsym/unknown 0.26-1 amd64
-desktop-file-utils/unknown 0.26-1 amd64
+desktop-file-utils/unknown,now 0.26-1 amd64 [installed,automatic]
 desproxy-dbgsym/unknown 0.1.0~pre3-10.1 amd64
 desproxy/unknown 0.1.0~pre3-10.1 amd64
 devhelp-common/unknown 41.2-1 all
@@ -1951,7 +1951,7 @@ dmidecode/unknown 3.3.1-1+dde amd64
 dmraid-dbgsym/unknown 1.0.0.rc16-9 amd64
 dmraid/unknown 1.0.0.rc16-9 amd64
 dmsetup-dbgsym/unknown 2:1.02.175-2.1 amd64
-dmsetup/unknown 2:1.02.175-2.1 amd64
+dmsetup/unknown,now 2:1.02.175-2.1 amd64 [installed,automatic]
 dmz-cursor-theme/unknown 0.4.5 all
 dnet-common/unknown 2.65 all
 dnet-progs-dbgsym/unknown 2.65 amd64
@@ -2032,7 +2032,7 @@ dpkg-awk/unknown 1.2+nmu2 all
 dpkg-cross/unknown 2.6.18+nmu2 all
 dpkg-dbgsym/unknown 1.21.20-1deepin2+rb6 amd64
 dpkg-dev-el/unknown 37.9 all
-dpkg-dev/unknown 1.21.20-1deepin2+rb6 all
+dpkg-dev/unknown,now 1.21.20-1deepin2+rb6 all [installed,automatic]
 dpkg-repack/unknown 1.48 all
 dpkg-source-gitarchive/unknown 0.1.3 all
 dpkg/unknown,now 1.21.20-1deepin2+rb6 amd64 [installed]
@@ -2281,7 +2281,7 @@ epstool-dbgsym/unknown 3.09-3 amd64
 epstool/unknown 3.09-3 amd64
 epub-utils/unknown 0.2.2-deepin1 amd64
 erofs-utils-dbgsym/unknown 1.5.2-1 amd64
-erofs-utils/unknown 1.5.2-1 amd64
+erofs-utils/unknown,now 1.5.2-1 amd64 [installed,automatic]
 escputil-dbgsym/unknown 5.3.3-7 amd64
 escputil/unknown 5.3.3-7 amd64
 eslint/unknown 5.16.0~dfsg+~4.16.8-7 all
@@ -2367,7 +2367,7 @@ fake-dbgsym/unknown 1.1.11-3 amd64
 fake/unknown 1.1.11-3 amd64
 fakechroot/unknown 2.20.1+ds-2 all
 fakeroot-dbgsym/unknown 1.26-1 amd64
-fakeroot/unknown 1.26-1 amd64
+fakeroot/unknown,now 1.26-1 amd64 [installed,automatic]
 faketime-dbgsym/unknown 0.9.8-9 amd64
 faketime/unknown 0.9.8-9 amd64
 fam/unknown 2.7.0-17.3 amd64
@@ -2890,9 +2890,9 @@ fntsample/unknown 5.4-3 amd64
 folks-common/unknown 0.15.3-deepin1 all
 folks-tools-dbgsym/unknown 0.15.3-deepin1 amd64
 folks-tools/unknown 0.15.3-deepin1 amd64
-fontconfig-config/unknown 2.13.1-4.2 all
+fontconfig-config/unknown,now 2.13.1-4.2 all [installed,automatic]
 fontconfig-dbgsym/unknown 2.13.1-4.2 amd64
-fontconfig/unknown 2.13.1-4.2 amd64
+fontconfig/unknown,now 2.13.1-4.2 amd64 [installed,automatic]
 fontforge-common/unknown 1:20201107~dfsg-4 all
 fontforge-dbgsym/unknown 1:20201107~dfsg-4 amd64
 fontforge-doc/unknown 1:20201107~dfsg-4 all
@@ -2944,7 +2944,7 @@ fonts-crosextra-caladea/unknown 20130214-2.1 all
 fonts-crosextra-carlito/unknown 20130920-1.1 all
 fonts-dancingscript/unknown 1.2-2 all
 fonts-ddc-uchen/unknown 1.0-1.2 all
-fonts-dejavu-core/unknown 2.37-2 all
+fonts-dejavu-core/unknown,now 2.37-2 all [installed,automatic]
 fonts-dejavu-extra/unknown 2.37-2 all
 fonts-dejavu/unknown 2.37-2 all
 fonts-dejima-mincho/unknown 227-16 all
@@ -3255,11 +3255,11 @@ ftp-dbgsym/unknown 0.17-34.1.1 amd64
 ftp/unknown 20210827-4 all
 fuse-dbgsym/unknown 2.9.9.1-1 amd64
 fuse-overlayfs-dbgsym/unknown 1.7.1-1 amd64
-fuse-overlayfs/unknown 1.7.1-1 amd64
+fuse-overlayfs/unknown,now 1.7.1-1 amd64 [installed,automatic]
 fuse2fs-dbgsym/unknown 1.47.0-2 amd64
 fuse2fs/unknown 1.47.0-2 amd64
 fuse3-dbgsym/unknown 3.10.5-1 amd64
-fuse3/unknown 3.10.5-1 amd64
+fuse3/unknown,now 3.10.5-1 amd64 [installed,automatic]
 fuse/unknown 2.9.9.1-1 amd64
 fuseiso-dbgsym/unknown 20070708-3.2 amd64
 fuseiso/unknown 20070708-3.2 amd64
@@ -3320,7 +3320,7 @@ g++-11-s390x-linux-gnu/unknown 11.2.0-9cross1 amd64
 g++-11-sh4-linux-gnu/unknown 11.2.0-9cross1 amd64
 g++-11-sparc64-linux-gnu/unknown 11.2.0-9cross1 amd64
 g++-11-x86-64-linux-gnux32/unknown 11.2.0-9cross1 amd64
-g++-11/unknown 11.2.0-deepin2+rb2 amd64
+g++-11/unknown,now 11.2.0-deepin2+rb2 amd64 [installed,automatic]
 g++-aarch64-linux-gnu/unknown 4:11.2.0-2 amd64
 g++-alpha-linux-gnu/unknown 4:11.2.0--1 amd64
 g++-arm-linux-gnueabi/unknown 4:11.2.0-2 amd64
@@ -3366,7 +3366,7 @@ g++-s390x-linux-gnu/unknown 4:11.2.0-2 amd64
 g++-sh4-linux-gnu/unknown 4:11.2.0--1 amd64
 g++-sparc64-linux-gnu/unknown 4:11.2.0--1 amd64
 g++-x86-64-linux-gnux32/unknown 4:11.2.0--1 amd64
-g++/unknown 4:11.2.0-2 amd64
+g++/unknown,now 4:11.2.0-2 amd64 [installed,automatic]
 gajim-omemo/unknown 2.8.15-1 all
 gajim-openpgp/unknown 1.4.9-1 all
 galculator-dbgsym/unknown 2.1.4-1.1 amd64
@@ -3491,7 +3491,7 @@ gcc-11-sparc64-linux-gnu/unknown 11.2.0-9cross1 amd64
 gcc-11-test-results/unknown 11.2.0-deepin2+rb2 amd64
 gcc-11-x86-64-linux-gnux32-base/unknown 11.2.0-9cross1 amd64
 gcc-11-x86-64-linux-gnux32/unknown 11.2.0-9cross1 amd64
-gcc-11/unknown 11.2.0-deepin2+rb2 amd64
+gcc-11/unknown,now 11.2.0-deepin2+rb2 amd64 [installed,automatic]
 gcc-aarch64-linux-gnu/unknown 4:11.2.0-2 amd64
 gcc-alpha-linux-gnu/unknown 4:11.2.0--1 amd64
 gcc-arm-linux-gnueabi/unknown 4:11.2.0-2 amd64
@@ -3545,7 +3545,7 @@ gcc-s390x-linux-gnu/unknown 4:11.2.0-2 amd64
 gcc-sh4-linux-gnu/unknown 4:11.2.0--1 amd64
 gcc-sparc64-linux-gnu/unknown 4:11.2.0--1 amd64
 gcc-x86-64-linux-gnux32/unknown 4:11.2.0--1 amd64
-gcc/unknown 4:11.2.0-2 amd64
+gcc/unknown,now 4:11.2.0-2 amd64 [installed,automatic]
 gccbrig-11-dbgsym/unknown 11.2.0-deepin2+rb2 amd64
 gccbrig-11-i686-linux-gnu/unknown 11.2.0-9cross1 amd64
 gccbrig-11-x86-64-linux-gnux32/unknown 11.2.0-9cross1 amd64
@@ -4180,13 +4180,13 @@ git-email/unknown 1:2.33.1-1 all
 git-flow/unknown 1.12.3-3 all
 git-gui/unknown 1:2.33.1-1 all
 git-lfs/unknown 3.0.2-1 amd64
-git-man/unknown 1:2.33.1-1 all
+git-man/unknown,now 1:2.33.1-1 all [installed,automatic]
 git-mediawiki/unknown 1:2.33.1-1 all
 git-merge-changelog-dbgsym/unknown 20210822~d383792.1-1+dde amd64
 git-merge-changelog/unknown 20210822~d383792.1-1+dde amd64
 git-notifier/unknown 1:0.6-25-1 all
 git-svn/unknown 1:2.33.1-1 all
-git/unknown 1:2.33.1-1 amd64
+git/unknown,now 1:2.33.1-1 amd64 [installed]
 gita/unknown 0.16.2-1 all
 gitg-dbgsym/unknown 3.32.1-deepin1 amd64
 gitg/unknown 3.32.1-deepin1 amd64
@@ -4208,13 +4208,13 @@ glam2/unknown 1064-9 amd64
 gle-doc/unknown 3.1.0-10 all
 glew-utils-dbgsym/unknown 2.2.0-4 amd64
 glew-utils/unknown 2.2.0-4 amd64
-glib-networking-common/unknown 2.70.0-1 all
+glib-networking-common/unknown,now 2.70.0-1 all [installed,automatic]
 glib-networking-dbgsym/unknown 2.70.0-1 amd64
 glib-networking-services-dbgsym/unknown 2.70.0-1 amd64
-glib-networking-services/unknown 2.70.0-1 amd64
+glib-networking-services/unknown,now 2.70.0-1 amd64 [installed,automatic]
 glib-networking-tests-dbgsym/unknown 2.70.0-1 amd64
 glib-networking-tests/unknown 2.70.0-1 amd64
-glib-networking/unknown 2.70.0-1 amd64
+glib-networking/unknown,now 2.70.0-1 amd64 [installed,automatic]
 glibc-doc/unknown 2.35-deepin1 all
 glibc-source/unknown 2.35-deepin1 all
 glimpse-dbgsym/unknown 4.18.7-6 amd64
@@ -5454,7 +5454,7 @@ gsasl-dbgsym/unknown 1.10.0-5 amd64
 gsasl-doc/unknown 1.10.0-5 all
 gsasl/unknown 1.10.0-5 amd64
 gsettings-desktop-schemas-dev/unknown 41.0-2 amd64
-gsettings-desktop-schemas/unknown 41.0-2 all
+gsettings-desktop-schemas/unknown,now 41.0-2 all [installed,automatic]
 gsfonts-x11/unknown 0.28 all
 gsfonts/unknown 1:8.11+urwcyr1.0.7~pre44-4.5 all
 gsl-bin/unknown 2.7+dfsg-2 amd64
@@ -5479,7 +5479,7 @@ gstreamer1.0-clutter-3.0/unknown 3.0.27-deepin1 amd64
 gstreamer1.0-fluendo-mp3-dbgsym/unknown 0.10.32.deepin-1+back amd64
 gstreamer1.0-fluendo-mp3/unknown 0.10.32.deepin-1+back amd64
 gstreamer1.0-gl-dbgsym/unknown 1.18.5-1 amd64
-gstreamer1.0-gl/unknown 1.18.5-1 amd64
+gstreamer1.0-gl/unknown,now 1.18.5-1 amd64 [installed,automatic]
 gstreamer1.0-gtk3-dbgsym/unknown 1.18.5-deepin1 amd64
 gstreamer1.0-gtk3/unknown 1.18.5-deepin1 amd64
 gstreamer1.0-libav-dbgsym/unknown 1.18.5-1+rb1 amd64
@@ -5504,7 +5504,7 @@ gstreamer1.0-plugins-bad/unknown 1.18.5-deepin1 amd64
 gstreamer1.0-plugins-base-apps-dbgsym/unknown 1.18.5-1 amd64
 gstreamer1.0-plugins-base-apps/unknown 1.18.5-1 amd64
 gstreamer1.0-plugins-base-dbgsym/unknown 1.18.5-1 amd64
-gstreamer1.0-plugins-base/unknown 1.18.5-1 amd64
+gstreamer1.0-plugins-base/unknown,now 1.18.5-1 amd64 [installed,automatic]
 gstreamer1.0-plugins-good-dbgsym/unknown 1.18.5-deepin1 amd64
 gstreamer1.0-plugins-good/unknown 1.18.5-deepin1 amd64
 gstreamer1.0-plugins-ugly-dbgsym/unknown 1.18.5-1+rb1 amd64
@@ -5545,7 +5545,7 @@ gtk-sharp3/unknown 2.99.3-4.1 amd64
 gtk-theme-switch-dbgsym/unknown 2.1.0-5 amd64
 gtk-theme-switch/unknown 2.1.0-5 amd64
 gtk-update-icon-cache-dbgsym/unknown 3.24.30-5+deepin amd64
-gtk-update-icon-cache/unknown 3.24.30-5+deepin amd64
+gtk-update-icon-cache/unknown,now 3.24.30-5+deepin amd64 [installed,automatic]
 gtk-vector-screenshot-dbgsym/unknown 0.3.3-1 amd64
 gtk-vector-screenshot/unknown 0.3.3-1 amd64
 gtk2-engines-dbgsym/unknown 1:2.20.2-deepin1 amd64
@@ -5690,7 +5690,7 @@ hfsutils-dbgsym/unknown 3.2.6-15 amd64
 hfsutils-tcltk-dbgsym/unknown 3.2.6-15 amd64
 hfsutils-tcltk/unknown 3.2.6-15 amd64
 hfsutils/unknown 3.2.6-15 amd64
-hicolor-icon-theme/unknown 0.17-2 all
+hicolor-icon-theme/unknown,now 0.17-2 all [installed,automatic]
 highlight-common/unknown 3.41-deepin1 all
 highlight-dbgsym/unknown 3.41-deepin1 amd64
 highlight.js-doc/unknown 9.18.5+dfsg1-2 all
@@ -6122,7 +6122,7 @@ iscsiuio/unknown 2.1.8-1+rb3 amd64
 ismrmrd-schema/unknown 1.8.0-2 all
 ismrmrd-tools-dbgsym/unknown 1.8.0-2 amd64
 ismrmrd-tools/unknown 1.8.0-2 amd64
-iso-codes/unknown 4.8.0-1 all
+iso-codes/unknown,now 4.8.0-1 all [installed,automatic]
 iso-flags-png-320x240/unknown 1.0.2-1.1 all
 iso-flags-svg/unknown 1.0.2-1.1 all
 isolinux/unknown 3:6.04~git20190206.bf6db5b4+dfsg1-deepin1 all
@@ -6586,7 +6586,7 @@ krb5-kdc-ldap/unknown 1.19.2-2 amd64
 krb5-kdc/unknown 1.19.2-2 amd64
 krb5-kpropd-dbgsym/unknown 1.19.2-2 amd64
 krb5-kpropd/unknown 1.19.2-2 amd64
-krb5-locales/unknown 1.19.2-2 all
+krb5-locales/unknown,now 1.19.2-2 all [installed,automatic]
 krb5-multidev/unknown 1.19.2-2 amd64
 krb5-otp-dbgsym/unknown 1.19.2-2 amd64
 krb5-otp/unknown 1.19.2-2 amd64
@@ -6760,7 +6760,7 @@ lemon/unknown 3.36.0-2 amd64
 leptonica-progs-dbgsym/unknown 1.79.0-1.1 amd64
 leptonica-progs/unknown 1.79.0-1.1 amd64
 less-dbgsym/unknown 551-2 amd64
-less/unknown 551-2 amd64
+less/unknown,now 551-2 amd64 [installed,automatic]
 leveldb-doc/unknown 1.23-3 all
 lfm/unknown 3.1-2 all
 lftp-dbgsym/unknown 4.9.2-1 amd64
@@ -7107,10 +7107,10 @@ libalglib-dev/unknown 3.17.0-3 amd64
 libalglib3.17-dbgsym/unknown 3.17.0-3 amd64
 libalglib3.17/unknown 3.17.0-3 amd64
 libalgorithm-c3-perl/unknown 0.11-1 all
-libalgorithm-diff-perl/unknown 1.201-1 all
+libalgorithm-diff-perl/unknown,now 1.201-1 all [installed,automatic]
 libalgorithm-diff-xs-perl-dbgsym/unknown 0.04-6 amd64
-libalgorithm-diff-xs-perl/unknown 0.04-6 amd64
-libalgorithm-merge-perl/unknown 0.08-3 all
+libalgorithm-diff-xs-perl/unknown,now 0.04-6 amd64 [installed,automatic]
+libalgorithm-merge-perl/unknown,now 0.08-3 all [installed,automatic]
 libaliased-perl/unknown 0.34-1.1 all
 libalien-wxwidgets-perl/unknown 0.69+dfsg-deepin1 amd64
 liballeggl4-dev/unknown 2:4.4.3.1-2 amd64
@@ -7232,7 +7232,7 @@ libapp-cpants-lint-perl/unknown 0.05-6 all
 libapp-fatpacker-perl/unknown 0.010008-1 all
 libapparmor-dev/unknown 3.0.4-3 amd64
 libapparmor1-dbgsym/unknown 3.0.4-3 amd64
-libapparmor1/unknown 3.0.4-3 amd64
+libapparmor1/unknown,now 3.0.4-3 amd64 [installed,automatic]
 libappconfig-perl/unknown 1.71-2.1 all
 libappconfig-std-perl/unknown 1.10-2 all
 libappstream-compose-dev/unknown 0.14.6-1 amd64
@@ -7286,10 +7286,10 @@ libarchive-tools-dbgsym/unknown 3.4.3-deepin1 amd64
 libarchive-tools/unknown 3.4.3-deepin1 amd64
 libarchive-zip-perl/unknown 1.68-1 all
 libarchive13-dbgsym/unknown 3.4.3-deepin1 amd64
-libarchive13/unknown 3.4.3-deepin1 amd64
+libarchive13/unknown,now 3.4.3-deepin1 amd64 [installed,automatic]
 libargon2-0/unknown 0~20171227-0.2 amd64
 libargon2-1-dbgsym/unknown 0~20171227-0.2 amd64
-libargon2-1/unknown 0~20171227-0.2 amd64
+libargon2-1/unknown,now 0~20171227-0.2 amd64 [installed,automatic]
 libargon2-dev/unknown 0~20171227-0.2 amd64
 libargs4j-java-doc/unknown 2.33-1.1 all
 libargs4j-java/unknown 2.33-1.1 all
@@ -7329,7 +7329,7 @@ libasan6-riscv64-cross/unknown 11.2.0-9cross1 all
 libasan6-s390x-cross/unknown 11.2.0-9cross1 all
 libasan6-sparc64-cross/unknown 11.2.0-9cross1 all
 libasan6-x32-cross/unknown 11.2.0-9cross1 all
-libasan6/unknown 11.2.0-deepin2+rb2 amd64
+libasan6/unknown,now 11.2.0-deepin2+rb2 amd64 [installed,automatic]
 libasm-dev/unknown 0.185-2 amd64
 libasm-java-doc/unknown 9.2-1 all
 libasm-java/unknown 9.4-1+rb3 all
@@ -7337,7 +7337,7 @@ libasm1-dbgsym/unknown 0.185-2 amd64
 libasm1/unknown 0.185-2 amd64
 libasn1-8-heimdal-dbgsym/unknown 7.7.0+dfsg-3 amd64
 libasn1-8-heimdal/unknown 7.7.0+dfsg-3 amd64
-libasound2-data/unknown 1.2.6.1.2-deepin1 all
+libasound2-data/unknown,now 1.2.6.1.2-deepin1 all [installed,automatic]
 libasound2-dbgsym/unknown 1.2.6.1.2-deepin1 amd64
 libasound2-dev/unknown 1.2.6.1.2-deepin1 amd64
 libasound2-doc/unknown 1.2.6.1.2-deepin1 all
@@ -7347,7 +7347,7 @@ libasound2-plugin-smixer-dbgsym/unknown 1.2.6.1.2-deepin1 amd64
 libasound2-plugin-smixer/unknown 1.2.6.1.2-deepin1 amd64
 libasound2-plugins-dbgsym/unknown 1.2.6-1 amd64
 libasound2-plugins/unknown 1.2.6-1 amd64
-libasound2/unknown 1.2.6.1.2-deepin1 amd64
+libasound2/unknown,now 1.2.6.1.2-deepin1 amd64 [installed,automatic]
 libaspectj-java-doc/unknown 1.9.2-1 all
 libaspectj-java/unknown 1.9.2-2 all
 libaspectj-maven-plugin-java/unknown 1.11-2 all
@@ -7379,7 +7379,7 @@ libastro1/unknown 4:21.08.3-1 amd64
 libasync-mergepoint-perl/unknown 0.04-2.1 all
 libasyncns-dev/unknown 0.8-deepin1 amd64
 libasyncns0-dbgsym/unknown 0.8-deepin1 amd64
-libasyncns0/unknown 0.8-deepin1 amd64
+libasyncns0/unknown,now 0.8-deepin1 amd64 [installed,automatic]
 libatasmart-bin-dbgsym/unknown 0.19-5 amd64
 libatasmart-bin/unknown 0.19-5 amd64
 libatasmart-dev/unknown 0.19-5 amd64
@@ -7396,14 +7396,14 @@ libatinject-jsr330-tck-java/unknown 1.0+ds1-5 all
 libatk-adaptor-dbgsym/unknown 2.38.0-2 amd64
 libatk-adaptor/unknown 2.38.0-2 amd64
 libatk-bridge2.0-0-dbgsym/unknown 2.38.0-2 amd64
-libatk-bridge2.0-0/unknown 2.38.0-2 amd64
+libatk-bridge2.0-0/unknown,now 2.38.0-2 amd64 [installed,automatic]
 libatk-bridge2.0-dev/unknown 2.38.0-2 amd64
 libatk-wrapper-java-jni-dbgsym/unknown 0.38.0-5 amd64
 libatk-wrapper-java-jni/unknown 0.38.0-5 amd64
 libatk-wrapper-java/unknown 0.38.0-5 all
 libatk1.0-0-dbgsym/unknown 2.36.0-2 amd64
-libatk1.0-0/unknown 2.36.0-2 amd64
-libatk1.0-data/unknown 2.36.0-2 all
+libatk1.0-0/unknown,now 2.36.0-2 amd64 [installed,automatic]
+libatk1.0-data/unknown,now 2.36.0-2 all [installed,automatic]
 libatk1.0-dev/unknown 2.36.0-2 amd64
 libatk1.0-doc/unknown 2.36.0-2 all
 libatk3.0-cil-dbgsym/unknown 2.99.3-4.1 amd64
@@ -7446,12 +7446,12 @@ libatomic1-s390x-cross/unknown 11.2.0-9cross1 all
 libatomic1-sh4-cross/unknown 11.2.0-9cross1 all
 libatomic1-sparc64-cross/unknown 11.2.0-9cross1 all
 libatomic1-x32-cross/unknown 11.2.0-9cross1 all
-libatomic1/unknown 11.2.0-deepin2+rb2 amd64
+libatomic1/unknown,now 11.2.0-deepin2+rb2 amd64 [installed,automatic]
 libatopology-dev/unknown 1.2.6.1.2-deepin1 amd64
 libatopology2-dbgsym/unknown 1.2.6.1.2-deepin1 amd64
 libatopology2/unknown 1.2.6.1.2-deepin1 amd64
 libatspi2.0-0-dbgsym/unknown 2.42.0-deepin amd64
-libatspi2.0-0/unknown 2.42.0-deepin amd64
+libatspi2.0-0/unknown,now 2.42.0-deepin amd64 [installed,automatic]
 libatspi2.0-dev/unknown 2.42.0-deepin amd64
 libattr1-dbgsym/unknown 1:2.5.1-1 amd64
 libattr1-dev/unknown 1:2.5.1-1 amd64
@@ -7500,11 +7500,11 @@ libautovivification-perl-dbgsym/unknown 0.18-deepin1 amd64
 libautovivification-perl/unknown 0.18-deepin1 amd64
 libavahi-client-dev/unknown 0.8-5 amd64
 libavahi-client3-dbgsym/unknown 0.8-5 amd64
-libavahi-client3/unknown 0.8-5 amd64
-libavahi-common-data/unknown 0.8-5 amd64
+libavahi-client3/unknown,now 0.8-5 amd64 [installed,automatic]
+libavahi-common-data/unknown,now 0.8-5 amd64 [installed,automatic]
 libavahi-common-dev/unknown 0.8-5 amd64
 libavahi-common3-dbgsym/unknown 0.8-5 amd64
-libavahi-common3/unknown 0.8-5 amd64
+libavahi-common3/unknown,now 0.8-5 amd64 [installed,automatic]
 libavahi-compat-libdnssd-dev/unknown 0.8-5 amd64
 libavahi-compat-libdnssd1-dbgsym/unknown 0.8-5 amd64
 libavahi-compat-libdnssd1/unknown 0.8-5 amd64
@@ -7513,7 +7513,7 @@ libavahi-core7-dbgsym/unknown 0.8-5 amd64
 libavahi-core7/unknown 0.8-5 amd64
 libavahi-glib-dev/unknown 0.8-5 amd64
 libavahi-glib1-dbgsym/unknown 0.8-5 amd64
-libavahi-glib1/unknown 0.8-5 amd64
+libavahi-glib1/unknown,now 0.8-5 amd64 [installed,automatic]
 libavahi-gobject-dev/unknown 0.8-5 amd64
 libavahi-gobject0-dbgsym/unknown 0.8-5 amd64
 libavahi-gobject0/unknown 0.8-5 amd64
@@ -7685,7 +7685,7 @@ libbind9-161-dbgsym/unknown 1:9.11.19+dfsg-2.1 amd64
 libbind9-161/unknown 1:9.11.19+dfsg-2.1 amd64
 libbindex-java/unknown 2.2+svn101-4 all
 libbinutils-dbg/unknown 2.38-3 amd64
-libbinutils/unknown 2.38-3 amd64
+libbinutils/unknown,now 2.38-3 amd64 [installed,automatic]
 libbiometric-dev/unknown 0.9.70-1 amd64
 libbiometric0-dbgsym/unknown 0.9.70-1 amd64
 libbiometric0/unknown 0.9.70-1 amd64
@@ -7725,7 +7725,7 @@ libblis64-dev/unknown 0.8.1-2 amd64
 libblis64-openmp-dev/unknown 0.8.1-2 amd64
 libblis64-pthread-dev/unknown 0.8.1-2 amd64
 libblis64-serial-dev/unknown 0.8.1-2 amd64
-libblkid-dev/unknown 2.38-5+rb8 amd64
+libblkid-dev/unknown,now 2.38-5+rb8 amd64 [installed,automatic]
 libblkid1-dbgsym/unknown 2.38-5+rb8 amd64
 libblkid1/unknown,now 2.38-5+rb8 amd64 [installed]
 libblockdev-btrfs-dev/unknown 2.26-1deepin amd64
@@ -7962,7 +7962,7 @@ libbrlapi0.8-dbgsym/unknown 6.4-2 amd64
 libbrlapi0.8/unknown 6.4-2 amd64
 libbrotli-dev/unknown 1.0.9-2 amd64
 libbrotli1-dbgsym/unknown 1.0.9-2 amd64
-libbrotli1/unknown 1.0.9-2 amd64
+libbrotli1/unknown,now 1.0.9-2 amd64 [installed,automatic]
 libbs2b-dev/unknown 3.1.0+dfsg-2.2-deepin1 amd64
 libbs2b0-dbgsym/unknown 3.1.0+dfsg-2.2-deepin1 amd64
 libbs2b0/unknown 3.1.0+dfsg-2.2-deepin1 amd64
@@ -7970,7 +7970,7 @@ libbsd-dev/unknown 0.11.3.1-1+dde amd64
 libbsd-resource-perl-dbgsym/unknown 1.2911-1 amd64
 libbsd-resource-perl/unknown 1.2911-1 amd64
 libbsd0-dbgsym/unknown 0.11.3.1-1+dde amd64
-libbsd0/unknown 0.11.3.1-1+dde amd64
+libbsd0/unknown,now 0.11.3.1-1+dde amd64 [installed,automatic]
 libbsf-java-doc/unknown 1:2.4.0-8 all
 libbsf-java/unknown 1:2.4.0-8 all
 libbsh-java/unknown 2.0b4-20+rb2 all
@@ -8052,9 +8052,9 @@ libc-client2007e-dbgsym/unknown 8:2007f~dfsg-deepin1 amd64
 libc-client2007e-dev/unknown 8:2007f~dfsg-deepin1 amd64
 libc-client2007e/unknown 8:2007f~dfsg-deepin1 amd64
 libc-dev-bin-dbgsym/unknown 2.35-deepin1 amd64
-libc-dev-bin/unknown 2.35-deepin1 amd64
+libc-dev-bin/unknown,now 2.35-deepin1 amd64 [installed,automatic]
 libc-devtools-dbgsym/unknown 2.35-deepin1 amd64
-libc-devtools/unknown 2.35-deepin1 amd64
+libc-devtools/unknown,now 2.35-deepin1 amd64 [installed,automatic]
 libc-l10n/unknown 2.35-deepin1 all
 libc3p0-java-doc/unknown 0.9.1.2-10+rb2 all
 libc3p0-java/unknown 0.9.1.2-10+rb2 all
@@ -8129,7 +8129,7 @@ libc6-dev-x32-amd64-cross/unknown 2.32-1cross4 all
 libc6-dev-x32-cross/unknown 2.32-1cross4 all
 libc6-dev-x32-i386-cross/unknown 2.32-1cross4 all
 libc6-dev-x32/unknown 2.35-deepin1 amd64
-libc6-dev/unknown 2.35-deepin1 amd64
+libc6-dev/unknown,now 2.35-deepin1 amd64 [installed,automatic]
 libc6-hppa-cross/unknown 2.32-1cross4 all
 libc6-i386-amd64-cross/unknown 2.32-1cross4 all
 libc6-i386-cross/unknown 2.32-1cross4 all
@@ -8206,7 +8206,7 @@ libcaf-openmpi-3/unknown 2.9.2-3 amd64
 libcairo-gobject-perl-dbgsym/unknown 1.005-3 amd64
 libcairo-gobject-perl/unknown 1.005-3 amd64
 libcairo-gobject2-dbgsym/unknown 1.16.0-5 amd64
-libcairo-gobject2/unknown 1.16.0-5 amd64
+libcairo-gobject2/unknown,now 1.16.0-5 amd64 [installed,automatic]
 libcairo-perl-dbgsym/unknown 1.109-2 amd64
 libcairo-perl/unknown 1.109-2 amd64
 libcairo-script-interpreter2-dbgsym/unknown 1.16.0-5 amd64
@@ -8215,7 +8215,7 @@ libcairo1.10-cil/unknown 2.99.3-4.1 amd64
 libcairo2-dbgsym/unknown 1.16.0-5 amd64
 libcairo2-dev/unknown 1.16.0-5 amd64
 libcairo2-doc/unknown 1.16.0-5 all
-libcairo2/unknown 1.16.0-5 amd64
+libcairo2/unknown,now 1.16.0-5 amd64 [installed,automatic]
 libcairomm-1.0-1v5-dbgsym/unknown 1.14.4-2+rb3 amd64
 libcairomm-1.0-1v5/unknown 1.14.4-2+rb3 amd64
 libcairomm-1.0-dev/unknown 1.14.4-2+rb3 amd64
@@ -8278,7 +8278,7 @@ libcap-ng-utils/unknown 0.7.9-2.2-deepin1 amd64
 libcap-ng0-dbgsym/unknown 0.7.9-2.2-deepin1 amd64
 libcap-ng0/unknown,now 0.7.9-2.2-deepin1 amd64 [installed]
 libcap2-bin-dbgsym/unknown 1:2.44-1 amd64
-libcap2-bin/unknown 1:2.44-1 amd64
+libcap2-bin/unknown,now 1:2.44-1 amd64 [installed,automatic]
 libcap2-dbgsym/unknown 1:2.44-1 amd64
 libcap2/unknown,now 1:2.44-1 amd64 [installed]
 libcapi20-3-dbgsym/unknown 1:3.27-3 amd64
@@ -8323,9 +8323,9 @@ libcattle-1.0-doc/unknown 1.4.0-1 all
 libcbor-dev/unknown 0.8.0-1 amd64
 libcbor-doc/unknown 0.8.0-1 all
 libcbor0.8-dbgsym/unknown 0.8.0-1 amd64
-libcbor0.8/unknown 0.8.0-1 amd64
+libcbor0.8/unknown,now 0.8.0-1 amd64 [installed,automatic]
 libcc1-0-dbgsym/unknown 11.2.0-deepin2+rb2 amd64
-libcc1-0/unknown 11.2.0-deepin2+rb2 amd64
+libcc1-0/unknown,now 11.2.0-deepin2+rb2 amd64 [installed,automatic]
 libccd-dev/unknown 2.1-2 amd64
 libccd2-dbgsym/unknown 2.1-2 amd64
 libccd2/unknown 2.1-2 amd64
@@ -8364,7 +8364,7 @@ libcdio19-dbgsym/unknown 2.1.0-3 amd64
 libcdio19/unknown 2.1.0-3 amd64
 libcdparanoia-dev/unknown 3.10.2+debian-14 amd64
 libcdparanoia0-dbgsym/unknown 3.10.2+debian-14 amd64
-libcdparanoia0/unknown 3.10.2+debian-14 amd64
+libcdparanoia0/unknown,now 3.10.2+debian-14 amd64 [installed,automatic]
 libcdr-0.1-1-dbgsym/unknown 0.1.6-deepin amd64
 libcdr-0.1-1/unknown 0.1.6-deepin amd64
 libcdr-dev/unknown 0.1.6-deepin amd64
@@ -8676,7 +8676,7 @@ libcolord-gtk-dev/unknown 0.1.26-2-deepin1 amd64
 libcolord-gtk1-dbgsym/unknown 0.1.26-2-deepin1 amd64
 libcolord-gtk1/unknown 0.1.26-2-deepin1 amd64
 libcolord2-dbgsym/unknown 1.4.5-3 amd64
-libcolord2/unknown 1.4.5-3 amd64
+libcolord2/unknown,now 1.4.5-3 amd64 [installed,automatic]
 libcolorhug-dev/unknown 1.4.5-3 amd64
 libcolorhug2-dbgsym/unknown 1.4.5-3 amd64
 libcolorhug2/unknown 1.4.5-3 amd64
@@ -8852,7 +8852,7 @@ libcrypt-cbc-perl/unknown 3.04-3 all
 libcrypt-des-ede3-perl/unknown 0.01-2 all
 libcrypt-des-perl-dbgsym/unknown 2.07-4 amd64
 libcrypt-des-perl/unknown 2.07-4 amd64
-libcrypt-dev/unknown 1:4.4.26-1 amd64
+libcrypt-dev/unknown,now 1:4.4.26-1 amd64 [installed,automatic]
 libcrypt-dh-gmp-perl-dbgsym/unknown 0.00012-2 amd64
 libcrypt-dh-gmp-perl/unknown 0.00012-2 amd64
 libcrypt-ecb-perl/unknown 2.22-1 all
@@ -8889,7 +8889,7 @@ libcryptokit-ocaml-dev/unknown 1.16.1-1 amd64
 libcryptokit-ocaml/unknown 1.16.1-1 amd64
 libcryptsetup-dev/unknown 2:2.4.1-2 amd64
 libcryptsetup12-dbgsym/unknown 2:2.4.1-2 amd64
-libcryptsetup12/unknown 2:2.4.1-2 amd64
+libcryptsetup12/unknown,now 2:2.4.1-2 amd64 [installed,automatic]
 libcryptui-dev/unknown 3.12.2-6 amd64
 libcryptui-doc/unknown 3.12.2-6 all
 libcryptui0a-dbgsym/unknown 3.12.2-6 amd64
@@ -8911,9 +8911,9 @@ libcsv-ocaml-dev/unknown 2.4-1 amd64
 libct4-dbgsym/unknown 1.2.3.1-deepin1+rb2 amd64
 libct4/unknown 1.2.3.1-deepin1+rb2 amd64
 libctf-nobfd0-dbg/unknown 2.38-3 amd64
-libctf-nobfd0/unknown 2.38-3 amd64
+libctf-nobfd0/unknown,now 2.38-3 amd64 [installed,automatic]
 libctf0-dbg/unknown 2.38-3 amd64
-libctf0/unknown 2.38-3 amd64
+libctf0/unknown,now 2.38-3 amd64 [installed,automatic]
 libctypes-ocaml-dbgsym/unknown 0.17.1-2 amd64
 libctypes-ocaml-dev/unknown 0.17.1-2 amd64
 libctypes-ocaml/unknown 0.17.1-2 amd64
@@ -8936,7 +8936,7 @@ libcunit1-ncurses/unknown 2.1-3-dfsg-2.4 amd64
 libcunit1/unknown 2.1-3-dfsg-2.4 amd64
 libcups2-dbgsym/unknown 2.3.3op2-7+dde amd64
 libcups2-dev/unknown 2.3.3op2-7+dde amd64
-libcups2/unknown 2.3.3op2-7+dde amd64
+libcups2/unknown,now 2.3.3op2-7+dde amd64 [installed,automatic]
 libcupsfilters-dev/unknown 1.28.17-3deepin amd64
 libcupsfilters1-dbgsym/unknown 1.28.17-3deepin amd64
 libcupsfilters1/unknown 1.28.17-3deepin amd64
@@ -8944,7 +8944,7 @@ libcupsimage2-dbgsym/unknown 2.3.3op2-7+dde amd64
 libcupsimage2-dev/unknown 2.3.3op2-7+dde amd64
 libcupsimage2/unknown 2.3.3op2-7+dde amd64
 libcurl3-gnutls-dbgsym/unknown 7.79.1-2 amd64
-libcurl3-gnutls/unknown 7.79.1-2 amd64
+libcurl3-gnutls/unknown,now 7.79.1-2 amd64 [installed,automatic]
 libcurl3-nss-dbgsym/unknown 7.79.1-2 amd64
 libcurl3-nss/unknown 7.79.1-2 amd64
 libcurl4-dbgsym/unknown 7.79.1-2 amd64
@@ -9040,7 +9040,7 @@ libdatrie-doc/unknown 0.2.13-2 all
 libdatrie1-bin-dbgsym/unknown 0.2.13-2 amd64
 libdatrie1-bin/unknown 0.2.13-2 amd64
 libdatrie1-dbgsym/unknown 0.2.13-2 amd64
-libdatrie1/unknown 0.2.13-2 amd64
+libdatrie1/unknown,now 0.2.13-2 amd64 [installed,automatic]
 libdav1d-dev/unknown 0.9.2-deepin1 amd64
 libdav1d5-dbgsym/unknown 0.9.2-deepin1 amd64
 libdav1d5/unknown 0.9.2-deepin1 amd64
@@ -9097,7 +9097,7 @@ libdbix-safe-perl/unknown 1.2.5-3 all
 libdbix-simple-perl/unknown 1.37-2 all
 libdbm-deep-perl/unknown 2.0016-1 all
 libdbus-1-3-dbgsym/unknown 1.12.20-3 amd64
-libdbus-1-3/unknown 1.12.20-3 amd64
+libdbus-1-3/unknown,now 1.12.20-3 amd64 [installed,automatic]
 libdbus-1-dev/unknown 1.12.20-3 amd64
 libdbus-c++-1-0v5-dbgsym/unknown 0.9.0-9 amd64
 libdbus-c++-1-0v5/unknown 0.9.0-9 amd64
@@ -9155,7 +9155,7 @@ libdcmtk16/unknown 3.6.6-1 amd64
 libdconf-dev/unknown 0.40.0-2 amd64
 libdconf-doc/unknown 0.40.0-2 all
 libdconf1-dbgsym/unknown 0.40.0-2 amd64
-libdconf1/unknown 0.40.0-2 amd64
+libdconf1/unknown,now 0.40.0-2 amd64 [installed,automatic]
 libdd-plist-java/unknown 1.20-1.1 all
 libddcutil-dev/unknown 0.9.9-2 amd64
 libddcutil3-dbgsym/unknown 0.9.9-2 amd64
@@ -9233,7 +9233,7 @@ libdeflate-dev/unknown 1.8-1 amd64
 libdeflate-tools-dbgsym/unknown 1.8-1 amd64
 libdeflate-tools/unknown 1.8-1 amd64
 libdeflate0-dbgsym/unknown 1.8-1 amd64
-libdeflate0/unknown 1.8-1 amd64
+libdeflate0/unknown,now 1.8-1 amd64 [installed,automatic]
 libderby-java/unknown 10.14.2.0-2 all
 libderbyclient-java/unknown 10.14.2.0-2 all
 libdevel-argnames-perl/unknown 0.03-2.1 all
@@ -9278,7 +9278,7 @@ libdevmapper-dev/unknown 2:1.02.175-2.1 amd64
 libdevmapper-event1.02.1-dbgsym/unknown 2:1.02.175-2.1 amd64
 libdevmapper-event1.02.1/unknown 2:1.02.175-2.1 amd64
 libdevmapper1.02.1-dbgsym/unknown 2:1.02.175-2.1 amd64
-libdevmapper1.02.1/unknown 2:1.02.175-2.1 amd64
+libdevmapper1.02.1/unknown,now 2:1.02.175-2.1 amd64 [installed,automatic]
 libdfm-burn-dbgsym/unknown 1.2.15 amd64
 libdfm-burn-dev/unknown 1.2.15 amd64
 libdfm-burn/unknown 1.2.15 amd64
@@ -9407,7 +9407,7 @@ libdotconf0-dbg/unknown 1.3-0.3 amd64
 libdotconf0/unknown 1.3-0.3 amd64
 libdouble-conversion-dev/unknown 3.2.1-1+rb3 amd64
 libdouble-conversion3-dbgsym/unknown 3.2.1-1+rb3 amd64
-libdouble-conversion3/unknown 3.2.1-1+rb3 amd64
+libdouble-conversion3/unknown,now 3.2.1-1+rb3 amd64 [installed,automatic]
 libdoxia-core-java/unknown 1.7-2 all
 libdoxia-java-doc/unknown 1.7-2 all
 libdoxia-java/unknown 1.7-2 all
@@ -9416,25 +9416,25 @@ libdoxia-sitetools-java/unknown 1.7.5-2 all
 libdoxygen-filter-perl/unknown 1.72-2.1 all
 libdpkg-dev/unknown 1.21.20-1deepin2+rb6 amd64
 libdpkg-parse-perl/unknown 0.03-2 all
-libdpkg-perl/unknown 1.21.20-1deepin2+rb6 all
+libdpkg-perl/unknown,now 1.21.20-1deepin2+rb6 all [installed,automatic]
 libdraco-dev/unknown 1.4.3+dfsg-3 amd64
 libdraco1a-dbgsym/unknown 1.4.3+dfsg-3 amd64
 libdraco1a/unknown 1.4.3+dfsg-3 amd64
 libdragonbox-dev/unknown 1.1.0-2 amd64
 libdrm-amdgpu1-dbgsym/unknown 2.4.114-1 amd64
-libdrm-amdgpu1/unknown 2.4.114-1 amd64
-libdrm-common/unknown 2.4.114-1 all
+libdrm-amdgpu1/unknown,now 2.4.114-1 amd64 [installed,automatic]
+libdrm-common/unknown,now 2.4.114-1 all [installed,automatic]
 libdrm-dev/unknown 2.4.114-1 amd64
 libdrm-intel1-dbgsym/unknown 2.4.114-1 amd64
-libdrm-intel1/unknown 2.4.114-1 amd64
+libdrm-intel1/unknown,now 2.4.114-1 amd64 [installed,automatic]
 libdrm-nouveau2-dbgsym/unknown 2.4.114-1 amd64
-libdrm-nouveau2/unknown 2.4.114-1 amd64
+libdrm-nouveau2/unknown,now 2.4.114-1 amd64 [installed,automatic]
 libdrm-radeon1-dbgsym/unknown 2.4.114-1 amd64
-libdrm-radeon1/unknown 2.4.114-1 amd64
+libdrm-radeon1/unknown,now 2.4.114-1 amd64 [installed,automatic]
 libdrm-tests-dbgsym/unknown 2.4.114-1 amd64
 libdrm-tests/unknown 2.4.114-1 amd64
 libdrm2-dbgsym/unknown 2.4.114-1 amd64
-libdrm2/unknown 2.4.114-1 amd64
+libdrm2/unknown,now 2.4.114-1 amd64 [installed,automatic]
 libdropwizard-metrics-java/unknown 3.2.6-1 all
 libdrumstick-alsa2-dbgsym/unknown 2.6.1-1 amd64
 libdrumstick-alsa2/unknown 2.6.1-1 amd64
@@ -9555,7 +9555,7 @@ libdvdread8-dbgsym/unknown 6.1.2-1 amd64
 libdvdread8/unknown 6.1.2-1 amd64
 libdw-dev/unknown 0.185-2 amd64
 libdw1-dbgsym/unknown 0.185-2 amd64
-libdw1/unknown 0.185-2 amd64
+libdw1/unknown,now 0.185-2 amd64 [installed,automatic]
 libdwarf-dev/unknown 20210528-1 amd64
 libdwarf-freebsd-3-dbgsym/unknown 10.3~svn296373-10 amd64
 libdwarf-freebsd-3/unknown 10.3~svn296373-10 amd64
@@ -9771,7 +9771,7 @@ libedataserverui-1.2-3/unknown 3.42.1-deepin amd64
 libedataserverui1.2-dev/unknown 3.42.1-deepin amd64
 libedit-dev/unknown 3.1-20210910-1 amd64
 libedit2-dbgsym/unknown 3.1-20210910-1 amd64
-libedit2/unknown 3.1-20210910-1 amd64
+libedit2/unknown,now 3.1-20210910-1 amd64 [installed,automatic]
 libeditorconfig-dev/unknown 0.12.1-1.1 amd64
 libeditorconfig0-dbg/unknown 0.12.1-1.1 amd64
 libeditorconfig0/unknown 0.12.1-1.1 amd64
@@ -9800,14 +9800,14 @@ libefreet-bin-dbgsym/unknown 1.25.1-1 amd64
 libefreet-bin/unknown 1.25.1-1 amd64
 libefreet1a-dbgsym/unknown 1.25.1-1 amd64
 libefreet1a/unknown 1.25.1-1 amd64
-libegl-dev/unknown 1.3.4-deepin1 amd64
+libegl-dev/unknown,now 1.3.4-deepin1 amd64 [installed,automatic]
 libegl-mesa0-dbgsym/unknown 23.1.2-1deepin1 amd64
-libegl-mesa0/unknown 23.1.2-1deepin1 amd64
+libegl-mesa0/unknown,now 23.1.2-1deepin1 amd64 [installed,automatic]
 libegl-nvidia0/unknown 530.41.03-2 amd64
 libegl1-dbgsym/unknown 1.3.4-deepin1 amd64
 libegl1-mesa-dev/unknown 23.1.2-1deepin1 amd64
 libegl1-mesa/unknown 23.1.2-1deepin1 amd64
-libegl1/unknown 1.3.4-deepin1 amd64
+libegl1/unknown,now 1.3.4-deepin1 amd64 [installed,automatic]
 libehcache-java/unknown 2.6.11-5 all
 libeigen3-dev/unknown 3.4.0-deepin all
 libeigen3-doc/unknown 3.4.0-deepin all
@@ -9835,7 +9835,7 @@ libelf-freebsd-1-dbgsym/unknown 10.3~svn296373-10 amd64
 libelf-freebsd-1/unknown 10.3~svn296373-10 amd64
 libelf-freebsd-dev/unknown 10.3~svn296373-10 amd64
 libelf1-dbgsym/unknown 0.185-2 amd64
-libelf1/unknown 0.185-2 amd64
+libelf1/unknown,now 0.185-2 amd64 [installed,automatic]
 libell-dev/unknown 0.56-3 amd64
 libell0-dbgsym/unknown 0.56-3 amd64
 libell0/unknown 0.56-3 amd64
@@ -9909,7 +9909,7 @@ libeot0-dbgsym/unknown 0.01-deepin1 amd64
 libeot0/unknown 0.01-deepin1 amd64
 libepoxy-dev/unknown 1.5.9-2 amd64
 libepoxy0-dbgsym/unknown 1.5.9-2 amd64
-libepoxy0/unknown 1.5.9-2 amd64
+libepoxy0/unknown,now 1.5.9-2 amd64 [installed,automatic]
 libepr-api-dev/unknown 2.3~dev20150708-11 amd64
 libepr-api2-dbgsym/unknown 2.3~dev20150708-11 amd64
 libepr-api2/unknown 2.3~dev20150708-11 amd64
@@ -9996,8 +9996,8 @@ libequinox-weaving-hook-java/unknown 1.3.0+eclipse4.19-1 all
 libequinox-wireadmin-java/unknown 1.0.800+eclipse4.19-1 all
 liberofs-dev/unknown 1.5.2-1 amd64
 liberofs1-dbgsym/unknown 1.5.2-1 amd64
-liberofs1/unknown 1.5.2-1 amd64
-liberror-perl/unknown 0.17029-1 all
+liberofs1/unknown,now 1.5.2-1 amd64 [installed,automatic]
+liberror-perl/unknown,now 0.17029-1 all [installed,automatic]
 libesmtp-dev/unknown 1.1.0-3 amd64
 libesmtp6-dbgsym/unknown 1.1.0-3 amd64
 libesmtp6/unknown 1.1.0-3 amd64
@@ -10055,7 +10055,7 @@ libevdev-doc/unknown 1.12.0+dfsg-1 all
 libevdev-tools-dbgsym/unknown 1.12.0+dfsg-1 amd64
 libevdev-tools/unknown 1.12.0+dfsg-1 amd64
 libevdev2-dbgsym/unknown 1.12.0+dfsg-1 amd64
-libevdev2/unknown 1.12.0+dfsg-1 amd64
+libevdev2/unknown,now 1.12.0+dfsg-1 amd64 [installed,automatic]
 libevdocument3-4-dbgsym/unknown 41.2-1 amd64
 libevdocument3-4/unknown 41.2-1 amd64
 libevent-2.1-7-dbgsym/unknown 2.1.12-stable-1 amd64
@@ -10106,7 +10106,7 @@ libexo-2-dev/unknown 4.16.2-1 amd64
 libexo-common/unknown 4.16.2-1 all
 libexpat1-dbgsym/unknown 2.4.1-3+rb3 amd64
 libexpat1-dev/unknown 2.4.1-3+rb3 amd64
-libexpat1/unknown 2.4.1-3+rb3 amd64
+libexpat1/unknown,now 2.4.1-3+rb3 amd64 [installed,automatic]
 libexpect-perl/unknown 1.35-2 all
 libexpected-dev/unknown 1.0.0.1-deepin+rb2 all
 libexporter-lite-perl/unknown 0.08-1 all
@@ -10156,7 +10156,7 @@ libfakekey-doc/unknown 0.3+git20170516-2 all
 libfakekey0-dbgsym/unknown 0.3+git20170516-2 amd64
 libfakekey0/unknown 0.3+git20170516-2 amd64
 libfakeroot-dbgsym/unknown 1.26-1 amd64
-libfakeroot/unknown 1.26-1 amd64
+libfakeroot/unknown,now 1.26-1 amd64 [installed,automatic]
 libfaketime-dbgsym/unknown 0.9.8-9 amd64
 libfaketime/unknown 0.9.8-9 amd64
 libfam-dev/unknown 2.7.0-17.3 amd64
@@ -10221,7 +10221,7 @@ libfcitx5utils2-dbgsym/unknown 5.0.23-0deepin1 amd64
 libfcitx5utils2/unknown 5.0.23-0deepin1 amd64
 libfdisk-dev/unknown 2.38-5+rb8 amd64
 libfdisk1-dbgsym/unknown 2.38-5+rb8 amd64
-libfdisk1/unknown 2.38-5+rb8 amd64
+libfdisk1/unknown,now 2.38-5+rb8 amd64 [installed,automatic]
 libfdt-dev/unknown 1.6.0-1 amd64
 libfdt1-dbgsym/unknown 1.6.0-1 amd64
 libfdt1/unknown 1.6.0-1 amd64
@@ -10258,7 +10258,7 @@ libffado2/unknown 2.4.4-3 amd64
 libffcall-dev/unknown 2.4-1 amd64
 libffcall1b-dbgsym/unknown 2.4-1 amd64
 libffcall1b/unknown 2.4-1 amd64
-libffi-dev/unknown 3.4.2.2-1+dde+rb6 amd64
+libffi-dev/unknown,now 3.4.2.2-1+dde+rb6 amd64 [installed,automatic]
 libffi6-dbg/unknown 3.2.1-9 amd64
 libffi6/unknown 3.2.1-9 amd64
 libffi7/unknown 3.3-6 amd64
@@ -10288,7 +10288,7 @@ libfftw3-quad3/unknown 3.3.8-2 amd64
 libfftw3-single3-dbgsym/unknown 3.3.8-2 amd64
 libfftw3-single3/unknown 3.3.8-2 amd64
 libfido2-1-dbgsym/unknown 1.9.0-1 amd64
-libfido2-1/unknown 1.9.0-1 amd64
+libfido2-1/unknown,now 1.9.0-1 amd64 [installed,automatic]
 libfido2-dev/unknown 1.9.0-1 amd64
 libfido2-doc/unknown 1.9.0-1 all
 libfile-basedir-perl/unknown 0.09-1 all
@@ -10300,7 +10300,7 @@ libfile-desktopentry-perl/unknown 0.22-2 all
 libfile-dircompare-perl/unknown 0.7-2 all
 libfile-dirlist-perl/unknown 0.05-2 all
 libfile-fcntllock-perl-dbgsym/unknown 0.22-3 amd64
-libfile-fcntllock-perl/unknown 0.22-3 amd64
+libfile-fcntllock-perl/unknown,now 0.22-3 amd64 [installed,automatic]
 libfile-find-object-perl/unknown 0.3.6-1 all
 libfile-find-rule-perl-perl/unknown 1.15-2 all
 libfile-find-rule-perl/unknown 0.34-1 all
@@ -10362,7 +10362,7 @@ libflac++6v5/unknown 1.3.3-2 amd64
 libflac-dev/unknown 1.3.3-2 amd64
 libflac-doc/unknown 1.3.3-2 all
 libflac8-dbgsym/unknown 1.3.3-2 amd64
-libflac8/unknown 1.3.3-2 amd64
+libflac8/unknown,now 1.3.3-2 amd64 [installed,automatic]
 libflame-dev/unknown 5.2.0-3 amd64
 libflame1-dbgsym/unknown 5.2.0-3 amd64
 libflame1/unknown 5.2.0-3 amd64
@@ -10458,7 +10458,7 @@ libfontconfig-dev/unknown 2.13.1-4.2 amd64
 libfontconfig-doc/unknown 2.13.1-4.2 all
 libfontconfig1-dbgsym/unknown 2.13.1-4.2 amd64
 libfontconfig1-dev/unknown 2.13.1-4.2 amd64
-libfontconfig1/unknown 2.13.1-4.2 amd64
+libfontconfig1/unknown,now 2.13.1-4.2 amd64 [installed,automatic]
 libfontembed-dev/unknown 1.28.17-3deepin amd64
 libfontembed1-dbgsym/unknown 1.28.17-3deepin amd64
 libfontembed1/unknown 1.28.17-3deepin amd64
@@ -10543,7 +10543,7 @@ libfreerdp2-2/unknown 2.10.0+dfsg1-1 amd64
 libfreetype-dev/unknown 2.11.0+dfsg-1 amd64
 libfreetype6-dbgsym/unknown 2.11.0+dfsg-1 amd64
 libfreetype6-dev/unknown 2.11.0+dfsg-1 amd64
-libfreetype6/unknown 2.11.0+dfsg-1 amd64
+libfreetype6/unknown,now 2.11.0+dfsg-1 amd64 [installed,automatic]
 libfreexl-dev/unknown 1.0.6-1 amd64
 libfreexl1-dbgsym/unknown 1.0.6-1 amd64
 libfreexl1/unknown 1.0.6-1 amd64
@@ -10556,7 +10556,7 @@ libfribidi-bin-dbgsym/unknown 1.0.8-2 amd64
 libfribidi-bin/unknown 1.0.8-2 amd64
 libfribidi-dev/unknown 1.0.8-2 amd64
 libfribidi0-dbgsym/unknown 1.0.8-2 amd64
-libfribidi0/unknown 1.0.8-2 amd64
+libfribidi0/unknown,now 1.0.8-2 amd64 [installed,automatic]
 libfs-dev/unknown 2:1.0.8-1 amd64
 libfs6-dbgsym/unknown 2:1.0.8-1 amd64
 libfs6/unknown 2:1.0.8-1 amd64
@@ -10583,9 +10583,9 @@ libfunction-parameters-perl-dbgsym/unknown 2.001003-deepin1 amd64
 libfunction-parameters-perl/unknown 2.001003-deepin1 amd64
 libfuse-dev/unknown 2.9.9.1-1 amd64
 libfuse2-dbgsym/unknown 2.9.9.1-1 amd64
-libfuse2/unknown 2.9.9.1-1 amd64
+libfuse2/unknown,now 2.9.9.1-1 amd64 [installed,automatic]
 libfuse3-3-dbgsym/unknown 3.10.5-1 amd64
-libfuse3-3/unknown 3.10.5-1 amd64
+libfuse3-3/unknown,now 3.10.5-1 amd64 [installed,automatic]
 libfuse3-dev/unknown 3.10.5-1 amd64
 libfuture-asyncawait-perl-dbgsym/unknown 0.54-1 amd64
 libfuture-asyncawait-perl/unknown 0.54-1 amd64
@@ -10650,7 +10650,7 @@ libgavl1-dbgsym/unknown 1.4.0-5 amd64
 libgavl1/unknown 1.4.0-5 amd64
 libgbm-dev/unknown 23.1.2-1deepin1 amd64
 libgbm1-dbgsym/unknown 23.1.2-1deepin1 amd64
-libgbm1/unknown 23.1.2-1deepin1 amd64
+libgbm1/unknown,now 23.1.2-1deepin1 amd64 [installed,automatic]
 libgbtools-dev/unknown 4.44.1+dfsg-7 amd64
 libgbtools0-dbgsym/unknown 4.44.1+dfsg-7 amd64
 libgbtools0/unknown 4.44.1+dfsg-7 amd64
@@ -10687,7 +10687,7 @@ libgcc-11-dev-s390x-cross/unknown 11.2.0-9cross1 all
 libgcc-11-dev-sh4-cross/unknown 11.2.0-9cross1 all
 libgcc-11-dev-sparc64-cross/unknown 11.2.0-9cross1 all
 libgcc-11-dev-x32-cross/unknown 11.2.0-9cross1 all
-libgcc-11-dev/unknown 11.2.0-deepin2+rb2 amd64
+libgcc-11-dev/unknown,now 11.2.0-deepin2+rb2 amd64 [installed,automatic]
 libgcc-s1-alpha-cross/unknown 11.2.0-9cross1 all
 libgcc-s1-amd64-cross/unknown 11.2.0-9cross1 all
 libgcc-s1-arm64-cross/unknown 11.2.0-9cross1 all
@@ -10748,7 +10748,7 @@ libgd-text-perl/unknown 0.86-10 all
 libgd-tools-dbgsym/unknown 2.3.0-2 amd64
 libgd-tools/unknown 2.3.0-2 amd64
 libgd3-dbgsym/unknown 2.3.0-2 amd64
-libgd3/unknown 2.3.0-2 amd64
+libgd3/unknown,now 2.3.0-2 amd64 [installed,automatic]
 libgdal-dev/unknown 3.4.2.1-1+dde amd64
 libgdal-perl-dbgsym/unknown 3.4.2.1-1+dde amd64
 libgdal-perl-doc/unknown 3.4.2.1-1+dde all
@@ -10765,10 +10765,10 @@ libgdata22-dbgsym/unknown 0.18.1-2 amd64
 libgdata22/unknown 0.18.1-2 amd64
 libgdbm-compat-dev/unknown 1.22-1 amd64
 libgdbm-compat4-dbgsym/unknown 1.22-1 amd64
-libgdbm-compat4/unknown 1.22-1 amd64
+libgdbm-compat4/unknown,now 1.22-1 amd64 [installed,automatic]
 libgdbm-dev/unknown 1.22-1 amd64
 libgdbm6-dbgsym/unknown 1.22-1 amd64
-libgdbm6/unknown 1.22-1 amd64
+libgdbm6/unknown,now 1.22-1 amd64 [installed,automatic]
 libgdcm-cil-dbgsym/unknown 3.0.13-deepin1 amd64
 libgdcm-cil/unknown 3.0.13-deepin1 amd64
 libgdcm-dev/unknown 3.0.13-deepin1 amd64
@@ -10783,15 +10783,15 @@ libgdcm3.0/unknown 3.0.13-deepin1 amd64
 libgdiplus-dbgsym/unknown 6.0.4+dfsg-2 amd64
 libgdiplus/unknown 6.0.4+dfsg-2 amd64
 libgdk-pixbuf-2.0-0-dbgsym/unknown 2.42.10+dfsg-1 amd64
-libgdk-pixbuf-2.0-0/unknown 2.42.10+dfsg-1 amd64
+libgdk-pixbuf-2.0-0/unknown,now 2.42.10+dfsg-1 amd64 [installed,automatic]
 libgdk-pixbuf-2.0-dev/unknown 2.42.10+dfsg-1 amd64
 libgdk-pixbuf-xlib-2.0-0-dbgsym/unknown 2.40.2-2 amd64
 libgdk-pixbuf-xlib-2.0-0/unknown 2.40.2-2 amd64
 libgdk-pixbuf-xlib-2.0-dev/unknown 2.40.2-2 amd64
 libgdk-pixbuf2.0-0/unknown 2.40.2-2 amd64
 libgdk-pixbuf2.0-bin-dbgsym/unknown 2.42.10+dfsg-1 amd64
-libgdk-pixbuf2.0-bin/unknown 2.42.10+dfsg-1 amd64
-libgdk-pixbuf2.0-common/unknown 2.42.10+dfsg-1 all
+libgdk-pixbuf2.0-bin/unknown,now 2.42.10+dfsg-1 amd64 [installed,automatic]
+libgdk-pixbuf2.0-common/unknown,now 2.42.10+dfsg-1 all [installed,automatic]
 libgdk-pixbuf2.0-dev/unknown 2.40.2-2 amd64
 libgdk-pixbuf2.0-doc/unknown 2.42.10+dfsg-1 all
 libgdk3.0-cil-dev/unknown 2.99.3-4.1 amd64
@@ -11809,14 +11809,14 @@ libgitlab-api-v4-perl/unknown 0.26-1 all
 libgjs-dev/unknown 1.70.0-3 amd64
 libgjs0g-dbgsym/unknown 1.70.0-3 amd64
 libgjs0g/unknown 1.70.0-3 amd64
-libgl-dev/unknown 1.3.4-deepin1 amd64
+libgl-dev/unknown,now 1.3.4-deepin1 amd64 [installed,automatic]
 libgl1-dbgsym/unknown 1.3.4-deepin1 amd64
 libgl1-mesa-dev/unknown 23.1.2-1deepin1 amd64
 libgl1-mesa-dri-dbgsym/unknown 23.1.2-1deepin1 amd64
-libgl1-mesa-dri/unknown 23.1.2-1deepin1 amd64
+libgl1-mesa-dri/unknown,now 23.1.2-1deepin1 amd64 [installed,automatic]
 libgl1-mesa-glx/unknown 23.1.2-1deepin1 amd64
 libgl1-nvidia-glvnd-glx/unknown 530.41.03-2 amd64
-libgl1/unknown 1.3.4-deepin1 amd64
+libgl1/unknown,now 1.3.4-deepin1 amd64 [installed,automatic]
 libgl2ps-dev/unknown 1.4.2+dfsg1-2 amd64
 libgl2ps-doc/unknown 1.4.2+dfsg1-2 all
 libgl2ps1.4-dbgsym/unknown 1.4.2+dfsg1-2 amd64
@@ -11837,7 +11837,7 @@ libgladeui-common/unknown 3.38.2-5 all
 libgladeui-dev/unknown 3.38.2-5 amd64
 libgladeui-doc/unknown 3.38.2-5 all
 libglapi-mesa-dbgsym/unknown 23.1.2-1deepin1 amd64
-libglapi-mesa/unknown 23.1.2-1deepin1 amd64
+libglapi-mesa/unknown,now 23.1.2-1deepin1 amd64 [installed,automatic]
 libglc-dev/unknown 0.7.2-7 amd64
 libglc0-dbgsym/unknown 0.7.2-7 amd64
 libglc0/unknown 0.7.2-7 amd64
@@ -11874,16 +11874,16 @@ libglib-testing-0-0/unknown 0.1.0-1 amd64
 libglib-testing-0-dev/unknown 0.1.0-1 amd64
 libglib-testing-doc/unknown 0.1.0-1 all
 libglib2.0-0-dbgsym/unknown 2.72.1-1 amd64
-libglib2.0-0/unknown 2.72.1-1 amd64
+libglib2.0-0/unknown,now 2.72.1-1 amd64 [installed,automatic]
 libglib2.0-bin-dbgsym/unknown 2.72.1-1 amd64
-libglib2.0-bin/unknown 2.72.1-1 amd64
+libglib2.0-bin/unknown,now 2.72.1-1 amd64 [installed,automatic]
 libglib2.0-cil-dbgsym/unknown 2.12.40-3-deepin1 amd64
 libglib2.0-cil-dev/unknown 2.12.40-3-deepin1 amd64
 libglib2.0-cil/unknown 2.12.40-3-deepin1 amd64
-libglib2.0-data/unknown 2.72.1-1 all
+libglib2.0-data/unknown,now 2.72.1-1 all [installed,automatic]
 libglib2.0-dev-bin-dbgsym/unknown 2.72.1-1 amd64
-libglib2.0-dev-bin/unknown 2.72.1-1 amd64
-libglib2.0-dev/unknown 2.72.1-1 amd64
+libglib2.0-dev-bin/unknown,now 2.72.1-1 amd64 [installed,automatic]
+libglib2.0-dev/unknown,now 2.72.1-1 amd64 [installed,automatic]
 libglib2.0-doc/unknown 2.72.1-1 all
 libglib2.0-tests-dbgsym/unknown 2.72.1-1 amd64
 libglib2.0-tests/unknown 2.72.1-1 amd64
@@ -11903,8 +11903,8 @@ libglpk-dev/unknown 5.0-1 amd64
 libglpk40-dbgsym/unknown 5.0-1 amd64
 libglpk40/unknown 5.0-1 amd64
 libglu1-mesa-dbgsym/unknown 9.0.1-1 amd64
-libglu1-mesa-dev/unknown 9.0.1-1 amd64
-libglu1-mesa/unknown 9.0.1-1 amd64
+libglu1-mesa-dev/unknown,now 9.0.1-1 amd64 [installed,automatic]
+libglu1-mesa/unknown,now 9.0.1-1 amd64 [installed,automatic]
 libgluegen2-build-java/unknown 2.3.2-8 all
 libgluegen2-doc/unknown 2.3.2-8 all
 libgluegen2-jni/unknown 2.3.2-8 amd64
@@ -11917,13 +11917,13 @@ libglusterfs0/unknown 10.0-1.2 amd64
 libglvnd-core-dev/unknown 1.3.4-deepin1 amd64
 libglvnd-dev/unknown 1.3.4-deepin1 amd64
 libglvnd0-dbgsym/unknown 1.3.4-deepin1 amd64
-libglvnd0/unknown 1.3.4-deepin1 amd64
-libglx-dev/unknown 1.3.4-deepin1 amd64
+libglvnd0/unknown,now 1.3.4-deepin1 amd64 [installed,automatic]
+libglx-dev/unknown,now 1.3.4-deepin1 amd64 [installed,automatic]
 libglx-mesa0-dbgsym/unknown 23.1.2-1deepin1 amd64
-libglx-mesa0/unknown 23.1.2-1deepin1 amd64
+libglx-mesa0/unknown,now 23.1.2-1deepin1 amd64 [installed,automatic]
 libglx-nvidia0/unknown 530.41.03-2 amd64
 libglx0-dbgsym/unknown 1.3.4-deepin1 amd64
-libglx0/unknown 1.3.4-deepin1 amd64
+libglx0/unknown,now 1.3.4-deepin1 amd64 [installed,automatic]
 libgm2-11-dev-alpha-cross/unknown 11.2.0-9cross1 all
 libgm2-11-dev-amd64-cross/unknown 11.2.0-9cross1 all
 libgm2-11-dev-arm64-cross/unknown 11.2.0-9cross1 all
@@ -12146,7 +12146,7 @@ libgomp1-s390x-cross/unknown 11.2.0-9cross1 all
 libgomp1-sh4-cross/unknown 11.2.0-9cross1 all
 libgomp1-sparc64-cross/unknown 11.2.0-9cross1 all
 libgomp1-x32-cross/unknown 11.2.0-9cross1 all
-libgomp1/unknown 11.2.0-deepin2+rb2 amd64
+libgomp1/unknown,now 11.2.0-deepin2+rb2 amd64 [installed,automatic]
 libgoocanvas-2.0-9-dbgsym/unknown 2.0.4-1 amd64
 libgoocanvas-2.0-9/unknown 2.0.4-1 amd64
 libgoocanvas-2.0-common/unknown 2.0.4-1 all
@@ -12179,7 +12179,7 @@ libgpg-error0/unknown,now 1.42-3 amd64 [installed]
 libgpgme-dev-dbgsym/unknown 1.16.0-1.2 amd64
 libgpgme-dev/unknown 1.16.0-1.2 amd64
 libgpgme11-dbgsym/unknown 1.16.0-1.2 amd64
-libgpgme11/unknown 1.16.0-1.2 amd64
+libgpgme11/unknown,now 1.16.0-1.2 amd64 [installed,automatic]
 libgpgmepp-dev/unknown 1.16.0-1.2 amd64
 libgpgmepp-doc/unknown 1.16.0-1.2 all
 libgpgmepp6-dbgsym/unknown 1.16.0-1.2 amd64
@@ -12263,7 +12263,7 @@ libgraph-perl/unknown 1:0.9724-1 all
 libgraphblas5-dbgsym/unknown 1:5.10.1+dfsg-2 amd64
 libgraphblas5/unknown 1:5.10.1+dfsg-2 amd64
 libgraphene-1.0-0-dbgsym/unknown 1.10.6+dfsg1-2 amd64
-libgraphene-1.0-0/unknown 1.10.6+dfsg1-2 amd64
+libgraphene-1.0-0/unknown,now 1.10.6+dfsg1-2 amd64 [installed,automatic]
 libgraphene-1.0-dev/unknown 1.10.6+dfsg1-2 amd64
 libgraphene-doc/unknown 1.10.6+dfsg1-2 all
 libgraphics-magick-perl/unknown 1.4+really1.3.38-1 amd64
@@ -12272,7 +12272,7 @@ libgraphicsmagick++1-dev/unknown 1.4+really1.3.38-1 amd64
 libgraphicsmagick-q16-3/unknown 1.4+really1.3.38-1 amd64
 libgraphicsmagick1-dev/unknown 1.4+really1.3.38-1 amd64
 libgraphite2-3-dbgsym/unknown 1.3.14-1 amd64
-libgraphite2-3/unknown 1.3.14-1 amd64
+libgraphite2-3/unknown,now 1.3.14-1 amd64 [installed,automatic]
 libgraphite2-dev/unknown 1.3.14-1 amd64
 libgraphite2-doc/unknown 1.3.14-1 all
 libgraphite2-utils-dbgsym/unknown 1.3.14-1 amd64
@@ -12329,7 +12329,7 @@ libgspell-1-2/unknown 1.9.1-2+rb1 amd64
 libgspell-1-common/unknown 1.9.1-2+rb1 all
 libgspell-1-dev/unknown 1.9.1-2+rb1 amd64
 libgspell-1-doc/unknown 1.9.1-2+rb1 all
-libgssapi-krb5-2/unknown 1.19.2-2 amd64
+libgssapi-krb5-2/unknown,now 1.19.2-2 amd64 [installed,automatic]
 libgssapi-perl-dbgsym/unknown 0.28-deepin1 amd64
 libgssapi-perl/unknown 0.28-deepin1 amd64
 libgssapi3-heimdal-dbgsym/unknown 7.7.0+dfsg-3 amd64
@@ -12343,17 +12343,17 @@ libgssglue1-dbgsym/unknown 0.7-2 amd64
 libgssglue1/unknown 0.7-2 amd64
 libgssrpc4/unknown 1.19.2-2 amd64
 libgstreamer-gl1.0-0-dbgsym/unknown 1.18.5-1 amd64
-libgstreamer-gl1.0-0/unknown 1.18.5-1 amd64
+libgstreamer-gl1.0-0/unknown,now 1.18.5-1 amd64 [installed,automatic]
 libgstreamer-opencv1.0-0-dbgsym/unknown 1.18.5-deepin1 amd64
 libgstreamer-opencv1.0-0/unknown 1.18.5-deepin1 amd64
 libgstreamer-plugins-bad1.0-0-dbgsym/unknown 1.18.5-deepin1 amd64
 libgstreamer-plugins-bad1.0-0/unknown 1.18.5-deepin1 amd64
 libgstreamer-plugins-bad1.0-dev/unknown 1.18.5-deepin1 amd64
 libgstreamer-plugins-base1.0-0-dbgsym/unknown 1.18.5-1 amd64
-libgstreamer-plugins-base1.0-0/unknown 1.18.5-1 amd64
+libgstreamer-plugins-base1.0-0/unknown,now 1.18.5-1 amd64 [installed,automatic]
 libgstreamer-plugins-base1.0-dev/unknown 1.18.5-1 amd64
 libgstreamer1.0-0-dbgsym/unknown 1.18.5.1-deepin+rb1 amd64
-libgstreamer1.0-0/unknown 1.18.5.1-deepin+rb1 amd64
+libgstreamer1.0-0/unknown,now 1.18.5.1-deepin+rb1 amd64 [installed,automatic]
 libgstreamer1.0-dev-dbgsym/unknown 1.18.5.1-deepin+rb1 amd64
 libgstreamer1.0-dev/unknown 1.18.5.1-deepin+rb1 amd64
 libgstreamermm-1.0-1-dbgsym/unknown 1.10.0+dfsg-4 amd64
@@ -12366,10 +12366,10 @@ libgstrtspserver-1.0-0/unknown 1.18.5-1 amd64
 libgstrtspserver-1.0-dev/unknown 1.18.5-1 amd64
 libgtest-dev/unknown 1.11.0-3 amd64
 libgtk-3-0-dbgsym/unknown 3.24.30-5+deepin amd64
-libgtk-3-0/unknown 3.24.30-5+deepin amd64
+libgtk-3-0/unknown,now 3.24.30-5+deepin amd64 [installed,automatic]
 libgtk-3-bin-dbgsym/unknown 3.24.30-5+deepin amd64
-libgtk-3-bin/unknown 3.24.30-5+deepin amd64
-libgtk-3-common/unknown 3.24.30-5+deepin all
+libgtk-3-bin/unknown,now 3.24.30-5+deepin amd64 [installed,automatic]
+libgtk-3-common/unknown,now 3.24.30-5+deepin all [installed,automatic]
 libgtk-3-dev/unknown 3.24.30-5+deepin amd64
 libgtk-3-doc/unknown 3.24.30-5+deepin all
 libgtk-4-1-dbgsym/unknown 4.4.1+ds1-2 amd64
@@ -12463,7 +12463,7 @@ libgucharmap-2-90-7-dbgsym/unknown 1:14.0.0-1 amd64
 libgucharmap-2-90-7/unknown 1:14.0.0-1 amd64
 libgucharmap-2-90-dev/unknown 1:14.0.0-1 amd64
 libgudev-1.0-0-dbgsym/unknown 237-2 amd64
-libgudev-1.0-0/unknown 237-2 amd64
+libgudev-1.0-0/unknown,now 237-2 amd64 [installed,automatic]
 libgudev-1.0-dev/unknown 237-2 amd64
 libguice-java-doc/unknown 4.2.3-1 all
 libguice-java/unknown 4.2.3-2 all
@@ -12586,7 +12586,7 @@ libharfbuzz-gobject0/unknown 2.7.4-deepin amd64
 libharfbuzz-icu0-dbgsym/unknown 2.7.4-deepin amd64
 libharfbuzz-icu0/unknown 2.7.4-deepin amd64
 libharfbuzz0b-dbgsym/unknown 2.7.4-deepin amd64
-libharfbuzz0b/unknown 2.7.4-deepin amd64
+libharfbuzz0b/unknown,now 2.7.4-deepin amd64 [installed,automatic]
 libharminv-dev/unknown 1.4.1-3 amd64
 libharminv3-dbgsym/unknown 1.4.1-3 amd64
 libharminv3/unknown 1.4.1-3 amd64
@@ -12861,7 +12861,7 @@ libical3/unknown 3.0.11-deepin amd64
 libice-dev/unknown 2:1.0.10-1 amd64
 libice-doc/unknown 2:1.0.10-1 all
 libice6-dbgsym/unknown 2:1.0.10-1 amd64
-libice6/unknown 2:1.0.10-1 amd64
+libice6/unknown,now 2:1.0.10-1 amd64 [installed,automatic]
 libicu-dev/unknown 71.1-3 amd64
 libicu-le-hb-dev/unknown 1.0.3+git180724-3 amd64
 libicu-le-hb0-dbgsym/unknown 1.0.3+git180724-3 amd64
@@ -12869,7 +12869,7 @@ libicu-le-hb0/unknown 1.0.3+git180724-3 amd64
 libicu4j-java-doc/unknown 62.1-2 all
 libicu4j-java/unknown 68.2-2 all
 libicu71-dbgsym/unknown 71.1-3 amd64
-libicu71/unknown 71.1-3 amd64
+libicu71/unknown,now 71.1-3 amd64 [installed,automatic]
 libid3-3.8.3-dev/unknown 3.8.3-16.3 amd64
 libid3-3.8.3v5-dbgsym/unknown 3.8.3-16.3 amd64
 libid3-3.8.3v5/unknown 3.8.3-16.3 amd64
@@ -12990,12 +12990,12 @@ libinotifytools0-dbgsym/unknown 3.22.1.0-2 amd64
 libinotifytools0-dev/unknown 3.22.1.0-2 amd64
 libinotifytools0/unknown 3.22.1.0-2 amd64
 libinput-bin-dbgsym/unknown 1.19.2-2 amd64
-libinput-bin/unknown 1.19.2-2 amd64
+libinput-bin/unknown,now 1.19.2-2 amd64 [installed,automatic]
 libinput-dev/unknown 1.19.2-2 amd64
 libinput-tools-dbgsym/unknown 1.19.2-2 amd64
 libinput-tools/unknown 1.19.2-2 amd64
 libinput10-dbgsym/unknown 1.19.2-2 amd64
-libinput10/unknown 1.19.2-2 amd64
+libinput10/unknown,now 1.19.2-2 amd64 [installed,automatic]
 libinstpatch-1.0-2-dbgsym/unknown 1.1.6-1 amd64
 libinstpatch-1.0-2/unknown 1.1.6-1 amd64
 libinstpatch-dev/unknown 1.1.6-1 amd64
@@ -13044,7 +13044,7 @@ libiodbc2-dev/unknown 3.52.9.1-1+dde amd64
 libiodbc2/unknown 3.52.9.1-1+dde amd64
 libip4tc-dev/unknown 1.8.7-1 amd64
 libip4tc2-dbgsym/unknown 1.8.7-1 amd64
-libip4tc2/unknown 1.8.7-1 amd64
+libip4tc2/unknown,now 1.8.7-1 amd64 [installed,automatic]
 libip6tc-dev/unknown 1.8.7-1 amd64
 libip6tc2-dbgsym/unknown 1.8.7-1 amd64
 libip6tc2/unknown 1.8.7-1 amd64
@@ -13117,7 +13117,7 @@ libiscsi7/unknown 1.19.0-3 amd64
 libisl-dev/unknown 0.24-2 amd64
 libisl22/unknown 0.22.1-1 amd64
 libisl23-dbgsym/unknown 0.24-2 amd64
-libisl23/unknown 0.24-2 amd64
+libisl23/unknown,now 0.24-2 amd64 [installed,automatic]
 libismrmrd-dev/unknown 1.8.0-2 amd64
 libismrmrd-doc/unknown 1.8.0-2 all
 libismrmrd1.8-dbgsym/unknown 1.8.0-2 amd64
@@ -13160,7 +13160,7 @@ libitm1-s390x-cross/unknown 11.2.0-9cross1 all
 libitm1-sh4-cross/unknown 11.2.0-9cross1 all
 libitm1-sparc64-cross/unknown 11.2.0-9cross1 all
 libitm1-x32-cross/unknown 11.2.0-9cross1 all
-libitm1/unknown 11.2.0-deepin2+rb2 amd64
+libitm1/unknown,now 11.2.0-deepin2+rb2 amd64 [installed,automatic]
 libiw-dev/unknown 30~pre9-13.1 amd64
 libiw30-dbgsym/unknown 30~pre9-13.1 amd64
 libiw30/unknown 30~pre9-13.1 amd64
@@ -13241,7 +13241,7 @@ libjaylink0-dbgsym/unknown 0.2.0-1 amd64
 libjaylink0/unknown 0.2.0-1 amd64
 libjbig-dev/unknown 2.1-3.1-deepin1 amd64
 libjbig0-dbgsym/unknown 2.1-3.1-deepin1 amd64
-libjbig0/unknown 2.1-3.1-deepin1 amd64
+libjbig0/unknown,now 2.1-3.1-deepin1 amd64 [installed,automatic]
 libjbig2dec0-dbgsym/unknown 0.19-3 amd64
 libjbig2dec0-dev/unknown 0.19-3 amd64
 libjbig2dec0/unknown 0.19-3 amd64
@@ -13393,7 +13393,7 @@ libjpeg62-dbgsym/unknown 1:6b2-3 amd64
 libjpeg62-dev/unknown 1:6b2-3 amd64
 libjpeg62-turbo-dbgsym/unknown 1:2.1.1-2 amd64
 libjpeg62-turbo-dev/unknown 1:2.1.1-2 amd64
-libjpeg62-turbo/unknown 1:2.1.1-2 amd64
+libjpeg62-turbo/unknown,now 1:2.1.1-2 amd64 [installed,automatic]
 libjpeg62/unknown 1:6b2-3 amd64
 libjpgalleg4-dev/unknown 2:4.4.3.1-2 amd64
 libjpgalleg4.4-dbgsym/unknown 2:4.4.3.1-2 amd64
@@ -13530,7 +13530,7 @@ libjson-c-dev/unknown 0.15-2 amd64
 libjson-c-doc/unknown 0.15-2 all
 libjson-c4/unknown 0.13.1+dfsg-9 amd64
 libjson-c5-dbgsym/unknown 0.15-2 amd64
-libjson-c5/unknown 0.15-2 amd64
+libjson-c5/unknown,now 0.15-2 amd64 [installed,automatic]
 libjson-glib-1.0-0-dbgsym/unknown 1.6.6-1 amd64
 libjson-glib-1.0-0/unknown 1.6.6-1 amd64
 libjson-glib-1.0-common/unknown 1.6.6-1 all
@@ -13603,7 +13603,7 @@ libk3b7-dbgsym/unknown 21.12.3-1 amd64
 libk3b7-extracodecs-dbgsym/unknown 21.12.3-1 amd64
 libk3b7-extracodecs/unknown 21.12.3-1 amd64
 libk3b7/unknown 21.12.3-1 amd64
-libk5crypto3/unknown 1.19.2-2 amd64
+libk5crypto3/unknown,now 1.19.2-2 amd64 [installed,automatic]
 libkaccounts-dev/unknown 4:21.08.0-1 amd64
 libkaccounts2-dbgsym/unknown 4:21.08.0-1 amd64
 libkaccounts2/unknown 4:21.08.0-1 amd64
@@ -13659,7 +13659,7 @@ libkeybinder0-dbgsym/unknown 0.3.1-2.1 amd64
 libkeybinder0/unknown 0.3.1-2.1 amd64
 libkeyutils-dev/unknown 1.6.1-3 amd64
 libkeyutils1-dbgsym/unknown 1.6.1-3 amd64
-libkeyutils1/unknown 1.6.1-3 amd64
+libkeyutils1/unknown,now 1.6.1-3 amd64 [installed,automatic]
 libkeyword-simple-perl-dbgsym/unknown 0.04-2 amd64
 libkeyword-simple-perl/unknown 0.04-2 amd64
 libkf5activities-dev/unknown 5.90.0-1deepin1 amd64
@@ -14330,7 +14330,7 @@ libkmnkbp0-0-dbgsym/unknown 11.0.101-3+u004 amd64
 libkmnkbp0-0/unknown 11.0.101-3+u004 amd64
 libkmod-dev/unknown 29-1 amd64
 libkmod2-dbgsym/unknown 29-1 amd64
-libkmod2/unknown 29-1 amd64
+libkmod2/unknown,now 29-1 amd64 [installed,automatic]
 libknet-dev/unknown 1.22-1 amd64
 libknet-doc/unknown 1.22-1 all
 libknet1-dbgsym/unknown 1.22-1 amd64
@@ -14383,10 +14383,10 @@ libkrad-dev/unknown 1.19.2-2 amd64
 libkrad0/unknown 1.19.2-2 amd64
 libkrb5-26-heimdal-dbgsym/unknown 7.7.0+dfsg-3 amd64
 libkrb5-26-heimdal/unknown 7.7.0+dfsg-3 amd64
-libkrb5-3/unknown 1.19.2-2 amd64
+libkrb5-3/unknown,now 1.19.2-2 amd64 [installed,automatic]
 libkrb5-dbg/unknown 1.19.2-2 amd64
 libkrb5-dev/unknown 1.19.2-2 amd64
-libkrb5support0/unknown 1.19.2-2 amd64
+libkrb5support0/unknown,now 1.19.2-2 amd64 [installed,automatic]
 libkryo-java-doc/unknown 2.20-7 all
 libkryo-java/unknown 2.20-7 all
 libksba-dev/unknown 1.6.0-2 amd64
@@ -14493,7 +14493,7 @@ liblc3-tools/unknown 1.0.3-4 amd64
 liblchown-perl-dbgsym/unknown 1.01-4 amd64
 liblchown-perl/unknown 1.01-4 amd64
 liblcms2-2-dbgsym/unknown 2.12~rc1-2 amd64
-liblcms2-2/unknown 2.12~rc1-2 amd64
+liblcms2-2/unknown,now 2.12~rc1-2 amd64 [installed,automatic]
 liblcms2-dev/unknown 2.12~rc1-2 amd64
 liblcms2-utils-dbgsym/unknown 2.12~rc1-2 amd64
 liblcms2-utils/unknown 2.12~rc1-2 amd64
@@ -14609,7 +14609,7 @@ libllvm-14-ocaml-dev/unknown 1:14.0.6-deepin amd64
 libllvm-ocaml-dev/unknown 1:13.0-54 amd64
 libllvm12/unknown 1:12.0.1-16 amd64
 libllvm13-dbgsym/unknown 1:13.0.1-deepin amd64
-libllvm13/unknown 1:13.0.1-deepin amd64
+libllvm13/unknown,now 1:13.0.1-deepin amd64 [installed,automatic]
 libllvm14-dbgsym/unknown 1:14.0.6-deepin amd64
 libllvm14/unknown 1:14.0.6-deepin amd64
 libllvmspirvlib-dev/unknown 13.0.0-2 amd64
@@ -14712,7 +14712,7 @@ liblsan0-amd64-cross/unknown 11.2.0-9cross1 all
 liblsan0-arm64-cross/unknown 11.2.0-9cross1 all
 liblsan0-ppc64-cross/unknown 11.2.0-9cross1 all
 liblsan0-ppc64el-cross/unknown 11.2.0-9cross1 all
-liblsan0/unknown 11.2.0-deepin2+rb2 amd64
+liblsan0/unknown,now 11.2.0-deepin2+rb2 amd64 [installed,automatic]
 liblsofui9-dbgsym/unknown 4:5.23.3-1 amd64
 liblsofui9/unknown 4:5.23.3-1 amd64
 libltc-dev/unknown 1.3.1-1 amd64
@@ -15074,7 +15074,7 @@ libmd4c-html0-dbgsym/unknown 0.4.8-1 amd64
 libmd4c-html0-dev/unknown 0.4.8-1 amd64
 libmd4c-html0/unknown 0.4.8-1 amd64
 libmd4c0-dbgsym/unknown 0.4.8-1 amd64
-libmd4c0/unknown 0.4.8-1 amd64
+libmd4c0/unknown,now 0.4.8-1 amd64 [installed,automatic]
 libmdds-dev/unknown 2.0.3-1+rb3 all
 libmdds-doc/unknown 2.0.3-1+rb3 all
 libmeanwhile-dev/unknown 1.1.1-2 amd64
@@ -15482,7 +15482,7 @@ libmoox-aliases-perl/unknown 0.001006-1.1 all
 libmoox-role-logger-perl/unknown 0.005-2 all
 libmoox-struct-perl/unknown 0.020-1 all
 libmorfologik-stemming-java/unknown 1.9.0+dfsg-1 all
-libmount-dev/unknown 2.38-5+rb8 amd64
+libmount-dev/unknown,now 2.38-5+rb8 amd64 [installed,automatic]
 libmount1-dbgsym/unknown 2.38-5+rb8 amd64
 libmount1/unknown,now 2.38-5+rb8 amd64 [installed]
 libmouse-perl-dbgsym/unknown 2.5.10-deepin1 amd64
@@ -15510,7 +15510,7 @@ libmpack0-dbgsym/unknown 1.0.5-3 amd64
 libmpack0/unknown 1.0.5-3 amd64
 libmpc-dev/unknown 1.2.1-1 amd64
 libmpc3-dbgsym/unknown 1.2.1-1 amd64
-libmpc3/unknown 1.2.1-1 amd64
+libmpc3/unknown,now 1.2.1-1 amd64 [installed,automatic]
 libmpcdec-dev/unknown 2:0.1~r495-2 amd64
 libmpcdec6-dbgsym/unknown 2:0.1~r495-2 amd64
 libmpcdec6/unknown 2:0.1~r495-2 amd64
@@ -15521,7 +15521,7 @@ libmpdclient2/unknown 2.19-1 amd64
 libmpdec-dev/unknown 2.5.1-2 amd64
 libmpdec-doc/unknown 2.5.1-2 all
 libmpdec3-dbgsym/unknown 2.5.1-2 amd64
-libmpdec3/unknown 2.5.1-2 amd64
+libmpdec3/unknown,now 2.5.1-2 amd64 [installed,automatic]
 libmpeg2-4-dbgsym/unknown 0.5.1-9 amd64
 libmpeg2-4-dev/unknown 0.5.1-9 amd64
 libmpeg2-4/unknown 0.5.1-9 amd64
@@ -15533,7 +15533,7 @@ libmpeg3-dev/unknown 1.8.dfsg-3 amd64
 libmpfr-dev/unknown 4.1.0-3 amd64
 libmpfr-doc/unknown 4.1.0-3 all
 libmpfr6-dbgsym/unknown 4.1.0-3 amd64
-libmpfr6/unknown 4.1.0-3 amd64
+libmpfr6/unknown,now 4.1.0-3 amd64 [installed,automatic]
 libmpfrc++-dev/unknown 3.6.9+ds-1 all
 libmpg123-0-dbgsym/unknown 1.31.1-1+rb2 amd64
 libmpg123-0/unknown 1.31.1-1+rb2 amd64
@@ -15581,7 +15581,7 @@ libmsv-java/unknown 2009.1+dfsg1-6 all
 libmtd-dev/unknown 1:2.1.3-1 amd64
 libmtdev-dev/unknown 1.1.6-1 amd64
 libmtdev1-dbgsym/unknown 1.1.6-1 amd64
-libmtdev1/unknown 1.1.6-1 amd64
+libmtdev1/unknown,now 1.1.6-1 amd64 [installed,automatic]
 libmtp-common/unknown 1.1.19-1 all
 libmtp-dev/unknown 1.1.19-1 amd64
 libmtp-doc/unknown 1.1.19-1 all
@@ -15943,7 +15943,7 @@ libnftnl-dev/unknown 1.2.0-1 amd64
 libnftnl11-dbgsym/unknown 1.2.0-1 amd64
 libnftnl11/unknown 1.2.0-1 amd64
 libnghttp2-14-dbgsym/unknown 1.43.0-1 amd64
-libnghttp2-14/unknown 1.43.0-1 amd64
+libnghttp2-14/unknown,now 1.43.0-1 amd64 [installed,automatic]
 libnghttp2-dev/unknown 1.43.0-1 amd64
 libnghttp2-doc/unknown 1.43.0-1 all
 libnginx-mod-http-auth-pam-dbgsym/unknown 1.20.2-2 amd64
@@ -16060,12 +16060,12 @@ libnpth-mingw-w64-dev/unknown 1.6-3 all
 libnpth0-dbgsym/unknown 1.6-3 amd64
 libnpth0-dev/unknown 1.6-3 amd64
 libnpth0/unknown,now 1.6-3 amd64 [installed]
-libnsl-dev/unknown 1.3.0-2 amd64
+libnsl-dev/unknown,now 1.3.0-2 amd64 [installed,automatic]
 libnsl2-dbgsym/unknown 1.3.0-2 amd64
-libnsl2/unknown 1.3.0-2 amd64
+libnsl2/unknown,now 1.3.0-2 amd64 [installed,automatic]
 libnspr4-dbgsym/unknown 2:4.32.1-1+dde amd64
 libnspr4-dev/unknown 2:4.32.1-1+dde amd64
-libnspr4/unknown 2:4.32.1-1+dde amd64
+libnspr4/unknown,now 2:4.32.1-1+dde amd64 [installed,automatic]
 libnss-cache-dbgsym/unknown 0.18-2 amd64
 libnss-cache/unknown 0.18-2 amd64
 libnss-docker-dbgsym/unknown 0.02-1 amd64
@@ -16085,7 +16085,7 @@ libnss-mymachines/unknown 250.4.2-deepin2+rb2 amd64
 libnss-resolve-dbgsym/unknown 250.4.2-deepin2+rb2 amd64
 libnss-resolve/unknown 250.4.2-deepin2+rb2 amd64
 libnss-systemd-dbgsym/unknown 250.4.2-deepin2+rb2 amd64
-libnss-systemd/unknown 250.4.2-deepin2+rb2 amd64
+libnss-systemd/unknown,now 250.4.2-deepin2+rb2 amd64 [installed,automatic]
 libnss-winbind-dbgsym/unknown 2:4.16.11+dfsg-1 amd64
 libnss-winbind/unknown 2:4.16.11+dfsg-1 amd64
 libnss-wrapper-dbgsym/unknown 1.1.11-1 amd64
@@ -16094,7 +16094,7 @@ libnss3-dbgsym/unknown 2:3.72-2 amd64
 libnss3-dev/unknown 2:3.72-2 amd64
 libnss3-tools-dbgsym/unknown 2:3.72-2 amd64
 libnss3-tools/unknown 2:3.72-2 amd64
-libnss3/unknown 2:3.72-2 amd64
+libnss3/unknown,now 2:3.72-2 amd64 [installed,automatic]
 libntfs-3g89-dbgsym/unknown 1:2021.8.22-3 amd64
 libntfs-3g89/unknown 1:2021.8.22-3 amd64
 libntlm0-dbgsym/unknown 1.6-4 amd64
@@ -16271,7 +16271,7 @@ libogdi4.1-dbgsym/unknown 4.1.0+ds-deepin1 amd64
 libogdi4.1/unknown 4.1.0+ds-deepin1 amd64
 libogg-dbg/unknown 1.3.4-0.1deepin amd64
 libogg-dev/unknown 1.3.4-0.1deepin amd64
-libogg0/unknown 1.3.4-0.1deepin amd64
+libogg0/unknown,now 1.3.4-0.1deepin amd64 [installed,automatic]
 liboggkate-dev/unknown 0.4.1-11 amd64
 liboggkate1-dbgsym/unknown 0.4.1-11 amd64
 liboggkate1/unknown 0.4.1-11 amd64
@@ -16467,7 +16467,7 @@ libopenjfx-jni-dbgsym/unknown 11.0.11+0-1 amd64
 libopenjfx-jni/unknown 11.0.11+0-1 amd64
 libopenjp2-7-dbgsym/unknown 2.5.0-1+rb1 amd64
 libopenjp2-7-dev/unknown 2.5.0-1+rb1 amd64
-libopenjp2-7/unknown 2.5.0-1+rb1 amd64
+libopenjp2-7/unknown,now 2.5.0-1+rb1 amd64 [installed,automatic]
 libopenjp2-tools-dbgsym/unknown 2.5.0-1+rb1 amd64
 libopenjp2-tools/unknown 2.5.0-1+rb1 amd64
 libopenjp3d-tools/unknown 2.4.0-3 amd64
@@ -16528,13 +16528,13 @@ libopts25/unknown 1:5.18.16.1-1+dde amd64
 libopus-dbg/unknown 1.3.1-0.1 amd64
 libopus-dev/unknown 1.3.1-0.1 amd64
 libopus-doc/unknown 1.3.1-0.1 all
-libopus0/unknown 1.3.1-0.1 amd64
+libopus0/unknown,now 1.3.1-0.1 amd64 [installed,automatic]
 libopusfile-dbg/unknown 0.9+20170913-1.1 amd64
 libopusfile-dev/unknown 0.9+20170913-1.1 amd64
 libopusfile-doc/unknown 0.9+20170913-1.1 all
 libopusfile0/unknown 0.9+20170913-1.1 amd64
 liborc-0.4-0-dbgsym/unknown 1:0.4.32-2 amd64
-liborc-0.4-0/unknown 1:0.4.32-2 amd64
+liborc-0.4-0/unknown,now 1:0.4.32-2 amd64 [installed,automatic]
 liborc-0.4-dev-bin-dbgsym/unknown 1:0.4.32-2 amd64
 liborc-0.4-dev-bin/unknown 1:0.4.32-2 amd64
 liborc-0.4-dev/unknown 1:0.4.32-2 amd64
@@ -16609,7 +16609,7 @@ libossp-uuid-perl/unknown 1.6.2-1.5+b9 amd64
 libossp-uuid16-dbgsym/unknown 1.6.2-1.5 amd64
 libossp-uuid16/unknown 1.6.2-1.5+b9 amd64
 libostree-1-1-dbgsym/unknown 2022.4.1-1+dde amd64
-libostree-1-1/unknown 2022.4.1-1+dde amd64
+libostree-1-1/unknown,now 2022.4.1-1+dde amd64 [installed,automatic]
 libostree-dev/unknown 2022.4.1-1+dde amd64
 libostree-doc/unknown 2022.4.1-1+dde all
 libostyle-dev/unknown 1.4devel1-22 amd64
@@ -16669,7 +16669,7 @@ libpam-apparmor/unknown 3.0.4-3 amd64
 libpam-barada-dbgsym/unknown 0.5-3.2 amd64
 libpam-barada/unknown 0.5-3.2 amd64
 libpam-cap-dbgsym/unknown 1:2.44-1 amd64
-libpam-cap/unknown 1:2.44-1 amd64
+libpam-cap/unknown,now 1:2.44-1 amd64 [installed,automatic]
 libpam-cgfs-dbgsym/unknown 1:4.0.11-1 amd64
 libpam-cgfs/unknown 1:4.0.11-1 amd64
 libpam-cgroup-dbgsym/unknown 2.0-2 amd64
@@ -16703,7 +16703,7 @@ libpam-runtime/unknown,now 1.4.0-14deepin1 all [installed]
 libpam-slurm-adopt/unknown 21.08.8.2-1 amd64
 libpam-slurm/unknown 21.08.8.2-1 amd64
 libpam-systemd-dbgsym/unknown 250.4.2-deepin2+rb2 amd64
-libpam-systemd/unknown 250.4.2-deepin2+rb2 amd64
+libpam-systemd/unknown,now 250.4.2-deepin2+rb2 amd64 [installed,automatic]
 libpam-winbind-dbgsym/unknown 2:4.16.11+dfsg-1 amd64
 libpam-winbind/unknown 2:4.16.11+dfsg-1 amd64
 libpam-wrapper-dbgsym/unknown 1.1.3-deepin1 amd64
@@ -16715,7 +16715,7 @@ libpamtest0-dbgsym/unknown 1.1.3-deepin1 amd64
 libpamtest0-dev/unknown 1.1.3-deepin1 amd64
 libpamtest0/unknown 1.1.3-deepin1 amd64
 libpango-1.0-0-dbgsym/unknown 1.48.10+ds1-1 amd64
-libpango-1.0-0/unknown 1.48.10+ds1-1 amd64
+libpango-1.0-0/unknown,now 1.48.10+ds1-1 amd64 [installed,automatic]
 libpango-perl-dbgsym/unknown 1.227-3 amd64
 libpango-perl/unknown 1.227-3 amd64
 libpango1.0-0/unknown 1.48.10+ds1-1 amd64
@@ -16724,9 +16724,9 @@ libpango1.0-doc/unknown 1.48.10+ds1-1 all
 libpango3.0-cil-dbgsym/unknown 2.99.3-4.1 amd64
 libpango3.0-cil/unknown 2.99.3-4.1 amd64
 libpangocairo-1.0-0-dbgsym/unknown 1.48.10+ds1-1 amd64
-libpangocairo-1.0-0/unknown 1.48.10+ds1-1 amd64
+libpangocairo-1.0-0/unknown,now 1.48.10+ds1-1 amd64 [installed,automatic]
 libpangoft2-1.0-0-dbgsym/unknown 1.48.10+ds1-1 amd64
-libpangoft2-1.0-0/unknown 1.48.10+ds1-1 amd64
+libpangoft2-1.0-0/unknown,now 1.48.10+ds1-1 amd64 [installed,automatic]
 libpangomm-1.4-1v5-dbgsym/unknown 2.46.1-1 amd64
 libpangomm-1.4-1v5/unknown 2.46.1-1 amd64
 libpangomm-1.4-dev/unknown 2.46.1-1 amd64
@@ -16803,28 +16803,28 @@ libpci3-dbgsym/unknown 1:3.10.0-2 amd64
 libpci3/unknown 1:3.10.0-2 amd64
 libpciaccess-dev/unknown 0.16-1 amd64
 libpciaccess0-dbgsym/unknown 0.16-1 amd64
-libpciaccess0/unknown 0.16-1 amd64
+libpciaccess0/unknown,now 0.16-1 amd64 [installed,automatic]
 libpcl1-dbgsym/unknown 1.12-2 amd64
 libpcl1-dev/unknown 1.12-2 amd64
 libpcl1/unknown 1.12-2 amd64
 libpcre++-dev/unknown 0.9.5-7 amd64
 libpcre++0v5-dbgsym/unknown 0.9.5-7 amd64
 libpcre++0v5/unknown 0.9.5-7 amd64
-libpcre16-3/unknown 2:8.39-13 amd64
+libpcre16-3/unknown,now 2:8.39-13 amd64 [installed,automatic]
 libpcre2-16-0-dbgsym/unknown 10.39-2 amd64
-libpcre2-16-0/unknown 10.39-2 amd64
+libpcre2-16-0/unknown,now 10.39-2 amd64 [installed,automatic]
 libpcre2-32-0-dbgsym/unknown 10.39-2 amd64
-libpcre2-32-0/unknown 10.39-2 amd64
+libpcre2-32-0/unknown,now 10.39-2 amd64 [installed,automatic]
 libpcre2-8-0-dbgsym/unknown 10.39-2 amd64
 libpcre2-8-0/unknown,now 10.39-2 amd64 [installed]
-libpcre2-dev/unknown 10.39-2 amd64
+libpcre2-dev/unknown,now 10.39-2 amd64 [installed,automatic]
 libpcre2-posix3-dbgsym/unknown 10.39-2 amd64
-libpcre2-posix3/unknown 10.39-2 amd64
+libpcre2-posix3/unknown,now 10.39-2 amd64 [installed,automatic]
 libpcre3-dbg/unknown 2:8.39-13 amd64
-libpcre3-dev/unknown 2:8.39-13 amd64
-libpcre32-3/unknown 2:8.39-13 amd64
+libpcre3-dev/unknown,now 2:8.39-13 amd64 [installed,automatic]
+libpcre32-3/unknown,now 2:8.39-13 amd64 [installed,automatic]
 libpcre3/unknown,now 2:8.39-13 amd64 [installed]
-libpcrecpp0v5/unknown 2:8.39-13 amd64
+libpcrecpp0v5/unknown,now 2:8.39-13 amd64 [installed,automatic]
 libpcsc-perl-dbgsym/unknown 1.4.14-5 amd64
 libpcsc-perl/unknown 1.4.14-5 amd64
 libpcsclite-dev-dbgsym/unknown 1.9.4-1 amd64
@@ -16862,7 +16862,7 @@ libperl-osnames-perl/unknown 0.122-1 all
 libperl-prereqscanner-notquitelite-perl/unknown 0.9914-1 all
 libperl4-corelibs-perl/unknown 0.004-2 all
 libperl5.30/unknown 5.30.3-4 amd64
-libperl5.32/unknown 5.32.1-7 amd64
+libperl5.32/unknown,now 5.32.1-7 amd64 [installed,automatic]
 libperl6-export-perl/unknown 0.009-1.1 all
 libperl6-slurp-perl/unknown 0.051005-1.1 all
 libperlio-gzip-perl-dbgsym/unknown 0.19-1-deepin1 amd64
@@ -17008,7 +17008,7 @@ libpipewire-0.3-modules/unknown 0.3.74-1 amd64
 libpixels-java/unknown 2.1.3+svn.42-3 all
 libpixie-java/unknown 1:1.1.6-4 all
 libpixman-1-0-dbgsym/unknown 0.40.0-1 amd64
-libpixman-1-0/unknown 0.40.0-1 amd64
+libpixman-1-0/unknown,now 0.40.0-1 amd64 [installed,automatic]
 libpixman-1-dev/unknown 0.40.0-1 amd64
 libpkcs11-helper1-dbgsym/unknown 1.28-1 amd64
 libpkcs11-helper1-dev/unknown 1.28-1 amd64
@@ -17117,7 +17117,7 @@ libpng-dev/unknown 1.6.37-3 amd64
 libpng-tools-dbgsym/unknown 1.6.37-3 amd64
 libpng-tools/unknown 1.6.37-3 amd64
 libpng16-16-dbgsym/unknown 1.6.37-3 amd64
-libpng16-16/unknown 1.6.37-3 amd64
+libpng16-16/unknown,now 1.6.37-3 amd64 [installed,automatic]
 libpnglite-dev/unknown 0.1.17-2 amd64
 libpnglite0-dbgsym/unknown 0.1.17-2 amd64
 libpnglite0/unknown 0.1.17-2 amd64
@@ -17152,18 +17152,18 @@ libpomp0/unknown 1.1+dfsg-9 amd64
 libpoppler-cpp-dev/unknown 22.02.0-3 amd64
 libpoppler-cpp0v5-dbgsym/unknown 22.02.0-3 amd64
 libpoppler-cpp0v5/unknown 22.02.0-3 amd64
-libpoppler-dev/unknown 22.02.0-3 amd64
+libpoppler-dev/unknown,now 22.02.0-3 amd64 [installed,automatic]
 libpoppler-glib-dev/unknown 22.02.0-3 amd64
 libpoppler-glib-doc/unknown 22.02.0-3 all
 libpoppler-glib8-dbgsym/unknown 22.02.0-3 amd64
 libpoppler-glib8/unknown 22.02.0-3 amd64
 libpoppler-private-dev/unknown 22.02.0-3 amd64
 libpoppler-qt5-1-dbgsym/unknown 22.02.0-3 amd64
-libpoppler-qt5-1/unknown 22.02.0-3 amd64
-libpoppler-qt5-dev/unknown 22.02.0-3 amd64
+libpoppler-qt5-1/unknown,now 22.02.0-3 amd64 [installed,automatic]
+libpoppler-qt5-dev/unknown,now 22.02.0-3 amd64 [installed]
 libpoppler102/unknown 20.09.0-3.1 amd64
 libpoppler118-dbgsym/unknown 22.02.0-3 amd64
-libpoppler118/unknown 22.02.0-3 amd64
+libpoppler118/unknown,now 22.02.0-3 amd64 [installed,automatic]
 libpopt-dev/unknown 1.18-3 amd64
 libpopt0-dbgsym/unknown 1.18-3 amd64
 libpopt0/unknown,now 1.18-3 amd64 [installed,automatic]
@@ -17284,7 +17284,7 @@ libproxy1-plugin-networkmanager/unknown 0.4.17-1 amd64
 libproxy1-plugin-webkit-dbgsym/unknown 0.4.17-1 amd64
 libproxy1-plugin-webkit/unknown 0.4.17-1 amd64
 libproxy1v5-dbgsym/unknown 0.4.17-1 amd64
-libproxy1v5/unknown 0.4.17-1 amd64
+libproxy1v5/unknown,now 0.4.17-1 amd64 [installed,automatic]
 libproxychains4-dbgsym/unknown 4.15-1 amd64
 libproxychains4/unknown 4.15-1 amd64
 libpsi3-dev/unknown 3.4.0-6 amd64
@@ -17293,7 +17293,7 @@ libpskc0-dbgsym/unknown 2.6.7-3 amd64
 libpskc0/unknown 2.6.7-3 amd64
 libpsl-dev/unknown 0.21.0-1.2 amd64
 libpsl5-dbgsym/unknown 0.21.0-1.2 amd64
-libpsl5/unknown 0.21.0-1.2 amd64
+libpsl5/unknown,now 0.21.0-1.2 amd64 [installed,automatic]
 libpsm-infinipath1-dbg/unknown 3.3+20.604758e7-6.1 amd64
 libpsm-infinipath1-dev/unknown 3.3+20.604758e7-6.1 amd64
 libpsm-infinipath1/unknown 3.3+20.604758e7-6.1 amd64
@@ -17315,7 +17315,7 @@ libptexenc1/unknown 2022.20220321.62855-5 amd64
 libpth-dev/unknown 2.0.7-22 amd64
 libpth20-dbgsym/unknown 2.0.7-22 amd64
 libpth20/unknown 2.0.7-22 amd64
-libpthread-stubs0-dev/unknown 0.4-1 amd64
+libpthread-stubs0-dev/unknown,now 0.4-1 amd64 [installed,automatic]
 libptscotch-6.0/unknown 6.0.10-1 amd64
 libptscotch-6.1-dbgsym/unknown 6.1.1-2 amd64
 libptscotch-6.1/unknown 6.1.1-2 amd64
@@ -17327,7 +17327,7 @@ libpulse-dev/unknown 15.0.3-5deepin9+rb2 amd64
 libpulse-mainloop-glib0-dbgsym/unknown 15.0.3-5deepin9+rb2 amd64
 libpulse-mainloop-glib0/unknown 15.0.3-5deepin9+rb2 amd64
 libpulse0-dbgsym/unknown 15.0.3-5deepin9+rb2 amd64
-libpulse0/unknown 15.0.3-5deepin9+rb2 amd64
+libpulse0/unknown,now 15.0.3-5deepin9+rb2 amd64 [installed,automatic]
 libpulsedsp-dbgsym/unknown 15.0.3-5deepin9+rb2 amd64
 libpulsedsp/unknown 15.0.3-5deepin9+rb2 amd64
 libpurple-bin/unknown 2.14.8-1 all
@@ -17355,11 +17355,11 @@ libpython3-all-dbg/unknown 3.10.4-1 amd64
 libpython3-all-dev/unknown 3.10.4-1 amd64
 libpython3-dbg/unknown 3.10.4-1 amd64
 libpython3-dev/unknown 3.10.4-1 amd64
-libpython3-stdlib/unknown 3.10.4-1 amd64
+libpython3-stdlib/unknown,now 3.10.4-1 amd64 [installed,automatic]
 libpython3.10-dbg/unknown 3.10.5-2deepin amd64
 libpython3.10-dev/unknown 3.10.5-2deepin amd64
-libpython3.10-minimal/unknown 3.10.5-2deepin amd64
-libpython3.10-stdlib/unknown 3.10.5-2deepin amd64
+libpython3.10-minimal/unknown,now 3.10.5-2deepin amd64 [installed,automatic]
+libpython3.10-stdlib/unknown,now 3.10.5-2deepin amd64 [installed,automatic]
 libpython3.10-testsuite/unknown 3.10.5-2deepin all
 libpython3.10/unknown 3.10.5-2deepin amd64
 libpython3.11-dbg/unknown 3.11.0~b3-2 amd64
@@ -17514,16 +17514,16 @@ libqt5charts5-dbgsym/unknown 5.15.7-1+dde amd64
 libqt5charts5-dev/unknown 5.15.7-1+dde amd64
 libqt5charts5/unknown 5.15.7-1+dde amd64
 libqt5concurrent5-dbgsym/unknown 5.15.7.2-1+dde amd64
-libqt5concurrent5/unknown 5.15.7.2-1+dde amd64
+libqt5concurrent5/unknown,now 5.15.7.2-1+dde amd64 [installed,automatic]
 libqt5contacts5a-dbgsym/unknown 5.0~git20201102.f9a8f0fc+dfsg1-2+deepin1 amd64
 libqt5contacts5a/unknown 5.0~git20201102.f9a8f0fc+dfsg1-2+deepin1 amd64
 libqt5core5a-dbgsym/unknown 5.15.7.2-1+dde amd64
-libqt5core5a/unknown 5.15.7.2-1+dde amd64
+libqt5core5a/unknown,now 5.15.7.2-1+dde amd64 [installed,automatic]
 libqt5datavisualization5-dbgsym/unknown 5.15.7-1+dde amd64
 libqt5datavisualization5-dev/unknown 5.15.7-1+dde amd64
 libqt5datavisualization5/unknown 5.15.7-1+dde amd64
 libqt5dbus5-dbgsym/unknown 5.15.7.2-1+dde amd64
-libqt5dbus5/unknown 5.15.7.2-1+dde amd64
+libqt5dbus5/unknown,now 5.15.7.2-1+dde amd64 [installed,automatic]
 libqt5designer5-dbgsym/unknown 5.15.7-1+dde amd64
 libqt5designer5/unknown 5.15.7-1+dde amd64
 libqt5designercomponents5-dbgsym/unknown 5.15.7-1+dde amd64
@@ -17545,7 +17545,7 @@ libqt5gstreamerutils-1.0-0/unknown 1.2.0-5.2 amd64
 libqt5gui5-dbgsym/unknown 5.15.7.2-1+dde amd64
 libqt5gui5-gles-dbgsym/unknown 5.15.2+dfsg-5+deepin1 amd64
 libqt5gui5-gles/unknown 5.15.2+dfsg-5+deepin1 amd64
-libqt5gui5/unknown 5.15.7.2-1+dde amd64
+libqt5gui5/unknown,now 5.15.7.2-1+dde amd64 [installed,automatic]
 libqt5help5-dbgsym/unknown 5.15.7-1+dde amd64
 libqt5help5/unknown 5.15.7-1+dde amd64
 libqt5hunspellinputmethod5-dbgsym/unknown 5.15.7-1+dde amd64
@@ -17560,24 +17560,24 @@ libqt5location5-plugins/unknown 5.15.7-1+dde amd64
 libqt5location5/unknown 5.15.7-1+dde amd64
 libqt5multimedia5-dbgsym/unknown 5.15.7-1+dde amd64
 libqt5multimedia5-plugins-dbgsym/unknown 5.15.7-1+dde amd64
-libqt5multimedia5-plugins/unknown 5.15.7-1+dde amd64
-libqt5multimedia5/unknown 5.15.7-1+dde amd64
+libqt5multimedia5-plugins/unknown,now 5.15.7-1+dde amd64 [installed]
+libqt5multimedia5/unknown,now 5.15.7-1+dde amd64 [installed]
 libqt5multimediagsttools5-dbgsym/unknown 5.15.7-1+dde amd64
-libqt5multimediagsttools5/unknown 5.15.7-1+dde amd64
+libqt5multimediagsttools5/unknown,now 5.15.7-1+dde amd64 [installed,automatic]
 libqt5multimediaquick5-dbgsym/unknown 5.15.7-1+dde amd64
-libqt5multimediaquick5/unknown 5.15.7-1+dde amd64
+libqt5multimediaquick5/unknown,now 5.15.7-1+dde amd64 [installed,automatic]
 libqt5multimediawidgets5-dbgsym/unknown 5.15.7-1+dde amd64
-libqt5multimediawidgets5/unknown 5.15.7-1+dde amd64
+libqt5multimediawidgets5/unknown,now 5.15.7-1+dde amd64 [installed]
 libqt5network5-dbgsym/unknown 5.15.7.2-1+dde amd64
-libqt5network5/unknown 5.15.7.2-1+dde amd64
+libqt5network5/unknown,now 5.15.7.2-1+dde amd64 [installed,automatic]
 libqt5networkauth5-dbgsym/unknown 5.15.7-1+dde amd64
 libqt5networkauth5-dev/unknown 5.15.7-1+dde amd64
 libqt5networkauth5/unknown 5.15.7-1+dde amd64
 libqt5nfc5-dbgsym/unknown 5.15.7-1+dde amd64
 libqt5nfc5/unknown 5.15.7-1+dde amd64
 libqt5opengl5-dbgsym/unknown 5.15.7.2-1+dde amd64
-libqt5opengl5-dev/unknown 5.15.7.2-1+dde amd64
-libqt5opengl5/unknown 5.15.7.2-1+dde amd64
+libqt5opengl5-dev/unknown,now 5.15.7.2-1+dde amd64 [installed,automatic]
+libqt5opengl5/unknown,now 5.15.7.2-1+dde amd64 [installed,automatic]
 libqt5organizer5a-dbgsym/unknown 5.0~git20201102.f9a8f0fc+dfsg1-2+deepin1 amd64
 libqt5organizer5a/unknown 5.0~git20201102.f9a8f0fc+dfsg1-2+deepin1 amd64
 libqt5pdf5-dbgsym/unknown 5.15.7.1-1+dde amd64
@@ -17591,15 +17591,15 @@ libqt5positioning5/unknown 5.15.7-1+dde amd64
 libqt5positioningquick5-dbgsym/unknown 5.15.7-1+dde amd64
 libqt5positioningquick5/unknown 5.15.7-1+dde amd64
 libqt5printsupport5-dbgsym/unknown 5.15.7.2-1+dde amd64
-libqt5printsupport5/unknown 5.15.7.2-1+dde amd64
+libqt5printsupport5/unknown,now 5.15.7.2-1+dde amd64 [installed,automatic]
 libqt5qml5-dbgsym/unknown 5.15.7.1-1+dde amd64
-libqt5qml5/unknown 5.15.7.1-1+dde amd64
+libqt5qml5/unknown,now 5.15.7.1-1+dde amd64 [installed,automatic]
 libqt5qmlmodels5-dbgsym/unknown 5.15.7.1-1+dde amd64
-libqt5qmlmodels5/unknown 5.15.7.1-1+dde amd64
+libqt5qmlmodels5/unknown,now 5.15.7.1-1+dde amd64 [installed,automatic]
 libqt5qmlworkerscript5-dbgsym/unknown 5.15.7.1-1+dde amd64
 libqt5qmlworkerscript5/unknown 5.15.7.1-1+dde amd64
 libqt5quick5-dbgsym/unknown 5.15.7.1-1+dde amd64
-libqt5quick5/unknown 5.15.7.1-1+dde amd64
+libqt5quick5/unknown,now 5.15.7.1-1+dde amd64 [installed,automatic]
 libqt5quickcontrols2-5-dbgsym/unknown 5.15.7.1-1+dde amd64
 libqt5quickcontrols2-5/unknown 5.15.7.1-1+dde amd64
 libqt5quickparticles5-dbgsym/unknown 5.15.7.1-1+dde amd64
@@ -17638,8 +17638,8 @@ libqt5serialbus5-plugins-dbgsym/unknown 5.15.7-1+dde amd64
 libqt5serialbus5-plugins/unknown 5.15.7-1+dde amd64
 libqt5serialbus5/unknown 5.15.7-1+dde amd64
 libqt5serialport5-dbgsym/unknown 5.15.7-1+dde amd64
-libqt5serialport5-dev/unknown 5.15.7-1+dde amd64
-libqt5serialport5/unknown 5.15.7-1+dde amd64
+libqt5serialport5-dev/unknown,now 5.15.7-1+dde amd64 [installed]
+libqt5serialport5/unknown,now 5.15.7-1+dde amd64 [installed,automatic]
 libqt5sql5-dbgsym/unknown 5.15.7.2-1+dde amd64
 libqt5sql5-ibase-dbgsym/unknown 5.15.7.2-1+dde amd64
 libqt5sql5-ibase/unknown 5.15.7.2-1+dde amd64
@@ -17650,15 +17650,15 @@ libqt5sql5-odbc/unknown 5.15.7.2-1+dde amd64
 libqt5sql5-psql-dbgsym/unknown 5.15.7.2-1+dde amd64
 libqt5sql5-psql/unknown 5.15.7.2-1+dde amd64
 libqt5sql5-sqlite-dbgsym/unknown 5.15.7.2-1+dde amd64
-libqt5sql5-sqlite/unknown 5.15.7.2-1+dde amd64
+libqt5sql5-sqlite/unknown,now 5.15.7.2-1+dde amd64 [installed,automatic]
 libqt5sql5-tds-dbgsym/unknown 5.15.7.2-1+dde amd64
 libqt5sql5-tds/unknown 5.15.7.2-1+dde amd64
-libqt5sql5/unknown 5.15.7.2-1+dde amd64
+libqt5sql5/unknown,now 5.15.7.2-1+dde amd64 [installed,automatic]
 libqt5svg5-dbgsym/unknown 5.15.7-1+dde amd64
 libqt5svg5-dev/unknown 5.15.7-1+dde amd64
-libqt5svg5/unknown 5.15.7-1+dde amd64
+libqt5svg5/unknown,now 5.15.7-1+dde amd64 [installed,automatic]
 libqt5test5-dbgsym/unknown 5.15.7.2-1+dde amd64
-libqt5test5/unknown 5.15.7.2-1+dde amd64
+libqt5test5/unknown,now 5.15.7.2-1+dde amd64 [installed,automatic]
 libqt5texttospeech5-dbgsym/unknown 5.15.7-1+dde amd64
 libqt5texttospeech5-dev/unknown 5.15.7-1+dde amd64
 libqt5texttospeech5/unknown 5.15.7-1+dde amd64
@@ -17695,7 +17695,7 @@ libqt5webview5-dbgsym/unknown 5.15.7-1+dde amd64
 libqt5webview5-dev/unknown 5.15.7-1+dde amd64
 libqt5webview5/unknown 5.15.7-1+dde amd64
 libqt5widgets5-dbgsym/unknown 5.15.7.2-1+dde amd64
-libqt5widgets5/unknown 5.15.7.2-1+dde amd64
+libqt5widgets5/unknown,now 5.15.7.2-1+dde amd64 [installed,automatic]
 libqt5x11extras5-dbgsym/unknown 5.15.7-1+dde amd64
 libqt5x11extras5-dev/unknown 5.15.7-1+dde amd64
 libqt5x11extras5/unknown 5.15.7-1+dde amd64
@@ -17707,7 +17707,7 @@ libqt5xdgiconloader-dev/unknown 3.6.0-1+deepin1 amd64
 libqt5xdgiconloader3-dbgsym/unknown 3.6.0-1+deepin1 amd64
 libqt5xdgiconloader3/unknown 3.6.0-1+deepin1 amd64
 libqt5xml5-dbgsym/unknown 5.15.7.2-1+dde amd64
-libqt5xml5/unknown 5.15.7.2-1+dde amd64
+libqt5xml5/unknown,now 5.15.7.2-1+dde amd64 [installed,automatic]
 libqt5xmlpatterns5-dbgsym/unknown 5.15.7-1+dde amd64
 libqt5xmlpatterns5-dev/unknown 5.15.7-1+dde amd64
 libqt5xmlpatterns5/unknown 5.15.7-1+dde amd64
@@ -17988,7 +17988,7 @@ libquadmath0-dbgsym/unknown 11.2.0-deepin2+rb2 amd64
 libquadmath0-i386-cross/unknown 11.2.0-9cross1 all
 libquadmath0-ppc64el-cross/unknown 11.2.0-9cross1 all
 libquadmath0-x32-cross/unknown 11.2.0-9cross1 all
-libquadmath0/unknown 11.2.0-deepin2+rb2 amd64
+libquadmath0/unknown,now 11.2.0-deepin2+rb2 amd64 [installed,automatic]
 libquartz2-java/unknown 2.3.2-2 all
 libquazip-doc/unknown 0.9.1-2 all
 libquazip1-qt6-1-dbgsym/unknown 1.4-1 amd64
@@ -18476,11 +18476,11 @@ librrdp-perl/unknown 1.7.2-4 all
 librrds-perl-dbgsym/unknown 1.7.2-4 amd64
 librrds-perl/unknown 1.7.2-4 amd64
 librsvg2-2-dbgsym/unknown 2.50.7+dfsg-2 amd64
-librsvg2-2/unknown 2.50.7+dfsg-2 amd64
+librsvg2-2/unknown,now 2.50.7+dfsg-2 amd64 [installed,automatic]
 librsvg2-bin-dbgsym/unknown 2.50.7+dfsg-2 amd64
 librsvg2-bin/unknown 2.50.7+dfsg-2 amd64
 librsvg2-common-dbgsym/unknown 2.50.7+dfsg-2 amd64
-librsvg2-common/unknown 2.50.7+dfsg-2 amd64
+librsvg2-common/unknown,now 2.50.7+dfsg-2 amd64 [installed,automatic]
 librsvg2-dev/unknown 2.50.7+dfsg-2 amd64
 librsvg2-doc/unknown 2.50.7+dfsg-2 all
 librsync-dev/unknown 2.3.1-1 amd64
@@ -18496,7 +18496,7 @@ librtmidi5-dbgsym/unknown 4.0.0-1 amd64
 librtmidi5/unknown 4.0.0-1 amd64
 librtmp-dev/unknown 2.4+20151223.gitfa8646d.1-deepin1 amd64
 librtmp1-dbgsym/unknown 2.4+20151223.gitfa8646d.1-deepin1 amd64
-librtmp1/unknown 2.4+20151223.gitfa8646d.1-deepin1 amd64
+librtmp1/unknown,now 2.4+20151223.gitfa8646d.1-deepin1 amd64 [installed,automatic]
 librttopo-dev/unknown 1.1.0-2 amd64
 librttopo1-dbgsym/unknown 1.1.0-2 amd64
 librttopo1/unknown 1.1.0-2 amd64
@@ -18731,7 +18731,7 @@ libsejda-injector-java/unknown 2.0.0-1 all
 libsejda-io-java/unknown 2.1.3-1 all
 libsejda-java/unknown 4.2.6-1 all
 libselinux1-dbgsym/unknown 3.3-1 amd64
-libselinux1-dev/unknown 3.3-1 amd64
+libselinux1-dev/unknown,now 3.3-1 amd64 [installed,automatic]
 libselinux1/unknown,now 3.3-1 amd64 [installed]
 libsemanage-common/unknown,now 3.3-1 all [installed]
 libsemanage-dev/unknown 3.3-1 amd64
@@ -18739,15 +18739,15 @@ libsemanage1-dev/unknown 3.1-2 amd64
 libsemanage1/unknown 3.1-2 amd64
 libsemanage2-dbgsym/unknown 3.3-1 amd64
 libsemanage2/unknown,now 3.3-1 amd64 [installed]
-libsensors-config/unknown 1:3.6.0-7 all
+libsensors-config/unknown,now 1:3.6.0-7 all [installed,automatic]
 libsensors-dev/unknown 1:3.6.0-7 amd64
 libsensors4-dev/unknown 1:3.6.0-7 amd64
 libsensors5-dbgsym/unknown 1:3.6.0-7 amd64
-libsensors5/unknown 1:3.6.0-7 amd64
+libsensors5/unknown,now 1:3.6.0-7 amd64 [installed,automatic]
 libsentencepiece-dev/unknown 0.1.97-1 amd64
 libsentencepiece0-dbgsym/unknown 0.1.97-1 amd64
 libsentencepiece0/unknown 0.1.97-1 amd64
-libsepol-dev/unknown 3.3-1 amd64
+libsepol-dev/unknown,now 3.3-1 amd64 [installed,automatic]
 libsepol2-dbgsym/unknown 3.3-1 amd64
 libsepol2/unknown,now 3.3-1 amd64 [installed]
 libsequence-library-java/unknown 1.0.3-1.1 all
@@ -18890,7 +18890,7 @@ libslurmdb-perl/unknown 21.08.8.2-1 amd64
 libsm-dev/unknown 2:1.2.3-1 amd64
 libsm-doc/unknown 2:1.2.3-1 all
 libsm6-dbgsym/unknown 2:1.2.3-1 amd64
-libsm6/unknown 2:1.2.3-1 amd64
+libsm6/unknown,now 2:1.2.3-1 amd64 [installed,automatic]
 libsmartcols-dev/unknown 2.38-5+rb8 amd64
 libsmartcols1-dbgsym/unknown 2.38-5+rb8 amd64
 libsmartcols1/unknown,now 2.38-5+rb8 amd64 [installed]
@@ -18928,7 +18928,7 @@ libsnappy1v5/unknown 1.1.8-1 amd64
 libsndfile1-dbgsym/unknown 1.0.31-2 amd64
 libsndfile1-dev-dbgsym/unknown 1.0.31-2 amd64
 libsndfile1-dev/unknown 1.0.31-2 amd64
-libsndfile1/unknown 1.0.31-2 amd64
+libsndfile1/unknown,now 1.0.31-2 amd64 [installed,automatic]
 libsndio-dev/unknown 1.5.0-3 amd64
 libsndio7.0-dbgsym/unknown 1.5.0-3 amd64
 libsndio7.0/unknown 1.5.0-3 amd64
@@ -18991,8 +18991,8 @@ libsoup-gnome2.4-1-dbgsym/unknown 2.74.2-3 amd64
 libsoup-gnome2.4-1/unknown 2.74.2-3 amd64
 libsoup-gnome2.4-dev/unknown 2.74.2-3 amd64
 libsoup2.4-1-dbgsym/unknown 2.74.2-3 amd64
-libsoup2.4-1/unknown 2.74.2-3 amd64
-libsoup2.4-common/unknown 2.74.2-3 all
+libsoup2.4-1/unknown,now 2.74.2-3 amd64 [installed,automatic]
+libsoup2.4-common/unknown,now 2.74.2-3 all [installed,automatic]
 libsoup2.4-dev/unknown 2.74.2-3 amd64
 libsoup2.4-doc/unknown 2.74.2-3 all
 libsoup2.4-tests-dbgsym/unknown 2.74.2-3 amd64
@@ -19187,7 +19187,7 @@ libssh-gcrypt-4/unknown 0.9.6-1 amd64
 libssh-gcrypt-dev/unknown 0.9.6-1 amd64
 libssh2-1-dbgsym/unknown 1.10.0-2 amd64
 libssh2-1-dev/unknown 1.10.0-2 amd64
-libssh2-1/unknown 1.10.0-2 amd64
+libssh2-1/unknown,now 1.10.0-2 amd64 [installed,automatic]
 libssl-dev/unknown 3.0.8-1deepin+rb2 amd64
 libssl-doc/unknown 3.0.8-1deepin+rb2 all
 libssl3-dbgsym/unknown 3.0.8-1deepin+rb2 amd64
@@ -19251,7 +19251,7 @@ libstdc++-11-dev-s390x-cross/unknown 11.2.0-9cross1 all
 libstdc++-11-dev-sh4-cross/unknown 11.2.0-9cross1 all
 libstdc++-11-dev-sparc64-cross/unknown 11.2.0-9cross1 all
 libstdc++-11-dev-x32-cross/unknown 11.2.0-9cross1 all
-libstdc++-11-dev/unknown 11.2.0-deepin2+rb2 amd64
+libstdc++-11-dev/unknown,now 11.2.0-deepin2+rb2 amd64 [installed,automatic]
 libstdc++-11-doc/unknown 11.2.0-deepin2+rb2 all
 libstdc++-11-pic-alpha-cross/unknown 11.2.0-9cross1 all
 libstdc++-11-pic-amd64-cross/unknown 11.2.0-9cross1 all
@@ -19770,17 +19770,17 @@ libtextwrap1/unknown 0.1-15 amd64
 libtfm-dev/unknown 0.13-4.1 amd64
 libtfm1-dbgsym/unknown 0.13-4.1 amd64
 libtfm1/unknown 0.13-4.1 amd64
-libthai-data/unknown 0.1.28-4.1 all
+libthai-data/unknown,now 0.1.28-4.1 all [installed,automatic]
 libthai-dev/unknown 0.1.28-4.1 amd64
 libthai-doc/unknown 0.1.28-4.1 all
 libthai0-dbgsym/unknown 0.1.28-4.1 amd64
-libthai0/unknown 0.1.28-4.1 amd64
+libthai0/unknown,now 0.1.28-4.1 amd64 [installed,automatic]
 libtheora-bin-dbgsym/unknown 1.1.1+dfsg.1-15 amd64
 libtheora-bin/unknown 1.1.1+dfsg.1-15 amd64
 libtheora-dev/unknown 1.1.1+dfsg.1-15 amd64
 libtheora-doc/unknown 1.1.1+dfsg.1-15 all
 libtheora0-dbgsym/unknown 1.1.1+dfsg.1-15 amd64
-libtheora0/unknown 1.1.1+dfsg.1-15 amd64
+libtheora0/unknown,now 1.1.1+dfsg.1-15 amd64 [installed,automatic]
 libthread-serialize-perl/unknown 1.02-1 all
 libthumbnailator-java/unknown 0.4.17-1+u001 all
 libthunarx-3-0/unknown 4.16.8-1 amd64
@@ -19799,7 +19799,7 @@ libtiff-tools-dbgsym/unknown 4.3.0-2 amd64
 libtiff-tools/unknown 4.3.0-2 amd64
 libtiff5-dbgsym/unknown 4.3.0-2 amd64
 libtiff5-dev/unknown 4.3.0-2 amd64
-libtiff5/unknown 4.3.0-2 amd64
+libtiff5/unknown,now 4.3.0-2 amd64 [installed,automatic]
 libtiffxx5-dbgsym/unknown 4.3.0-2 amd64
 libtiffxx5/unknown 4.3.0-2 amd64
 libtiled-dev/unknown 1.8.2-1 amd64
@@ -19833,10 +19833,10 @@ libtinyxml2-9/unknown 9.0.0+dfsg-3 amd64
 libtinyxml2-dev/unknown 9.0.0+dfsg-3 amd64
 libtinyxml2.6.2v5-dbgsym/unknown 2.6.2-5 amd64
 libtinyxml2.6.2v5/unknown 2.6.2-5 amd64
-libtirpc-common/unknown 1.3.2-2 all
-libtirpc-dev/unknown 1.3.2-2 amd64
+libtirpc-common/unknown,now 1.3.2-2 all [installed,automatic]
+libtirpc-dev/unknown,now 1.3.2-2 amd64 [installed,automatic]
 libtirpc3-dbgsym/unknown 1.3.2-2 amd64
-libtirpc3/unknown 1.3.2-2 amd64
+libtirpc3/unknown,now 1.3.2-2 amd64 [installed,automatic]
 libtitanium-perl/unknown 1.04-5 all
 libtk-doubleclick-perl/unknown 0.04-1.1 all
 libtk8.6/unknown 8.6.12-1 amd64
@@ -20065,7 +20065,7 @@ libtsan0-amd64-cross/unknown 11.2.0-9cross1 all
 libtsan0-arm64-cross/unknown 11.2.0-9cross1 all
 libtsan0-ppc64-cross/unknown 11.2.0-9cross1 all
 libtsan0-ppc64el-cross/unknown 11.2.0-9cross1 all
-libtsan0/unknown 11.2.0-deepin2+rb2 amd64
+libtsan0/unknown,now 11.2.0-deepin2+rb2 amd64 [installed,automatic]
 libtspi-dev/unknown 0.3.14+fixed1-1.2 amd64
 libtspi1/unknown 0.3.14+fixed1-1.2 amd64
 libtss2-dev/unknown 3.1.0-3 amd64
@@ -20147,7 +20147,7 @@ libubsan1-ppc64el-cross/unknown 11.2.0-9cross1 all
 libubsan1-s390x-cross/unknown 11.2.0-9cross1 all
 libubsan1-sparc64-cross/unknown 11.2.0-9cross1 all
 libubsan1-x32-cross/unknown 11.2.0-9cross1 all
-libubsan1/unknown 11.2.0-deepin2+rb2 amd64
+libubsan1/unknown,now 11.2.0-deepin2+rb2 amd64 [installed,automatic]
 libuchardet-dev/unknown 0.0.7-1 amd64
 libuchardet0-dbgsym/unknown 0.0.7-1 amd64
 libuchardet0/unknown 0.0.7-1 amd64
@@ -20287,7 +20287,7 @@ libunwind-setjmp0-dbgsym/unknown 1.3.2-2 amd64
 libunwind-setjmp0-dev/unknown 1.3.2-2 amd64
 libunwind-setjmp0/unknown 1.3.2-2 amd64
 libunwind8-dbgsym/unknown 1.3.2-2 amd64
-libunwind8/unknown 1.3.2-2 amd64
+libunwind8/unknown,now 1.3.2-2 amd64 [installed,automatic]
 libupb-dev/unknown 0.0.0~git200730-1 amd64
 libupb0-dbgsym/unknown 0.0.0~git200730-1 amd64
 libupb0/unknown 0.0.0~git200730-1 amd64
@@ -20487,7 +20487,7 @@ libvisio-doc/unknown 0.1.7-deepin1 all
 libvisio-tools-dbgsym/unknown 0.1.7-deepin1 amd64
 libvisio-tools/unknown 0.1.7-deepin1 amd64
 libvisual-0.4-0-dbgsym/unknown 0.4.0-17 amd64
-libvisual-0.4-0/unknown 0.4.0-17 amd64
+libvisual-0.4-0/unknown,now 0.4.0-17 amd64 [installed,automatic]
 libvisual-0.4-dev/unknown 0.4.0-17 amd64
 libvkd3d-dev/unknown 1.1-5 amd64
 libvkd3d-utils1-dbgsym/unknown 1.1-5 amd64
@@ -20522,9 +20522,9 @@ libvolume-key1-dbgsym/unknown 0.3.12-3.1-deepin1 amd64
 libvolume-key1/unknown 0.3.12-3.1-deepin1 amd64
 libvorbis-dev/unknown 1.3.7-1 amd64
 libvorbis0a-dbgsym/unknown 1.3.7-1 amd64
-libvorbis0a/unknown 1.3.7-1 amd64
+libvorbis0a/unknown,now 1.3.7-1 amd64 [installed,automatic]
 libvorbisenc2-dbgsym/unknown 1.3.7-1 amd64
-libvorbisenc2/unknown 1.3.7-1 amd64
+libvorbisenc2/unknown,now 1.3.7-1 amd64 [installed,automatic]
 libvorbisfile3-dbgsym/unknown 1.3.7-1 amd64
 libvorbisfile3/unknown 1.3.7-1 amd64
 libvorbisidec-dev/unknown 1.2.1+git20180316-7 amd64
@@ -20580,14 +20580,14 @@ libvtkgdcm2-dev/unknown 2.8.8-9+b1 amd64
 libvtkgdcm2.8a/unknown 2.8.8-9+b1 amd64
 libvtkgdcm3.0-dbgsym/unknown 3.0.13-deepin1 amd64
 libvtkgdcm3.0/unknown 3.0.13-deepin1 amd64
-libvulkan-dev/unknown 1.2.189.0-2 amd64
-libvulkan1/unknown 1.2.189.0-2 amd64
+libvulkan-dev/unknown,now 1.2.189.0-2 amd64 [installed,automatic]
+libvulkan1/unknown,now 1.2.189.0-2 amd64 [installed,automatic]
 libwacom-bin-dbgsym/unknown 1.12-1 amd64
-libwacom-bin/unknown 1.12-1 amd64
-libwacom-common/unknown 1.12-1 all
+libwacom-bin/unknown,now 1.12-1 amd64 [installed,automatic]
+libwacom-common/unknown,now 1.12-1 all [installed,automatic]
 libwacom-dev/unknown 1.12-1 amd64
 libwacom2-dbgsym/unknown 1.12-1 amd64
-libwacom2/unknown 1.12-1 amd64
+libwacom2/unknown,now 1.12-1 amd64 [installed,automatic]
 libwaei-dev/unknown 3.6.2-9 amd64
 libwaei2-dbgsym/unknown 3.6.2-9 amd64
 libwaei2/unknown 3.6.2-9 amd64
@@ -20609,17 +20609,17 @@ libwavpack1/unknown 5.4.0-1 amd64
 libwayland-bin-dbgsym/unknown 1.21.0-1 amd64
 libwayland-bin/unknown 1.21.0-1 amd64
 libwayland-client0-dbgsym/unknown 1.21.0-1 amd64
-libwayland-client0/unknown 1.21.0-1 amd64
+libwayland-client0/unknown,now 1.21.0-1 amd64 [installed,automatic]
 libwayland-cursor0-dbgsym/unknown 1.21.0-1 amd64
-libwayland-cursor0/unknown 1.21.0-1 amd64
+libwayland-cursor0/unknown,now 1.21.0-1 amd64 [installed,automatic]
 libwayland-dev/unknown 1.21.0-1 amd64
 libwayland-doc/unknown 1.21.0-1 all
 libwayland-egl-backend-dev/unknown 1.21.0-1 amd64
 libwayland-egl1-dbgsym/unknown 1.21.0-1 amd64
 libwayland-egl1-mesa/unknown 23.1.2-1deepin1 amd64
-libwayland-egl1/unknown 1.21.0-1 amd64
+libwayland-egl1/unknown,now 1.21.0-1 amd64 [installed,automatic]
 libwayland-server0-dbgsym/unknown 1.21.0-1 amd64
-libwayland-server0/unknown 1.21.0-1 amd64
+libwayland-server0/unknown,now 1.21.0-1 amd64 [installed,automatic]
 libwbclient-dev/unknown 2:4.16.11+dfsg-1 amd64
 libwbclient0-dbgsym/unknown 2:4.16.11+dfsg-1 amd64
 libwbclient0/unknown 2:4.16.11+dfsg-1 amd64
@@ -20636,7 +20636,7 @@ libwebkit2gtk-4.0-dev/unknown 2.34.1.1-deepin amd64
 libwebkit2gtk-4.0-doc/unknown 2.34.1.1-deepin all
 libwebp-dev/unknown 0.6.1-2.1 amd64
 libwebp6-dbgsym/unknown 0.6.1-2.1 amd64
-libwebp6/unknown 0.6.1-2.1 amd64
+libwebp6/unknown,now 0.6.1-2.1 amd64 [installed,automatic]
 libwebpdemux2-dbgsym/unknown 0.6.1-2.1 amd64
 libwebpdemux2/unknown 0.6.1-2.1 amd64
 libwebpmux3-dbgsym/unknown 0.6.1-2.1 amd64
@@ -20750,7 +20750,7 @@ libwps-tools-dbgsym/unknown 0.4.12-2 amd64
 libwps-tools/unknown 0.4.12-2 amd64
 libwrap0-dbgsym/unknown 7.6.q-31 amd64
 libwrap0-dev/unknown 7.6.q-31 amd64
-libwrap0/unknown 7.6.q-31 amd64
+libwrap0/unknown,now 7.6.q-31 amd64 [installed,automatic]
 libwraster-dev/unknown 0.95.9-3 amd64
 libwraster6-dbgsym/unknown 0.95.9-3 amd64
 libwraster6/unknown 0.95.9-3 amd64
@@ -20808,16 +20808,16 @@ libwxsvg-tools/unknown 2:1.5.23+dfsg-1 amd64
 libwxsvg3-dbgsym/unknown 2:1.5.23+dfsg-1 amd64
 libwxsvg3/unknown 2:1.5.23+dfsg-1 amd64
 libx11-6-dbgsym/unknown 2:1.7.2-deepin1+rb3 amd64
-libx11-6/unknown 2:1.7.2-deepin1+rb3 amd64
-libx11-data/unknown 2:1.7.2-deepin1+rb3 all
-libx11-dev/unknown 2:1.7.2-deepin1+rb3 amd64
+libx11-6/unknown,now 2:1.7.2-deepin1+rb3 amd64 [installed,automatic]
+libx11-data/unknown,now 2:1.7.2-deepin1+rb3 all [installed,automatic]
+libx11-dev/unknown,now 2:1.7.2-deepin1+rb3 amd64 [installed,automatic]
 libx11-doc/unknown 2:1.7.2-deepin1+rb3 all
 libx11-guitest-perl-dbgsym/unknown 0.28-2 amd64
 libx11-guitest-perl/unknown 0.28-2 amd64
 libx11-protocol-perl/unknown 0.56-7.1 all
 libx11-xcb-dev/unknown 2:1.7.2-deepin1+rb3 amd64
 libx11-xcb1-dbgsym/unknown 2:1.7.2-deepin1+rb3 amd64
-libx11-xcb1/unknown 2:1.7.2-deepin1+rb3 amd64
+libx11-xcb1/unknown,now 2:1.7.2-deepin1+rb3 amd64 [installed,automatic]
 libx264-160-dbgsym/unknown 2:0.160.3011+gitcde9a93-2.1 amd64
 libx264-160/unknown 2:0.160.3011+gitcde9a93-2.1 amd64
 libx264-dev/unknown 2:0.160.3011+gitcde9a93-2.1 amd64
@@ -20914,9 +20914,9 @@ libxapp1/unknown 2.2.4-1 amd64
 libxatracker-dev/unknown 23.1.2-1deepin1 amd64
 libxatracker2-dbgsym/unknown 23.1.2-1deepin1 amd64
 libxatracker2/unknown 23.1.2-1deepin1 amd64
-libxau-dev/unknown 1:1.0.9-1 amd64
+libxau-dev/unknown,now 1:1.0.9-1 amd64 [installed,automatic]
 libxau6-dbgsym/unknown 1:1.0.9-1 amd64
-libxau6/unknown 1:1.0.9-1 amd64
+libxau6/unknown,now 1:1.0.9-1 amd64 [installed,automatic]
 libxaw-doc/unknown 2:1.0.13-1.1 all
 libxaw7-dbg/unknown 2:1.0.13-1.1 amd64
 libxaw7-dev/unknown 2:1.0.13-1.1 amd64
@@ -20945,43 +20945,43 @@ libxcb-dpms0-dev/unknown 1.15-1 amd64
 libxcb-dpms0/unknown 1.15-1 amd64
 libxcb-dri2-0-dbgsym/unknown 1.15-1 amd64
 libxcb-dri2-0-dev/unknown 1.15-1 amd64
-libxcb-dri2-0/unknown 1.15-1 amd64
+libxcb-dri2-0/unknown,now 1.15-1 amd64 [installed,automatic]
 libxcb-dri3-0-dbgsym/unknown 1.15-1 amd64
-libxcb-dri3-0/unknown 1.15-1 amd64
+libxcb-dri3-0/unknown,now 1.15-1 amd64 [installed,automatic]
 libxcb-dri3-dev/unknown 1.15-1 amd64
 libxcb-ewmh-dev/unknown 0.4.1-1.1 amd64
 libxcb-ewmh2-dbgsym/unknown 0.4.1-1.1 amd64
 libxcb-ewmh2/unknown 0.4.1-1.1 amd64
 libxcb-glx0-dbgsym/unknown 1.15-1 amd64
 libxcb-glx0-dev/unknown 1.15-1 amd64
-libxcb-glx0/unknown 1.15-1 amd64
+libxcb-glx0/unknown,now 1.15-1 amd64 [installed,automatic]
 libxcb-icccm4-dbgsym/unknown 0.4.1-1.1 amd64
 libxcb-icccm4-dev/unknown 0.4.1-1.1 amd64
-libxcb-icccm4/unknown 0.4.1-1.1 amd64
+libxcb-icccm4/unknown,now 0.4.1-1.1 amd64 [installed,automatic]
 libxcb-image0-dbgsym/unknown 0.4.0-deepin1 amd64
 libxcb-image0-dev/unknown 0.4.0-deepin1 amd64
-libxcb-image0/unknown 0.4.0-deepin1 amd64
+libxcb-image0/unknown,now 0.4.0-deepin1 amd64 [installed,automatic]
 libxcb-imdkit-dev/unknown 1.0.3-1 amd64
 libxcb-imdkit1-dbgsym/unknown 1.0.3-1 amd64
 libxcb-imdkit1/unknown 1.0.3-1 amd64
 libxcb-keysyms1-dbgsym/unknown 0.4.0-deepin1 amd64
 libxcb-keysyms1-dev/unknown 0.4.0-deepin1 amd64
-libxcb-keysyms1/unknown 0.4.0-deepin1 amd64
+libxcb-keysyms1/unknown,now 0.4.0-deepin1 amd64 [installed,automatic]
 libxcb-present-dev/unknown 1.15-1 amd64
 libxcb-present0-dbgsym/unknown 1.15-1 amd64
-libxcb-present0/unknown 1.15-1 amd64
+libxcb-present0/unknown,now 1.15-1 amd64 [installed,automatic]
 libxcb-randr0-dbgsym/unknown 1.15-1 amd64
 libxcb-randr0-dev/unknown 1.15-1 amd64
-libxcb-randr0/unknown 1.15-1 amd64
+libxcb-randr0/unknown,now 1.15-1 amd64 [installed,automatic]
 libxcb-record0-dbgsym/unknown 1.15-1 amd64
 libxcb-record0-dev/unknown 1.15-1 amd64
 libxcb-record0/unknown 1.15-1 amd64
 libxcb-render-util0-dbgsym/unknown 0.3.9-deepin1 amd64
 libxcb-render-util0-dev/unknown 0.3.9-deepin1 amd64
-libxcb-render-util0/unknown 0.3.9-deepin1 amd64
+libxcb-render-util0/unknown,now 0.3.9-deepin1 amd64 [installed,automatic]
 libxcb-render0-dbgsym/unknown 1.15-1 amd64
 libxcb-render0-dev/unknown 1.15-1 amd64
-libxcb-render0/unknown 1.15-1 amd64
+libxcb-render0/unknown,now 1.15-1 amd64 [installed,automatic]
 libxcb-res0-dbgsym/unknown 1.15-1 amd64
 libxcb-res0-dev/unknown 1.15-1 amd64
 libxcb-res0/unknown 1.15-1 amd64
@@ -20990,32 +20990,32 @@ libxcb-screensaver0-dev/unknown 1.15-1 amd64
 libxcb-screensaver0/unknown 1.15-1 amd64
 libxcb-shape0-dbgsym/unknown 1.15-1 amd64
 libxcb-shape0-dev/unknown 1.15-1 amd64
-libxcb-shape0/unknown 1.15-1 amd64
+libxcb-shape0/unknown,now 1.15-1 amd64 [installed,automatic]
 libxcb-shm0-dbgsym/unknown 1.15-1 amd64
 libxcb-shm0-dev/unknown 1.15-1 amd64
-libxcb-shm0/unknown 1.15-1 amd64
+libxcb-shm0/unknown,now 1.15-1 amd64 [installed,automatic]
 libxcb-sync-dev/unknown 1.15-1 amd64
 libxcb-sync1-dbgsym/unknown 1.15-1 amd64
-libxcb-sync1/unknown 1.15-1 amd64
+libxcb-sync1/unknown,now 1.15-1 amd64 [installed,automatic]
 libxcb-util-dev/unknown 0.4.0-deepin1 amd64
 libxcb-util0-dev/unknown 0.4.0-deepin1 amd64
 libxcb-util1-dbgsym/unknown 0.4.0-deepin1 amd64
-libxcb-util1/unknown 0.4.0-deepin1 amd64
+libxcb-util1/unknown,now 0.4.0-deepin1 amd64 [installed,automatic]
 libxcb-xf86dri0-dbgsym/unknown 1.15-1 amd64
 libxcb-xf86dri0-dev/unknown 1.15-1 amd64
 libxcb-xf86dri0/unknown 1.15-1 amd64
 libxcb-xfixes0-dbgsym/unknown 1.15-1 amd64
 libxcb-xfixes0-dev/unknown 1.15-1 amd64
-libxcb-xfixes0/unknown 1.15-1 amd64
+libxcb-xfixes0/unknown,now 1.15-1 amd64 [installed,automatic]
 libxcb-xinerama0-dbgsym/unknown 1.15-1 amd64
 libxcb-xinerama0-dev/unknown 1.15-1 amd64
-libxcb-xinerama0/unknown 1.15-1 amd64
+libxcb-xinerama0/unknown,now 1.15-1 amd64 [installed,automatic]
 libxcb-xinput-dev/unknown 1.15-1 amd64
 libxcb-xinput0-dbgsym/unknown 1.15-1 amd64
-libxcb-xinput0/unknown 1.15-1 amd64
+libxcb-xinput0/unknown,now 1.15-1 amd64 [installed,automatic]
 libxcb-xkb-dev/unknown 1.15-1 amd64
 libxcb-xkb1-dbgsym/unknown 1.15-1 amd64
-libxcb-xkb1/unknown 1.15-1 amd64
+libxcb-xkb1/unknown,now 1.15-1 amd64 [installed,automatic]
 libxcb-xrm-dev/unknown 1.0-deepin1 amd64
 libxcb-xrm0-dbgsym/unknown 1.0-deepin1 amd64
 libxcb-xrm0/unknown 1.0-deepin1 amd64
@@ -21029,30 +21029,30 @@ libxcb-xvmc0-dbgsym/unknown 1.15-1 amd64
 libxcb-xvmc0-dev/unknown 1.15-1 amd64
 libxcb-xvmc0/unknown 1.15-1 amd64
 libxcb1-dbgsym/unknown 1.15-1 amd64
-libxcb1-dev/unknown 1.15-1 amd64
-libxcb1/unknown 1.15-1 amd64
+libxcb1-dev/unknown,now 1.15-1 amd64 [installed,automatic]
+libxcb1/unknown,now 1.15-1 amd64 [installed,automatic]
 libxcomp-dev/unknown 2:3.5.99.26-5 amd64
 libxcomp3-dbgsym/unknown 2:3.5.99.26-5 amd64
 libxcomp3/unknown 2:3.5.99.26-5 amd64
 libxcomposite-dev/unknown 1:0.4.5-1 amd64
 libxcomposite1-dbgsym/unknown 1:0.4.5-1 amd64
-libxcomposite1/unknown 1:0.4.5-1 amd64
+libxcomposite1/unknown,now 1:0.4.5-1 amd64 [installed,automatic]
 libxcompshad-dev/unknown 2:3.5.99.26-5 amd64
 libxcompshad3-dbgsym/unknown 2:3.5.99.26-5 amd64
 libxcompshad3/unknown 2:3.5.99.26-5 amd64
 libxcrypt-source/unknown 1:4.4.26-1 all
 libxcursor-dev/unknown 1:1.2.0-2 amd64
 libxcursor1-dbgsym/unknown 1:1.2.0-2 amd64
-libxcursor1/unknown 1:1.2.0-2 amd64
+libxcursor1/unknown,now 1:1.2.0-2 amd64 [installed,automatic]
 libxcvt-dev/unknown 0.1.1-3 amd64
 libxcvt0-dbgsym/unknown 0.1.1-3 amd64
 libxcvt0/unknown 0.1.1-3 amd64
 libxdamage-dev/unknown 1:1.1.5-2 amd64
 libxdamage1-dbgsym/unknown 1:1.1.5-2 amd64
-libxdamage1/unknown 1:1.1.5-2 amd64
-libxdmcp-dev/unknown 1:1.1.2-3 amd64
+libxdamage1/unknown,now 1:1.1.5-2 amd64 [installed,automatic]
+libxdmcp-dev/unknown,now 1:1.1.2-3 amd64 [installed,automatic]
 libxdmcp6-dbg/unknown 1:1.1.2-3 amd64
-libxdmcp6/unknown 1:1.1.2-3 amd64
+libxdmcp6/unknown,now 1:1.1.2-3 amd64 [installed,automatic]
 libxdmf-dev/unknown 3.0+git20190531-10 amd64
 libxdmf3-dbgsym/unknown 3.0+git20190531-10 amd64
 libxdmf3/unknown 3.0+git20190531-10 amd64
@@ -21080,10 +21080,10 @@ libxerces-c3.2-dbgsym/unknown 3.2.3.1-deepin amd64
 libxerces-c3.2/unknown 3.2.3.1-deepin amd64
 libxerces2-java-doc/unknown 2.12.1-1 all
 libxerces2-java/unknown 2.12.1-1 all
-libxext-dev/unknown 2:1.3.4-1 amd64
+libxext-dev/unknown,now 2:1.3.4-1 amd64 [installed,automatic]
 libxext-doc/unknown 2:1.3.4-1 all
 libxext6-dbgsym/unknown 2:1.3.4-1 amd64
-libxext6/unknown 2:1.3.4-1 amd64
+libxext6/unknown,now 2:1.3.4-1 amd64 [installed,automatic]
 libxfce4panel-2.0-4/unknown 4.16.3-1 amd64
 libxfce4panel-2.0-dev/unknown 4.16.3-1 amd64
 libxfce4ui-1-0/unknown 4.14.1-1+b1 amd64
@@ -21104,7 +21104,7 @@ libxfconf-0-3/unknown 4.16.0-2 amd64
 libxfconf-0-dev/unknown 4.16.0-2 amd64
 libxfixes-dev/unknown 1:6.0.0-1 amd64
 libxfixes3-dbgsym/unknown 1:6.0.0-1 amd64
-libxfixes3/unknown 1:6.0.0-1 amd64
+libxfixes3/unknown,now 1:6.0.0-1 amd64 [installed,automatic]
 libxfont-dev/unknown 1:2.0.5-1 amd64
 libxfont2-dbgsym/unknown 1:2.0.5-1 amd64
 libxfont2/unknown 1:2.0.5-1 amd64
@@ -21113,7 +21113,7 @@ libxft2-dbgsym/unknown 2.3.2-2 amd64
 libxft2/unknown 2.3.2-2 amd64
 libxi-dev/unknown 2:1.8-1 amd64
 libxi6-dbgsym/unknown 2:1.8-1 amd64
-libxi6/unknown 2:1.8-1 amd64
+libxi6/unknown,now 2:1.8-1 amd64 [installed,automatic]
 libxine2-all-plugins/unknown 1.2.12-1+u005 all
 libxine2-bin-dbgsym/unknown 1.2.12-1+u005 amd64
 libxine2-bin/unknown 1.2.12-1+u005 amd64
@@ -21135,16 +21135,16 @@ libxine2-x/unknown 1.2.12-1+u005 amd64
 libxine2/unknown 1.2.12-1+u005 amd64
 libxinerama-dev/unknown 2:1.1.4-2 amd64
 libxinerama1-dbgsym/unknown 2:1.1.4-2 amd64
-libxinerama1/unknown 2:1.1.4-2 amd64
+libxinerama1/unknown,now 2:1.1.4-2 amd64 [installed,automatic]
 libxkbcommon-dev/unknown 1.3.1-1 amd64
 libxkbcommon-doc/unknown 1.3.1-1 all
 libxkbcommon-tools-dbgsym/unknown 1.3.1-1 amd64
 libxkbcommon-tools/unknown 1.3.1-1 amd64
 libxkbcommon-x11-0-dbgsym/unknown 1.3.1-1 amd64
-libxkbcommon-x11-0/unknown 1.3.1-1 amd64
+libxkbcommon-x11-0/unknown,now 1.3.1-1 amd64 [installed,automatic]
 libxkbcommon-x11-dev/unknown 1.3.1-1 amd64
 libxkbcommon0-dbgsym/unknown 1.3.1-1 amd64
-libxkbcommon0/unknown 1.3.1-1 amd64
+libxkbcommon0/unknown,now 1.3.1-1 amd64 [installed,automatic]
 libxkbfile-dev/unknown 1:1.1.0-1 amd64
 libxkbfile1-dbgsym/unknown 1:1.1.0-1 amd64
 libxkbfile1/unknown 1:1.1.0-1 amd64
@@ -21207,7 +21207,7 @@ libxml2-dev/unknown 2.9.12.1-deepin amd64
 libxml2-doc/unknown 2.9.12.1-deepin all
 libxml2-utils-dbgsym/unknown 2.9.12.1-deepin amd64
 libxml2-utils/unknown 2.9.12.1-deepin amd64
-libxml2/unknown 2.9.12.1-deepin amd64
+libxml2/unknown,now 2.9.12.1-deepin amd64 [installed,automatic]
 libxmlb-dev-dbgsym/unknown 0.3.2-1 amd64
 libxmlb-dev/unknown 0.3.2-1 amd64
 libxmlb-tests-dbgsym/unknown 0.3.2-1 amd64
@@ -21260,7 +21260,7 @@ libxmu6-dbg/unknown 2:1.1.2-deepin1 amd64
 libxmu6/unknown 2:1.1.2-deepin1 amd64
 libxmuu-dev/unknown 2:1.1.2-deepin1 amd64
 libxmuu1-dbg/unknown 2:1.1.2-deepin1 amd64
-libxmuu1/unknown 2:1.1.2-deepin1 amd64
+libxmuu1/unknown,now 2:1.1.2-deepin1 amd64 [installed,automatic]
 libxnvctrl-dev/unknown 470.82.00-2 amd64
 libxnvctrl0-dbgsym/unknown 470.82.00-2 amd64
 libxnvctrl0/unknown 470.82.00-2 amd64
@@ -21268,7 +21268,7 @@ libxom-java-doc/unknown 1.2.10-2 all
 libxom-java/unknown 1.2.10-2 all
 libxpm-dev/unknown 1:3.5.12-1 amd64
 libxpm4-dbgsym/unknown 1:3.5.12-1 amd64
-libxpm4/unknown 1:3.5.12-1 amd64
+libxpm4/unknown,now 1:3.5.12-1 amd64 [installed,automatic]
 libxpp2-java/unknown 2.1.10-8 all
 libxpp3-java/unknown 1.1.4c-3 all
 libxpresent-dev/unknown 1.0.0-deepin1 amd64
@@ -21279,10 +21279,10 @@ libxqdbm3c2-dbgsym/unknown 1.8.78-deepin1 amd64
 libxqdbm3c2/unknown 1.8.78-deepin1 amd64
 libxrandr-dev/unknown 2:1.5.2-1 amd64
 libxrandr2-dbgsym/unknown 2:1.5.2-1 amd64
-libxrandr2/unknown 2:1.5.2-1 amd64
+libxrandr2/unknown,now 2:1.5.2-1 amd64 [installed,automatic]
 libxrender-dev/unknown 1:0.9.10-1 amd64
 libxrender1-dbgsym/unknown 1:0.9.10-1 amd64
-libxrender1/unknown 1:0.9.10-1 amd64
+libxrender1/unknown,now 1:0.9.10-1 amd64 [installed,automatic]
 libxres-dev/unknown 2:1.2.0-4 amd64
 libxres1/unknown 2:1.2.0-4 amd64
 libxs-parse-keyword-perl-dbgsym/unknown 0.21-1 amd64
@@ -21291,7 +21291,7 @@ libxs-parse-sublike-perl-dbgsym/unknown 0.14-1 amd64
 libxs-parse-sublike-perl/unknown 0.14-1 amd64
 libxshmfence-dev/unknown 1.3-1 amd64
 libxshmfence1-dbgsym/unknown 1.3-1 amd64
-libxshmfence1/unknown 1.3-1 amd64
+libxshmfence1/unknown,now 1.3-1 amd64 [installed,automatic]
 libxslt1-dev/unknown 1.1.34-4 amd64
 libxslt1.1-dbgsym/unknown 1.1.34-4 amd64
 libxslt1.1/unknown 1.1.34-4 amd64
@@ -21315,7 +21315,7 @@ libxtables12/unknown 1.8.7-1 amd64
 libxtst-dev/unknown 2:1.2.3-1 amd64
 libxtst-doc/unknown 2:1.2.3-1 all
 libxtst6-dbgsym/unknown 2:1.2.3-1 amd64
-libxtst6/unknown 2:1.2.3-1 amd64
+libxtst6/unknown,now 2:1.2.3-1 amd64 [installed,automatic]
 libxv-dev/unknown 2:1.0.11-1 amd64
 libxv1-dbgsym/unknown 2:1.0.11-1 amd64
 libxv1/unknown 2:1.0.11-1 amd64
@@ -21330,7 +21330,7 @@ libxxf86dga1-dbg/unknown 2:1.1.4-deepin1 amd64
 libxxf86dga1/unknown 2:1.1.4-deepin1 amd64
 libxxf86vm-dev/unknown 1:1.1.4-deepin1 amd64
 libxxf86vm1-dbg/unknown 1:1.1.4-deepin1 amd64
-libxxf86vm1/unknown 1:1.1.4-deepin1 amd64
+libxxf86vm1/unknown,now 1:1.1.4-deepin1 amd64 [installed,automatic]
 libxxhash-dev/unknown 0.8.0-2 amd64
 libxxhash0-dbgsym/unknown 0.8.0-2 amd64
 libxxhash0/unknown,now 0.8.0-2 amd64 [installed]
@@ -21346,7 +21346,7 @@ libyaml-0-2/unknown 0.2.2-1 amd64
 libyaml-cpp-dev/unknown 0.7.0+dfsg-8 amd64
 libyaml-cpp0.6/unknown 0.6.3-10 amd64
 libyaml-cpp0.7-dbgsym/unknown 0.7.0+dfsg-8 amd64
-libyaml-cpp0.7/unknown 0.7.0+dfsg-8 amd64
+libyaml-cpp0.7/unknown,now 0.7.0+dfsg-8 amd64 [installed,automatic]
 libyaml-dev/unknown 0.2.2-1 amd64
 libyaml-doc/unknown 0.2.2-1 all
 libyaml-libyaml-perl-dbgsym/unknown 0.83+ds-1 amd64
@@ -21371,7 +21371,7 @@ libyuv0/unknown 0.0~git20220427.de71c67-1+u001 amd64
 libz-mingw-w64-dev/unknown 1.2.11+dfsg-3 all
 libz-mingw-w64/unknown 1.2.11+dfsg-3 all
 libz3-4-dbgsym/unknown 4.8.12-deepin1 amd64
-libz3-4/unknown 4.8.12-deepin1 amd64
+libz3-4/unknown,now 4.8.12-deepin1 amd64 [installed,automatic]
 libz3-dev/unknown 4.8.12-deepin1 amd64
 libz3-java/unknown 4.8.12-deepin1 amd64
 libz3-jni-dbgsym/unknown 4.8.12-deepin1 amd64
@@ -21508,19 +21508,19 @@ lilo/unknown 1:24.2-5.1 amd64
 lilv-utils-dbgsym/unknown 0.24.12-2 amd64
 lilv-utils/unknown 0.24.12-2 amd64
 linglong-bin-dbgsym/unknown 1.3.13-1 amd64
-linglong-bin/unknown 1.3.13-1 amd64
+linglong-bin/unknown,now 1.3.13-1 amd64 [installed]
 linglong-box-dbgsym/unknown,unknown 1.3.3.12-1 amd64
-linglong-box/unknown,unknown 1.3.3.12-1 amd64
+linglong-box/unknown,unknown,now 1.3.3.12-1 amd64 [installed,automatic]
 linglong-builder-dbgsym/unknown 1.3.13-1 amd64
-linglong-builder/unknown 1.3.13-1 amd64
+linglong-builder/unknown,now 1.3.13-1 amd64 [installed]
 linglong-dbus-proxy-dbgsym/unknown,unknown 1.3.3.7-1 amd64
-linglong-dbus-proxy/unknown,unknown 1.3.3.7-1 amd64
+linglong-dbus-proxy/unknown,unknown,now 1.3.3.7-1 amd64 [installed,automatic]
 linglong-fuse-proxy-dbgsym/unknown,unknown 1.0-1 amd64
 linglong-fuse-proxy/unknown,unknown 1.0-1 amd64
 linglong-installer-dbgsym/unknown,unknown 1.3.3.6-1 amd64
 linglong-installer/unknown,unknown 1.3.3.6-1 amd64
 linglong-loader-dbgsym/unknown,unknown 1.3.3.7-1 amd64
-linglong-loader/unknown,unknown 1.3.3.7-1 amd64
+linglong-loader/unknown,unknown,now 1.3.3.7-1 amd64 [installed,automatic]
 lingot-dbgsym/unknown 1.1.1-4 amd64
 lingot/unknown 1.1.1-4 amd64
 linguist-qt6-dbgsym/unknown 6.4.2-3deepin amd64
@@ -21594,7 +21594,7 @@ linux-libc-dev-s390x-cross/unknown 5.10.46-4cross4 all
 linux-libc-dev-sh4-cross/unknown 5.10.46-4cross4 all
 linux-libc-dev-sparc64-cross/unknown 5.10.46-4cross4 all
 linux-libc-dev-x32-cross/unknown 5.10.46-4cross4 all
-linux-libc-dev/unknown 23.01.00.20 amd64
+linux-libc-dev/unknown,now 23.01.00.20 amd64 [installed,automatic]
 linuxdoc-tools-info/unknown 0.9.82-1 all
 linuxdoc-tools-latex/unknown 0.9.82-1 all
 linuxdoc-tools-text/unknown 0.9.82-1 all
@@ -21993,7 +21993,7 @@ mailutils/unknown 1:3.15-2 amd64
 make-dbgsym/unknown 4.3-4.1 amd64
 make-guile-dbgsym/unknown 4.3-4.1 amd64
 make-guile/unknown 4.3-4.1 amd64
-make/unknown 4.3-4.1 amd64
+make/unknown,now 4.3-4.1 amd64 [installed,automatic]
 makedev/unknown 2.3.1-94.1 all
 makedic-dbgsym/unknown 6.5deb2-13 amd64
 makedic/unknown 6.5deb2-13 amd64
@@ -22026,7 +22026,7 @@ manpages-cs/unknown 4.11.0-2 all
 manpages-da/unknown 4.11.0-2 all
 manpages-de-dev/unknown 4.11.0-2 all
 manpages-de/unknown 4.11.0-2 all
-manpages-dev/unknown 5.10-1 all
+manpages-dev/unknown,now 5.10-1 all [installed,automatic]
 manpages-es-dev/unknown 4.11.0-2 all
 manpages-es/unknown 4.11.0-2 all
 manpages-fr-dev/unknown 4.11.0-2 all
@@ -22043,7 +22043,7 @@ manpages-pl/unknown 1:4.11.0-2 all
 manpages-pt-br/unknown 4.11.0-2 all
 manpages-ro/unknown 4.11.0-2 all
 manpages-tr/unknown 1.0.5.1-3+rb1 all
-manpages/unknown 5.10-1 all
+manpages/unknown,now 5.10-1 all [installed,automatic]
 mapcache-cgi-dbgsym/unknown 1.12.1-1 amd64
 mapcache-cgi/unknown 1.12.1-1 amd64
 mapcache-tools-dbgsym/unknown 1.12.1-1 amd64
@@ -22188,7 +22188,7 @@ mecab-utils-dbgsym/unknown 0.996-deepin1 amd64
 mecab-utils/unknown 0.996-deepin1 amd64
 mecab/unknown 0.996-deepin1 amd64
 media-player-info/unknown 24-2 all
-media-types/unknown 4.0.0 all
+media-types/unknown,now 4.0.0 all [installed,automatic]
 mediainfo-dbgsym/unknown 22.06-1 amd64
 mediainfo-gui-dbgsym/unknown 22.06-1 amd64
 mediainfo-gui/unknown 22.06-1 amd64
@@ -22222,7 +22222,7 @@ mesa-va-drivers/unknown 23.1.2-1deepin1 amd64
 mesa-vdpau-drivers-dbgsym/unknown 23.1.2-1deepin1 amd64
 mesa-vdpau-drivers/unknown 23.1.2-1deepin1 amd64
 mesa-vulkan-drivers-dbgsym/unknown 23.1.2-1deepin1 amd64
-mesa-vulkan-drivers/unknown 23.1.2-1deepin1 amd64
+mesa-vulkan-drivers/unknown,now 23.1.2-1deepin1 amd64 [installed,automatic]
 meson/unknown 1.1.1-1 all
 metacity-common/unknown 1:3.42.0-1 all
 metacity-dbgsym/unknown 1:3.42.0-1 amd64
@@ -22643,7 +22643,7 @@ neovim-runtime/unknown 0.7.2-3 all
 neovim/unknown 0.7.2-3 amd64
 net-tools-dbgsym/unknown 1.60+git20181103.0eebece-1 amd64
 net-tools/unknown 1.60+git20181103.0eebece-1 amd64
-netbase/unknown 6.3 all
+netbase/unknown,now 6.3 all [installed,automatic]
 netcat-openbsd-dbgsym/unknown 1.218-5 amd64
 netcat-openbsd/unknown 1.218-5 amd64
 netcat-traditional-dbgsym/unknown 1.10-47 amd64
@@ -24057,7 +24057,7 @@ opensp/unknown 1.5.2-deepin1 amd64
 openssh-client-dbgsym/unknown 1:9.0p1-2 amd64
 openssh-client-ssh1-dbgsym/unknown 1:7.5p1-13 amd64
 openssh-client-ssh1/unknown 1:7.5p1-13 amd64
-openssh-client/unknown 1:9.0p1-2 amd64
+openssh-client/unknown,now 1:9.0p1-2 amd64 [installed,automatic]
 openssh-known-hosts/unknown 0.6.2-1.1 all
 openssh-server-dbgsym/unknown 1:9.0p1-2 amd64
 openssh-server/unknown 1:9.0p1-2 amd64
@@ -24126,7 +24126,7 @@ ostree-dbgsym/unknown 2022.4.1-1+dde amd64
 ostree-push/unknown 0.20170708+gitabc601f-2 all
 ostree-tests-dbgsym/unknown 2022.4.1-1+dde amd64
 ostree-tests/unknown 2022.4.1-1+dde amd64
-ostree/unknown 2022.4.1-1+dde amd64
+ostree/unknown,now 2022.4.1-1+dde amd64 [installed,automatic]
 otf2bdf-dbgsym/unknown 3.1-4.1 amd64
 otf2bdf/unknown 3.1-4.1 amd64
 ots-dbgsym/unknown 0.5.0-6 amd64
@@ -24196,7 +24196,7 @@ passwd-dbgsym/unknown 1:4.11.1-deepin+rb2 amd64
 passwd/unknown,now 1:4.11.1-deepin+rb2 amd64 [installed]
 pastebinit/unknown 1.5.1-1 all
 patch-dbgsym/unknown 2.7.6-7 amd64
-patch/unknown 2.7.6-7 amd64
+patch/unknown,now 2.7.6-7 amd64 [installed,automatic]
 patchelf/unknown 0.12-1 amd64
 patchutils-dbgsym/unknown 0.4.2-1 amd64
 patchutils/unknown 0.4.2-1 amd64
@@ -24250,11 +24250,11 @@ perl-byacc/unknown 2.0-8 amd64
 perl-debug/unknown 5.32.1-7 amd64
 perl-doc/unknown 5.32.1-7 all
 perl-modules-5.30/unknown 5.30.3-4 all
-perl-modules-5.32/unknown 5.32.1-7 all
+perl-modules-5.32/unknown,now 5.32.1-7 all [installed,automatic]
 perl-openssl-defaults/unknown 5 amd64
 perl-tk-dbgsym/unknown 1:804.035-0.1-deepin1 amd64
 perl-tk/unknown 1:804.035-0.1-deepin1 amd64
-perl/unknown 5.32.1-7 amd64
+perl/unknown,now 5.32.1-7 amd64 [installed,automatic]
 perlmagick/unknown 8:6.9.11.60+dfsg-1.3 all
 perlprimer-doc/unknown 1.2.4-2 all
 perlprimer/unknown 1.2.4-2 all
@@ -24494,7 +24494,7 @@ pitivi/unknown 2020.09.2-3 amd64
 pkexec-dbgsym/unknown 0.105.11.2-1+dde amd64
 pkexec/unknown 0.105.11.2-1+dde amd64
 pkg-config-dbgsym/unknown 0.29.2-1 amd64
-pkg-config/unknown 0.29.2-1 amd64
+pkg-config/unknown,now 0.29.2-1 amd64 [installed,automatic]
 pkg-js-autopkgtest/unknown 0.9.81 all
 pkg-js-tools/unknown 0.9.81 all
 pkg-kde-tools/unknown 0.15.38+rb1 all
@@ -24594,7 +24594,7 @@ polkitd/unknown 0.105.11.2-1+dde amd64
 pollinate/unknown 4.33-3 all
 poppassd-dbgsym/unknown 1.8.5-7 amd64
 poppassd/unknown 1.8.5-7 amd64
-poppler-data/unknown 0.4.11-1 all
+poppler-data/unknown,now 0.4.11-1 all [installed,automatic]
 poppler-utils-dbgsym/unknown 22.02.0-3 amd64
 poppler-utils/unknown 22.02.0-3 amd64
 popularity-contest/unknown 1.73 all
@@ -24778,7 +24778,7 @@ ptscotch-dbgsym/unknown 6.1.1-2 amd64
 ptscotch/unknown 6.1.1-2 amd64
 ptunnel-dbgsym/unknown 0.72-3 amd64
 ptunnel/unknown 0.72-3 amd64
-publicsuffix/unknown 20211109.1735-1 all
+publicsuffix/unknown,now 20211109.1735-1 all [installed,automatic]
 pugixml-doc/unknown 1.12.1-1 all
 pulseaudio-dbgsym/unknown 15.0.3-5deepin9+rb2 amd64
 pulseaudio-equalizer-dbgsym/unknown 15.0.3-5deepin9+rb2 amd64
@@ -25374,7 +25374,7 @@ python3-distributed/unknown 2021.09.1+ds.1-2 all
 python3-distro-info/unknown 1.1 all
 python3-distro/unknown 1.6.0-2 all
 python3-distutils-extra/unknown 2.45 all
-python3-distutils/unknown 3.9.12-1 all
+python3-distutils/unknown,now 3.9.12-1 all [installed,automatic]
 python3-dj-static/unknown 0.0.6-6 all
 python3-django-appconf/unknown 1.0.3-1 all
 python3-django-contact-form/unknown 2.0.1-1 all
@@ -25624,7 +25624,7 @@ python3-ldns/unknown 1.8.3-1+rb1 amd64
 python3-lensfun/unknown 0.3.2-6 amd64
 python3-levenshtein-dbgsym/unknown 0.12.2-2 amd64
 python3-levenshtein/unknown 0.12.2-2 amd64
-python3-lib2to3/unknown 3.9.12-1 all
+python3-lib2to3/unknown,now 3.9.12-1 all [installed,automatic]
 python3-libapparmor-dbgsym/unknown 3.0.4-3 amd64
 python3-libapparmor/unknown 3.0.4-3 amd64
 python3-libevdev/unknown 0.5-3 all
@@ -25691,7 +25691,7 @@ python3-memcache/unknown 1.59-5 all
 python3-memory-profiler/unknown 0.52-2 all
 python3-metaconfig/unknown 0.1.4a1-7 all
 python3-mimeparse/unknown 1.6.0-3 all
-python3-minimal/unknown 3.10.4-1 amd64
+python3-minimal/unknown,now 3.10.4-1 amd64 [installed,automatic]
 python3-miniupnpc-dbgsym/unknown 2.2.3-1 amd64
 python3-miniupnpc/unknown 2.2.3-1 amd64
 python3-mir-perf-framework/unknown 1.8.0+dfsg1-deepin1 all
@@ -26420,10 +26420,10 @@ python3.10-dev/unknown 3.10.5-2deepin amd64
 python3.10-doc/unknown 3.10.5-2deepin all
 python3.10-examples/unknown 3.10.5-2deepin all
 python3.10-full/unknown 3.10.5-2deepin amd64
-python3.10-minimal/unknown 3.10.5-2deepin amd64
+python3.10-minimal/unknown,now 3.10.5-2deepin amd64 [installed,automatic]
 python3.10-nopie/unknown 3.10.5-2deepin amd64
 python3.10-venv/unknown 3.10.5-2deepin amd64
-python3.10/unknown 3.10.5-2deepin amd64
+python3.10/unknown,now 3.10.5-2deepin amd64 [installed,automatic]
 python3.11-dbg/unknown 3.11.0~b3-2 amd64
 python3.11-dev/unknown 3.11.0~b3-2 amd64
 python3.11-doc/unknown 3.11.0~b3-2 all
@@ -26441,7 +26441,7 @@ python3.9-full/unknown 3.9.9-1 amd64
 python3.9-minimal/unknown 3.9.9-1 amd64
 python3.9-venv/unknown 3.9.9-1 amd64
 python3.9/unknown 3.9.9-1 amd64
-python3/unknown 3.10.4-1 amd64
+python3/unknown,now 3.10.4-1 amd64 [installed,automatic]
 pytidylib-doc/unknown 0.3.2~dfsg-7 all
 pyxplot-dbgsym/unknown 0.9.2-12 amd64
 pyxplot-doc/unknown 0.9.2-12 all
@@ -26850,19 +26850,19 @@ qt3d5-examples-dbgsym/unknown 5.15.7-1+dde amd64
 qt3d5-examples/unknown 5.15.7-1+dde amd64
 qt5-assistant-dbgsym/unknown 5.15.7-1+dde amd64
 qt5-assistant/unknown 5.15.7-1+dde amd64
-qt5-default/unknown 5.15.7.2-1+dde amd64
+qt5-default/unknown,now 5.15.7.2-1+dde amd64 [installed]
 qt5-doc-html/unknown 5.15.7-1+dde all
 qt5-doc/unknown 5.15.7-1+dde all
 qt5-flatpak-platformtheme/unknown 5.15.7.2-1+dde amd64
 qt5-gtk-platformtheme-dbgsym/unknown 5.15.7.2-1+dde amd64
-qt5-gtk-platformtheme/unknown 5.15.7.2-1+dde amd64
+qt5-gtk-platformtheme/unknown,now 5.15.7.2-1+dde amd64 [installed,automatic]
 qt5-image-formats-plugin-pdf-dbgsym/unknown 5.15.7.1-1+dde amd64
 qt5-image-formats-plugin-pdf/unknown 5.15.7.1-1+dde amd64
 qt5-image-formats-plugins-dbgsym/unknown 5.15.7-1+dde amd64
 qt5-image-formats-plugins/unknown 5.15.7-1+dde amd64
 qt5-qmake-bin-dbgsym/unknown 5.15.7.2-1+dde amd64
-qt5-qmake-bin/unknown 5.15.7.2-1+dde amd64
-qt5-qmake/unknown 5.15.7.2-1+dde amd64
+qt5-qmake-bin/unknown,now 5.15.7.2-1+dde amd64 [installed,automatic]
+qt5-qmake/unknown,now 5.15.7.2-1+dde amd64 [installed]
 qt5-qmltooling-plugins-dbgsym/unknown 5.15.7.1-1+dde amd64
 qt5-qmltooling-plugins/unknown 5.15.7.1-1+dde amd64
 qt5-quick-demos-dbgsym/unknown 5.15.7-1+dde amd64
@@ -27067,8 +27067,8 @@ qt6-xdgdesktopportal-platformtheme/unknown 6.4.2+dfsg-17deepin amd64
 qtattributionsscanner-qt5-dbgsym/unknown 5.15.7-1+dde amd64
 qtattributionsscanner-qt5/unknown 5.15.7-1+dde amd64
 qtbase5-dev-tools-dbgsym/unknown 5.15.7.2-1+dde amd64
-qtbase5-dev-tools/unknown 5.15.7.2-1+dde amd64
-qtbase5-dev/unknown 5.15.7.2-1+dde amd64
+qtbase5-dev-tools/unknown,now 5.15.7.2-1+dde amd64 [installed,automatic]
+qtbase5-dev/unknown,now 5.15.7.2-1+dde amd64 [installed,automatic]
 qtbase5-doc-dev/unknown 5.15.7.2-1+dde all
 qtbase5-doc-html/unknown 5.15.7.2-1+dde all
 qtbase5-doc/unknown 5.15.7.2-1+dde all
@@ -27082,7 +27082,7 @@ qtcharts5-doc/unknown 5.15.7-1+dde all
 qtcharts5-examples-dbgsym/unknown 5.15.7-1+dde amd64
 qtcharts5-examples/unknown 5.15.7-1+dde amd64
 qtchooser-dbgsym/unknown 66-2 amd64
-qtchooser/unknown 66-2 amd64
+qtchooser/unknown,now 66-2 amd64 [installed,automatic]
 qtconnectivity5-dev/unknown 5.15.7-1+dde amd64
 qtconnectivity5-doc-html/unknown 5.15.7-1+dde all
 qtconnectivity5-doc/unknown 5.15.7-1+dde all
@@ -27127,7 +27127,7 @@ qtlocation5-doc-html/unknown 5.15.7-1+dde all
 qtlocation5-doc/unknown 5.15.7-1+dde all
 qtlocation5-examples-dbgsym/unknown 5.15.7-1+dde amd64
 qtlocation5-examples/unknown 5.15.7-1+dde amd64
-qtmultimedia5-dev/unknown 5.15.7-1+dde amd64
+qtmultimedia5-dev/unknown,now 5.15.7-1+dde amd64 [installed]
 qtmultimedia5-doc-html/unknown 5.15.7-1+dde all
 qtmultimedia5-doc/unknown 5.15.7-1+dde all
 qtmultimedia5-examples-dbgsym/unknown 5.15.7-1+dde amd64
@@ -27200,7 +27200,7 @@ qttools5-doc/unknown 5.15.7-1+dde all
 qttools5-examples-dbgsym/unknown 5.15.7-1+dde amd64
 qttools5-examples/unknown 5.15.7-1+dde amd64
 qttools5-private-dev/unknown 5.15.7-1+dde amd64
-qttranslations5-l10n/unknown 5.15.7-1+dde all
+qttranslations5-l10n/unknown,now 5.15.7-1+dde all [installed,automatic]
 qtvirtualkeyboard-plugin-dbgsym/unknown 5.15.7-1+dde amd64
 qtvirtualkeyboard-plugin/unknown 5.15.7-1+dde amd64
 qtvirtualkeyboard5-doc-html/unknown 5.15.7-1+dde all
@@ -27682,7 +27682,7 @@ rover/unknown 0.76.1 all
 rpcbind-dbgsym/unknown 1.2.6-2 amd64
 rpcbind/unknown 1.2.6-2 amd64
 rpcsvc-proto-dbgsym/unknown 1.4.2-4 amd64
-rpcsvc-proto/unknown 1.4.2-4 amd64
+rpcsvc-proto/unknown,now 1.4.2-4 amd64 [installed,automatic]
 rrdcached-dbgsym/unknown 1.7.2-4 amd64
 rrdcached/unknown 1.7.2-4 amd64
 rrdtool-dbgsym/unknown 1.7.2-4 amd64
@@ -28490,7 +28490,7 @@ sgmlspl/unknown 1.03ii-36 all
 shapelib-dbgsym/unknown 1.5.0-2 amd64
 shapelib/unknown 1.5.0-2 amd64
 shared-mime-info-dbgsym/unknown 2.2-1 amd64
-shared-mime-info/unknown 2.2-1 amd64
+shared-mime-info/unknown,now 2.2-1 amd64 [installed,automatic]
 sharutils-dbgsym/unknown 1:4.15.2-5 amd64
 sharutils-doc/unknown 1:4.15.2-5 all
 sharutils/unknown 1:4.15.2-5 amd64
@@ -28922,12 +28922,12 @@ systemd-standalone-sysusers-dbgsym/unknown 250.4.2-deepin2+rb2 amd64
 systemd-standalone-sysusers/unknown 250.4.2-deepin2+rb2 amd64
 systemd-standalone-tmpfiles-dbgsym/unknown 250.4.2-deepin2+rb2 amd64
 systemd-standalone-tmpfiles/unknown 250.4.2-deepin2+rb2 amd64
-systemd-sysv/unknown 250.4.2-deepin2+rb2 amd64
+systemd-sysv/unknown,now 250.4.2-deepin2+rb2 amd64 [installed,automatic]
 systemd-tests-dbgsym/unknown 250.4.2-deepin2+rb2 amd64
 systemd-tests/unknown 250.4.2-deepin2+rb2 amd64
 systemd-timesyncd-dbgsym/unknown 250.4.2-deepin2+rb2 amd64
-systemd-timesyncd/unknown 250.4.2-deepin2+rb2 amd64
-systemd/unknown 250.4.2-deepin2+rb2 amd64
+systemd-timesyncd/unknown,now 250.4.2-deepin2+rb2 amd64 [installed,automatic]
+systemd/unknown,now 250.4.2-deepin2+rb2 amd64 [installed,automatic]
 systemtap-client/unknown 4.5.1-1+dde amd64
 systemtap-common/unknown 4.5.1-1+dde amd64
 systemtap-dbgsym/unknown 4.5.1-1+dde amd64
@@ -29759,7 +29759,7 @@ ucarp-dbgsym/unknown 1.5.2-3 amd64
 ucarp/unknown 1.5.2-3 amd64
 ucblogo-dbgsym/unknown 6.2.2-2 amd64
 ucblogo/unknown 6.2.2-2 amd64
-ucf/unknown 3.0043 all
+ucf/unknown,now 3.0043 all [installed,automatic]
 uchardet-dbgsym/unknown 0.0.7-1 amd64
 uchardet/unknown 0.0.7-1 amd64
 uci2wb-dbgsym/unknown 4.1+git200714-1 amd64
@@ -29924,7 +29924,7 @@ util-linux-locales/unknown 2.38-5+rb8 all
 util-linux/unknown,now 2.38-5+rb8 amd64 [installed]
 uucp-dbgsym/unknown 1.07-27 amd64
 uucp/unknown 1.07-27 amd64
-uuid-dev/unknown 2.38-5+rb8 amd64
+uuid-dev/unknown,now 2.38-5+rb8 amd64 [installed,automatic]
 uuid-runtime-dbgsym/unknown 2.38-5+rb8 amd64
 uuid-runtime/unknown 2.38-5+rb8 amd64
 uuid/unknown 1.6.2-1.5+b9 amd64
@@ -30283,7 +30283,7 @@ wx3.2-i18n/unknown 3.2.2+dfsg-2 all
 wxsqlite3-doc/unknown 3.4.1~dfsg-5 all
 x11-apps-dbgsym/unknown 7.7+8 amd64
 x11-apps/unknown 7.7+8 amd64
-x11-common/unknown 1:7.7+23-deepin1 all
+x11-common/unknown,now 1:7.7+23-deepin1 all [installed,automatic]
 x11-session-utils-dbgsym/unknown 7.7+4 amd64
 x11-session-utils/unknown 7.7+4 amd64
 x11-utils-dbgsym/unknown 7.7+5 amd64
@@ -30293,7 +30293,7 @@ x11-xkb-utils/unknown 7.7+5 amd64
 x11-xserver-utils-dbgsym/unknown 7.7+9 amd64
 x11-xserver-utils/unknown 7.7+9 amd64
 x11proto-core-dev/unknown 2021.5-1 all
-x11proto-dev/unknown 2021.5-1 all
+x11proto-dev/unknown,now 2021.5-1 all [installed,automatic]
 x11proto-dri2-dev/unknown 2021.5-1 all
 x11proto-fonts-dev/unknown 2021.5-1 all
 x11proto-gl-dev/unknown 2021.5-1 all
@@ -30329,7 +30329,7 @@ xapps-doc/unknown 2.2.4-1 all
 xarchiver/unknown 1:0.5.4.17-3 amd64
 xattr/unknown 0.9.7-1 amd64
 xauth-dbgsym/unknown 1:1.1-1 amd64
-xauth/unknown 1:1.1-1 amd64
+xauth/unknown,now 1:1.1-1 amd64 [installed,automatic]
 xaw3dg-dbgsym/unknown 1.5+F-2 amd64
 xaw3dg-dev/unknown 1.5+F-2 amd64
 xaw3dg/unknown 1.5+F-2 amd64
@@ -30366,7 +30366,7 @@ xdg-desktop-portal-tests/unknown 1.10.1-4 amd64
 xdg-desktop-portal/unknown 1.10.1-4 amd64
 xdg-user-dirs-dbgsym/unknown 0.17-2 amd64
 xdg-user-dirs-gtk/unknown 0.10-3 amd64
-xdg-user-dirs/unknown 0.17-2 amd64
+xdg-user-dirs/unknown,now 0.17-2 amd64 [installed,automatic]
 xdg-utils/unknown 1.1.3-4.1 all
 xdmx-dbgsym/unknown 2:1.20.11-1 amd64
 xdmx-tools-dbgsym/unknown 2:1.20.11-1 amd64
@@ -30451,7 +30451,7 @@ xinit-dbgsym/unknown 1.4.0-1 amd64
 xinit/unknown 1.4.0-1 amd64
 xinput-dbgsym/unknown 1.6.3-1 amd64
 xinput/unknown 1.6.3-1 amd64
-xkb-data/unknown 2.33-1deepin2 all
+xkb-data/unknown,now 2.33-1deepin2 all [installed,automatic]
 xkbset/unknown 0.6-1 amd64
 xkcdpass/unknown 1.19.3+dfsg1-2 all
 xkeycaps-dbgsym/unknown 2.47-7 amd64
@@ -30588,7 +30588,7 @@ xorg-dev/unknown 1:7.7+23-deepin1 all
 xorg-docs-core/unknown 1:1.7.1-1.2 all
 xorg-docs/unknown 1:1.7.1-1.2 all
 xorg-server-source/unknown 2:21.1.7-2deepin1 all
-xorg-sgml-doctools/unknown 1:1.11-1.1 all
+xorg-sgml-doctools/unknown,now 1:1.11-1.1 all [installed,automatic]
 xorg/unknown 1:7.7+23-deepin1 amd64
 xorgxrdp-dbgsym/unknown 1:0.9.19-1 amd64
 xorgxrdp/unknown 1:0.9.19-1 amd64
@@ -30697,7 +30697,7 @@ xssproxy/unknown 1.0.0-1 amd64
 xterm-dbgsym/unknown 369-1 amd64
 xterm/unknown 369-1 amd64
 xtl-dev/unknown 0.7.2-2 all
-xtrans-dev/unknown 1.4.0-1 all
+xtrans-dev/unknown,now 1.4.0-1 all [installed,automatic]
 xutils-dev-dbgsym/unknown 1:7.7.2-deepin1+rb3 amd64
 xutils-dev/unknown 1:7.7.2-deepin1+rb3 amd64
 xutils/unknown 1:7.7+23-deepin1 all
@@ -30714,7 +30714,7 @@ xxd/unknown 2:8.2.3565-2 amd64
 xxhash-dbgsym/unknown 0.8.0-2 amd64
 xxhash/unknown 0.8.0-2 amd64
 xz-utils-dbgsym/unknown 5.4.1-0.1+rb6 amd64
-xz-utils/unknown 5.4.1-0.1+rb6 amd64
+xz-utils/unknown,now 5.4.1-0.1+rb6 amd64 [installed,automatic]
 xzdec-dbgsym/unknown 5.4.1-0.1+rb6 amd64
 xzdec/unknown 5.4.1-0.1+rb6 amd64
 xzip-dbgsym/unknown 1:1.8.2-4 amd64
@@ -30833,7 +30833,7 @@ zita-resampler/unknown 1.8.0-2 amd64
 zktop/unknown 1.0.0-4 all
 zlib1g-dbg/unknown 1:1.2.12.4-1+dde amd64
 zlib1g-dbgsym/unknown 1:1.2.11.dfsg-2 amd64
-zlib1g-dev/unknown 1:1.2.12.4-1+dde amd64
+zlib1g-dev/unknown,now 1:1.2.12.4-1+dde amd64 [installed,automatic]
 zlib1g/unknown,now 1:1.2.12.4-1+dde amd64 [installed]
 zopfli-dbgsym/unknown 1.0.3-1 amd64
 zopfli/unknown 1.0.3-1 amd64

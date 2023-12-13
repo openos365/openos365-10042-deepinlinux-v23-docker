@@ -15,3 +15,8 @@ backup:x:34:34:backup:/var/backups:/usr/sbin/nologin
 list:x:38:38:Mailing List Manager:/var/list:/usr/sbin/nologin
 irc:x:39:39:ircd:/run/ircd:/usr/sbin/nologin
 nobody:x:65534:65534:nobody:/nonexistent:/usr/sbin/nologin
+_apt:x:100:65534::/nonexistent:/usr/sbin/nologin
+systemd-network:x:101:103:systemd Network Management,,,:/run/systemd:/usr/sbin/nologin
+systemd-resolve:x:102:104:systemd Resolver,,,:/run/systemd:/usr/sbin/nologin
+systemd-timesync:x:103:105:systemd Time Synchronization,,,:/run/systemd:/usr/sbin/nologin
+messagebus:x:104:106::/nonexistent:/usr/sbin/nologin
