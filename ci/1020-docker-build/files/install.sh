@@ -15,4 +15,28 @@ apt update -y
 
 apt install rsync -y
 
+apt install qt5-default -y
+
+apt install qt5-qmake -y
+
+apt install git -y 
+
+apt install linglong-bin -y
+
+apt install linglong-builder -y
+
+apt install -y qtmultimedia5-dev 
+apt install -y libqt5multimediawidgets5 
+apt install -y libqt5multimedia5-plugins 
+apt install -y libqt5multimedia5
+
+cd ~/
+
+git clone https://github.com/ukinoki/Rufus.git
+
+cd Rufus
+
+qmake
+
+make
 
