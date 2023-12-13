@@ -1,4 +1,3 @@
-/bin/sh
+/bin/dash
 /bin/bash
-/usr/bin/sh
-/usr/bin/bash
+/bin/rbash
