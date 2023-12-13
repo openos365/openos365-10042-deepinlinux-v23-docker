@@ -4,6 +4,13 @@ set -x
 export CMD_PATH=$(cd `dirname $0`; pwd)
 cd $CMD_PATH
 
+cd ubuntu2204
+sudo apt install ./*.deb
+
+cd $CMD_PATH
+
+
+
 export MY_USER=www
 
 docker build . -f Dockerfile \
