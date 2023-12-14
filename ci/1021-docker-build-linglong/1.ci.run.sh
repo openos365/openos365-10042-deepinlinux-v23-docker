@@ -8,6 +8,16 @@ cd ubuntu2204
 sudo apt install ./*.deb
 
 cd $CMD_PATH
+ostree -v --repo=$HOME/.cache/linglong-builder/repo init --mode=bare-user-only
+
+ostree -v --repo=$HOME/.cache/linglong-builder/repo remote add --no-gpg-verify repo https://mirror-repo-linglong.deepin.com/repos/repo
+
+ostree -v --repo=$HOME/.cache/linglong-builder/repo remote show-url repo
+
+# ostree -v --repo=$HOME/.cache/linglong-builder/repo remote delete repo
+
+ostree -v --repo=$HOME/.cache/linglong-builder/repo remote list
+
 cd org.deepin.demo
 ll-builder build
 
