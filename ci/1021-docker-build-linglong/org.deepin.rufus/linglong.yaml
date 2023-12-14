@@ -12,7 +12,7 @@ runtime:
 
 source:
   kind: git
-  url: "https://github.com/linuxdeepin365/Rufus.git"
+  url: "https://gitee.com/yixingxinxi/linglong-builder-demo.git"
   commit: aef51de5f2f66b24539e4a3d8348cb3a12cf8af3
 
 build:
