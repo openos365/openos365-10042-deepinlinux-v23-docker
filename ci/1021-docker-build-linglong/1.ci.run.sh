@@ -12,7 +12,7 @@ mkdir -p $HOME/.cache/linglong-builder/repo
 
 ostree -v --repo=$HOME/.cache/linglong-builder/repo remote delete repo
 
-ostree -v --repo=$HOME/.cache/linglong-builder/repo remote add --no-gpg-verify repo https://mirror-repo-linglong.deepin.com/repos/repo
+ostree -v --repo=$HOME/.cache/linglong-builder/repo remote add --no-gpg-verify repo http://192.168.124.4:9999
 
 ostree -v --repo=$HOME/.cache/linglong-builder/repo remote show-url repo
 
