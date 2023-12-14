@@ -42,3 +42,9 @@ qmake
 
 make
 
+
+mkdir -p /opt/apps/org.deepin.rufus/files/bin/
+mkidr -p /opt/apps/org.deepin.rufus/files/share/applications/
+
+mv ~/RufusApp /opt/apps/org.deepin.rufus/files/bin/rufus
+mv /rufus.desktop /opt/apps/org.deepin.rufus/files/share/applications/rufus.desktop
