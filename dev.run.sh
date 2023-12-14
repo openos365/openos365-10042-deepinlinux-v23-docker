@@ -11,6 +11,11 @@ export GITHUB_REF_NAME=deepinv23
 export GITHUB_RUN_NUMBER=1
 
 
+
+
+
+
+
  cd $CMD_PATH
     for ci_dir in `ls -d -1 ci/1* | sort`
     do
