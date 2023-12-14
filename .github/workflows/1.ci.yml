@@ -3,7 +3,7 @@ name: 1.ci
 on:
   push:
     branches:
-      - 'deepinv23'
+      - 'main'
   schedule:
     - cron: '0 */12 * * *'
   workflow_dispatch:
@@ -12,7 +12,6 @@ jobs:
   build:
     name: 1.ci
     runs-on: ubuntu-latest
-    # runs-on: self-hosted
     steps:
       - name: Install SSH Key
         uses: shimataro/ssh-key-action@v2
