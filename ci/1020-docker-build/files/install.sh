@@ -32,7 +32,9 @@ apt install -y linglong-bin
 apt install -y linglong-builder 
 
 
-cd ~/
+function build_src()
+{
+    cd ~/
 
 git clone https://github.com/linuxdeepin365/Rufus.git
 
@@ -48,3 +50,5 @@ mkidr -p /opt/apps/org.deepin.rufus/files/share/applications/
 
 mv ~/RufusApp /opt/apps/org.deepin.rufus/files/bin/rufus
 mv /rufus.desktop /opt/apps/org.deepin.rufus/files/share/applications/rufus.desktop
+}
+

@@ -8,6 +8,8 @@ cd ubuntu2204
 sudo apt install ./*.deb
 
 cd $CMD_PATH
+mkdir -p $HOME/.cache/linglong-builder/repo
+
 ostree -v --repo=$HOME/.cache/linglong-builder/repo init --mode=bare-user-only
 
 ostree -v --repo=$HOME/.cache/linglong-builder/repo remote add --no-gpg-verify repo https://mirror-repo-linglong.deepin.com/repos/repo
